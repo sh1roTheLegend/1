@@ -5662,152 +5662,152 @@ var ENTITIES = [{
         }
     }, {
         head: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-skin01.png",
+            src: "https://skins-api.vercel.app/img/day-skin01.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm01.png",
+            src: "https://skins-api.vercel.app/img/day-left-arm01.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm01.png",
+            src: "https://skins-api.vercel.app/img/day-right-arm01.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-skin02.png",
+            src: "https://skins-api.vercel.app/img/day-skin02.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm02.png",
+            src: "https://skins-api.vercel.app/img/day-left-arm02.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm02.png",
+            src: "https://skins-api.vercel.app/img/day-right-arm02.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-skin03.png",
+            src: "https://skins-api.vercel.app/img/day-skin03.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm03.png",
+            src: "https://skins-api.vercel.app/img/day-left-arm03.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm03.png",
+            src: "https://skins-api.vercel.app/img/day-right-arm03.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-skin04.png",
+            src: "https://skins-api.vercel.app/img/day-skin04.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm04.png",
+            src: "https://skins-api.vercel.app/img/day-left-arm04.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm04.png",
+            src: "https://skins-api.vercel.app/img/day-right-arm04.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-skin05.png",
+            src: "https://skins-api.vercel.app/img/day-skin05.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm05.png",
+            src: "https://skins-api.vercel.app/img/day-left-arm05.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm05.png",
+            src: "https://skins-api.vercel.app/img/day-right-arm05.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-skin06.png",
+            src: "https://skins-api.vercel.app/img/day-skin06.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm03.png",
+            src: "https://skins-api.vercel.app/img/day-left-arm03.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm03.png",
+            src: "https://skins-api.vercel.app/img/day-right-arm03.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-skin07.png",
+            src: "https://skins-api.vercel.app/img/day-skin07.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm07.png",
+            src: "https://skins-api.vercel.app/img/day-left-arm07.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm07.png",
+            src: "https://skins-api.vercel.app/img/day-right-arm07.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-skin08.png",
+            src: "https://skins-api.vercel.app/img/day-skin08.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm08.png",
+            src: "https://skins-api.vercel.app/img/day-left-arm08.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm08.png",
+            src: "https://skins-api.vercel.app/img/day-right-arm08.png",
             img: {
                 isLoaded: 0
             }
@@ -5824,7 +5824,7 @@ var ENTITIES = [{
             }
         },{
             head: {
-                src: "https://skins-api.vercel.app/https://devast.io/img/day-christmas-hat.png",
+                src: "https://skins-api.vercel.app/img/day-christmas-hat.png",
                 img: {
                     isLoaded: 0
                 }
@@ -5853,7 +5853,7 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-chapka-01.png",
+                    src: "https://skins-api.vercel.app/img/day-chapka-01.png",
                     img: {
                         isLoaded: 0
                     }
@@ -5894,7 +5894,7 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-coat-01.png",
+                    src: "https://skins-api.vercel.app/img/day-coat-01.png",
                     img: {
                         isLoaded: 0
                     }
@@ -5923,7 +5923,7 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-deer-hat.png",
+                    src: "https://skins-api.vercel.app/img/day-deer-hat.png",
                     img: {
                         isLoaded: 0
                     }
@@ -5984,7 +5984,7 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-metal-helmet-01.png",
+                    src: "https://skins-api.vercel.app/img/day-metal-helmet-01.png",
                     img: {
                         isLoaded: 0
                     }
@@ -6013,7 +6013,7 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-welding-helmet-01.png",
+                    src: "https://skins-api.vercel.app/img/day-welding-helmet-01.png",
                     img: {
                         isLoaded: 0
                     }
@@ -6098,7 +6098,7 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-kevlar-suit-01.png",
+                    src: "https://skins-api.vercel.app/img/day-kevlar-suit-01.png",
                     img: {
                         isLoaded: 0
                     }
@@ -6139,19 +6139,19 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-snowman-hat.png",
+                    src: "https://skins-api.vercel.app/img/day-snowman-hat.png",
                     img: {
                         isLoaded: 0
                     }
                 },
                 leftArm: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm-snowman-hat.png",
+                    src: "https://skins-api.vercel.app/img/day-left-arm-snowman-hat.png",
                     img: {
                         isLoaded: 0
                     }
                 },
                 rightArm: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm-snowman-hat.png",
+                    src: "https://skins-api.vercel.app/img/day-right-arm-snowman-hat.png",
                     img: {
                         isLoaded: 0
                     }
@@ -6224,38 +6224,38 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-tesla-armor-01.png",
+                    src: "https://skins-api.vercel.app/img/day-tesla-armor-01.png",
                     img: {
                         isLoaded: 0
                     }
                 },
                 leftArm: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm-tesla-armor-01.png",
+                    src: "https://skins-api.vercel.app/img/day-left-arm-tesla-armor-01.png",
                     img: {
                         isLoaded: 0
                     }
                 },
                 rightArm: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm-tesla-armor-01.png",
+                    src: "https://skins-api.vercel.app/img/day-right-arm-tesla-armor-01.png",
                     img: {
                         isLoaded: 0
                     }
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-elf-hat.png",
+                    src: "https://skins-api.vercel.app/img/day-elf-hat.png",
                     img: {
                         isLoaded: 0
                     }
                 },
                 leftArm: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-left-arm-elf-hat.png",
+                    src: "https://skins-api.vercel.app/img/day-left-arm-elf-hat.png",
                     img: {
                         isLoaded: 0
                     }
                 },
                 rightArm: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-right-arm-elf-hat.png",
+                    src: "https://skins-api.vercel.app/img/day-right-arm-elf-hat.png",
                     img: {
                         isLoaded: 0
                     }
@@ -6284,7 +6284,7 @@ var ENTITIES = [{
                 }
             },{
                 head: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-camouflage-gear-01.png",
+                    src: "https://skins-api.vercel.app/img/day-camouflage-gear-01.png",
                     img: {
                         isLoaded: 0
                     }
@@ -6972,7 +6972,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-shotgun-01.png",
+                    src: "https://skins-api.vercel.app/img/day-shotgun-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -6981,7 +6981,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-shotgun-02.png",
+                    src: "https://skins-api.vercel.app/img/day-shotgun-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -6990,7 +6990,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-shotgun-03.png",
+                    src: "https://skins-api.vercel.app/img/day-shotgun-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7059,7 +7059,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-9mm-01.png",
+                    src: "https://skins-api.vercel.app/img/day-9mm-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7068,7 +7068,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-9mm-02.png",
+                    src: "https://skins-api.vercel.app/img/day-9mm-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7077,7 +7077,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-9mm-03.png",
+                    src: "https://skins-api.vercel.app/img/day-9mm-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7146,7 +7146,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-desert-eagle-01.png",
+                    src: "https://skins-api.vercel.app/img/day-desert-eagle-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7155,7 +7155,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-desert-eagle-02.png",
+                    src: "https://skins-api.vercel.app/img/day-desert-eagle-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7164,7 +7164,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-desert-eagle-03.png",
+                    src: "https://skins-api.vercel.app/img/day-desert-eagle-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7233,7 +7233,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-AK47-01.png",
+                    src: "https://skins-api.vercel.app/img/day-AK47-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7242,7 +7242,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-AK47-02.png",
+                    src: "https://skins-api.vercel.app/img/day-AK47-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7251,7 +7251,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-AK47-03.png",
+                    src: "https://skins-api.vercel.app/img/day-AK47-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7320,7 +7320,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-sniper-01.png",
+                    src: "https://skins-api.vercel.app/img/day-sniper-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7329,7 +7329,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-sniper-02.png",
+                    src: "https://skins-api.vercel.app/img/day-sniper-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7338,7 +7338,7 @@ var ENTITIES = [{
                 },
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-sniper-03.png",
+                    src: "https://skins-api.vercel.app/img/day-sniper-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7715,7 +7715,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-MP5-01.png",
+                    src: "https://skins-api.vercel.app/img/day-MP5-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7724,7 +7724,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-MP5-02.png",
+                    src: "https://skins-api.vercel.app/img/day-MP5-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -7733,7 +7733,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-MP5-03.png",
+                    src: "https://skins-api.vercel.app/img/day-MP5-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8128,7 +8128,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-wood-crossbow-01.png",
+                    src: "https://skins-api.vercel.app/img/day-wood-crossbow-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8137,7 +8137,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-wood-crossbow-02.png",
+                    src: "https://skins-api.vercel.app/img/day-wood-crossbow-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8146,7 +8146,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-wood-crossbow-03.png",
+                    src: "https://skins-api.vercel.app/img/day-wood-crossbow-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8215,7 +8215,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-nail-gun-01.png",
+                    src: "https://skins-api.vercel.app/img/day-nail-gun-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8224,7 +8224,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-nail-gun-02.png",
+                    src: "https://skins-api.vercel.app/img/day-nail-gun-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8233,7 +8233,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-nail-gun-03.png",
+                    src: "https://skins-api.vercel.app/img/day-nail-gun-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8302,7 +8302,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-sawed-off-shotgun-01.png",
+                    src: "https://skins-api.vercel.app/img/day-sawed-off-shotgun-01.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8311,7 +8311,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-sawed-off-shotgun-02.png",
+                    src: "https://skins-api.vercel.app/img/day-sawed-off-shotgun-02.png",
                     img: {
                         isLoaded: 0
                     },
@@ -8320,7 +8320,7 @@ var ENTITIES = [{
                 }
             },{
                 weapon: {
-                    src: "https://skins-api.vercel.app/https://devast.io/img/day-sawed-off-shotgun-03.png",
+                    src: "https://skins-api.vercel.app/img/day-sawed-off-shotgun-03.png",
                     img: {
                         isLoaded: 0
                     },
@@ -10997,7 +10997,7 @@ var Home = (function() {
         WvMwn.onreadystatechange = function() {
             if ((this.readyState === 4) && (this.status === 0)) {
                 Home.adblocker = 1;
-                window.document.getElementById("trevda").innerHTML = '<img src="./https://devast.io/img/disable-to-get-bonus.png"></img>';
+                window.document.getElementById("trevda").innerHTML = '<img src="./img/disable-to-get-bonus.png"></img>';
             }
         };
         WvMwn.open("GET", "https://api.adinplay.com/libs/aiptag/assets/adsbygoogle.js", true);
@@ -11116,7 +11116,7 @@ var Home = (function() {
         if (isTouchScreen === 1) reddit = GUI.createButton(0, 0);
         else reddit = GUI.createButton(54, 54, ["https://devast.io/img/home-reddit-button-out.png", "https://devast.io/img/home-reddit-button-in.png", "https://devast.io/img/home-reddit-button-click.png"]);
         if (isTouchScreen === 1) discord = GUI.createButton(0, 0);
-        else discord = GUI.createButton(54, 54, ["https://skins-api.vercel.app/https://devast.io/img/home-discord-button-out-01.png", "https://skins-api.vercel.app/https://devast.io/img/home-discord-button-in-01.png", "https://skins-api.vercel.app/https://devast.io/img/home-discord-button-click-01.png"]);
+        else discord = GUI.createButton(54, 54, ["https://skins-api.vercel.app/img/home-discord-button-out-01.png", "https://skins-api.vercel.app/img/home-discord-button-in-01.png", "https://skins-api.vercel.app/img/home-discord-button-click-01.png"]);
         NvW = GUI.createButton(93, 51, ["https://devast.io/img/survivalmode-button-out.png", "https://devast.io/img/survivalmode-button-in.png", "https://devast.io/img/survivalmode-button-click.png"]);
         VmwMm = GUI.createButton(93, 51, ["https://devast.io/img/battle-royale-button-out.png", "https://devast.io/img/battle-royale-button-in.png", "https://devast.io/img/battle-royale-button-click.png"]);
         vvWWW = GUI.createButton(93, 51, ["https://devast.io/img/ghoul-mode-button-out.png", "https://devast.io/img/ghoul-mode-button-in.png", "https://devast.io/img/ghoul-mode-button-click.png"]);
