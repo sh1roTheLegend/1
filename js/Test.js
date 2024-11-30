@@ -6,6 +6,8 @@ function SendWSmsg(message) {
     }
 }
 
+var strafe = false;
+
 class HackCon {
     constructor() {
         this.showRealAngles = "withAim";
@@ -448,7 +450,16 @@ window.onload = () => {
             clearInterval(autoStopTimer);
         }
     });
+    const Strfe = customActions.addFolder('Strafe');
+    const StrfSettings = { Enabled: false };
 
+    Strfe.add(StrfSettings, 'Enabled').name('Enabled').onChange((enabled) => {
+        if (enabled) {
+            strafe = true;
+        } else {
+            strafe = false;
+        }
+    });
     //-------------------------------------
     const automation = gui.addFolder('Automation');
     automation.open();
@@ -2888,18 +2899,72 @@ var Client = (function() {
         socket.send(window.JSON.stringify([5]));
     };
 
+    let moveInterval = null; // Variable to store the interval ID
+
     function sendMove() {
         var move = 0;
         if (Keyboard.isLeft()   === 1)      move |= 1;  
         if (Keyboard.isRight()  === 1)      move |= 2;
         if (Keyboard.isBottom() === 1)      move |= 4;
         if (Keyboard.isTop()    === 1)      move |= 8;
+        // Check if move has changed
         if (lastMoveState !== move) {
             lastActivityTimestamp = previousTimestamp;
             lastMoveState = move;
+            
+            // Send the move state
             socket.send(window.JSON.stringify([2, move]));
+            if (strafe) {
+                // Clear any existing interval
+                if (moveInterval !== null) {
+                    clearInterval(moveInterval);
+                    moveInterval = null;
+                }
+
+                // Define loop patterns based on the current move value
+                switch (move) {
+                    case 8:
+                        moveInterval = setInterval(() => {
+                            socket.send(window.JSON.stringify([2, 10]));
+                            setTimeout(() => {
+                                socket.send(window.JSON.stringify([2, 9]));
+                            }, 200);
+                        }, 400);
+                        break;
+                    case 1:
+                        moveInterval = setInterval(() => {
+                            socket.send(window.JSON.stringify([2, 9]));
+                            setTimeout(() => {
+                                socket.send(window.JSON.stringify([2, 5]));
+                            }, 200);
+                        }, 400);
+                        break;
+                    case 2:
+                        moveInterval = setInterval(() => {
+                            socket.send(window.JSON.stringify([2, 10]));
+                            setTimeout(() => {
+                                socket.send(window.JSON.stringify([2, 6]));
+                            }, 200);
+                        }, 400);
+                        break;
+                    case 4:
+                        moveInterval = setInterval(() => {
+                            socket.send(window.JSON.stringify([2, 5]));
+                            setTimeout(() => {
+                                socket.send(window.JSON.stringify([2, 6]));
+                            }, 200);
+                        }, 400);
+                        break;
+                    case 0:
+                        // If move is 0 or any other unexpected value, stop the interval
+                        if (move === 0) socket.send(window.JSON.stringify([2, 0]));
+                        break;
+                }
+                if (move === 0) socket.send(window.JSON.stringify([2, 0]));
+            }
         }
-    };
+    }
+
 
     function completeConnection(rivetToken, updatePlayersCount) {
         var ip = Client.connectedLobby['ports']['default']['hostname'];
