@@ -3957,121 +3957,121 @@ var ENTITIES = [{
 
     skins: [{
         head: {
-            src: "https://devast.io/img/day-skin0.png",
+            src: "img/day-skin0.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm0.png",
+            src: "img/day-left-arm0.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm0.png",
+            src: "img/day-right-arm0.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-skin1.png",
+            src: "img/day-skin1.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm0.png",
+            src: "img/day-left-arm0.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm0.png",
+            src: "img/day-right-arm0.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-skin2.png",
+            src: "img/day-skin2.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm2.png",
+            src: "img/day-left-arm2.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm2.png",
+            src: "img/day-right-arm2.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-skin3.png",
+            src: "img/day-skin3.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm2.png",
+            src: "img/day-left-arm2.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm2.png",
+            src: "img/day-right-arm2.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-skin4.png",
+            src: "img/day-skin4.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm4.png",
+            src: "img/day-left-arm4.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm4.png",
+            src: "img/day-right-arm4.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-skin5.png",
+            src: "img/day-skin5.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm4.png",
+            src: "img/day-left-arm4.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm4.png",
+            src: "img/day-right-arm4.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-ghoul.png",
+            src: "img/day-ghoul.png",
             img: {
                 isLoaded: 0
             }
@@ -4080,165 +4080,165 @@ var ENTITIES = [{
             angle: 0,
             x: 28,
             y: -50,
-            src: "https://devast.io/img/day-ghoul-left-arm.png",
+            src: "img/day-ghoul-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-ghoul-right-arm.png",
+            src: "img/day-ghoul-right-arm.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-ghoul3.png",
+            src: "img/day-ghoul3.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-ghoul3-left-arm.png",
+            src: "img/day-ghoul3-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-ghoul3-right-arm.png",
+            src: "img/day-ghoul3-right-arm.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-ghoul4.png",
+            src: "img/day-ghoul4.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-ghoul4-left-arm.png",
+            src: "img/day-ghoul4-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-ghoul4-right-arm.png",
+            src: "img/day-ghoul4-right-arm.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-ghoul2.png",
+            src: "img/day-ghoul2.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-ghoul2-left-arm.png",
+            src: "img/day-ghoul2-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-ghoul2-right-arm.png",
+            src: "img/day-ghoul2-right-arm.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-ghoul1.png",
+            src: "img/day-ghoul1.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-ghoul1-left-arm.png",
+            src: "img/day-ghoul1-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-ghoul1-right-arm.png",
+            src: "img/day-ghoul1-right-arm.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-ghoul5.png",
+            src: "img/day-ghoul5.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-ghoul5-left-arm.png",
+            src: "img/day-ghoul5-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-ghoul5-right-arm.png",
+            src: "img/day-ghoul5-right-arm.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-lapabot.png",
+            src: "img/day-lapabot.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-lapabot-left-arm.png",
+            src: "img/day-lapabot-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-lapabot-right-arm.png",
+            src: "img/day-lapabot-right-arm.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-hal-bot.png",
+            src: "img/day-hal-bot.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-hal-bot-left-arm.png",
+            src: "img/day-hal-bot-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-hal-bot-right-arm.png",
+            src: "img/day-hal-bot-right-arm.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-tesla-bot.png",
+            src: "img/day-tesla-bot.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-tesla-bot-left-arm.png",
+            src: "img/day-tesla-bot-left-arm.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-tesla-bot-right-arm.png",
+            src: "img/day-tesla-bot-right-arm.png",
             img: {
                 isLoaded: 0
             }
@@ -4246,527 +4246,527 @@ var ENTITIES = [{
     }],
     clothes: [{}, {
         head: {
-            src: "https://devast.io/img/day-headscarf.png",
+            src: "img/day-headscarf.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-chapka.png",
+            src: "img/day-chapka.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-chapka.png",
+            src: "img/day-left-arm-chapka.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-chapka.png",
+            src: "img/day-right-arm-chapka.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-coat.png",
+            src: "img/day-coat.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-coat.png",
+            src: "img/day-left-arm-coat.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-coat.png",
+            src: "img/day-right-arm-coat.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-gaz-mask.png",
+            src: "img/day-gaz-mask.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-gaz-protection.png",
+            src: "img/day-gaz-protection.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-gaz-protection.png",
+            src: "img/day-left-arm-gaz-protection.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-gaz-protection.png",
+            src: "img/day-right-arm-gaz-protection.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-radiation-suit.png",
+            src: "img/day-radiation-suit.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-radiation-suit.png",
+            src: "img/day-left-arm-radiation-suit.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-radiation-suit.png",
+            src: "img/day-right-arm-radiation-suit.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-metal-helmet.png",
+            src: "img/day-metal-helmet.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-welding-helmet.png",
+            src: "img/day-welding-helmet.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-welding-helmet.png",
+            src: "img/day-left-arm-welding-helmet.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-welding-helmet.png",
+            src: "img/day-right-arm-welding-helmet.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-gladiator-helmet.png",
+            src: "img/day-gladiator-helmet.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-gladiator-armor.png",
+            src: "img/day-left-arm-gladiator-armor.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-gladiator-armor.png",
+            src: "img/day-right-arm-gladiator-armor.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-leather-jacket.png",
+            src: "img/day-leather-jacket.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-leather-jacket.png",
+            src: "img/day-left-arm-leather-jacket.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-leather-jacket.png",
+            src: "img/day-right-arm-leather-jacket.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-kevlar-suit.png",
+            src: "img/day-kevlar-suit.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-kevlar-suit.png",
+            src: "img/day-left-arm-kevlar-suit.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-kevlar-suit.png",
+            src: "img/day-right-arm-kevlar-suit.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-SWAT-suit.png",
+            src: "img/day-SWAT-suit.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-SWAT-suit.png",
+            src: "img/day-left-arm-SWAT-suit.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-SWAT-suit.png",
+            src: "img/day-right-arm-SWAT-suit.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-protective-suit.png",
+            src: "img/day-protective-suit.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-protective-suit.png",
+            src: "img/day-left-arm-protective-suit.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-protective-suit.png",
+            src: "img/day-right-arm-protective-suit.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-tesla-0.png",
+            src: "img/day-tesla-0.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-tesla-0.png",
+            src: "img/day-left-arm-tesla-0.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-tesla-0.png",
+            src: "img/day-right-arm-tesla-0.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-tesla-armor.png",
+            src: "img/day-tesla-armor.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-tesla-armor.png",
+            src: "img/day-left-arm-tesla-armor.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-tesla-armor.png",
+            src: "img/day-right-arm-tesla-armor.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-camouflage-gear.png",
+            src: "img/day-camouflage-gear.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-camouflage-gear.png",
+            src: "img/day-left-arm-camouflage-gear.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-camouflage-gear.png",
+            src: "img/day-right-arm-camouflage-gear.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-christmas-hat.png",
+            src: "img/day-christmas-hat.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-deer-hat.png",
+            src: "img/day-deer-hat.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-snowman-hat.png",
+            src: "img/day-snowman-hat.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-snowman-hat.png",
+            src: "img/day-left-arm-snowman-hat.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-snowman-hat.png",
+            src: "img/day-right-arm-snowman-hat.png",
             img: {
                 isLoaded: 0
             }
         }
     }, {
         head: {
-            src: "https://devast.io/img/day-elf-hat.png",
+            src: "img/day-elf-hat.png",
             img: {
                 isLoaded: 0
             }
         },
         leftArm: {
-            src: "https://devast.io/img/day-left-arm-elf-hat.png",
+            src: "img/day-left-arm-elf-hat.png",
             img: {
                 isLoaded: 0
             }
         },
         rightArm: {
-            src: "https://devast.io/img/day-right-arm-elf-hat.png",
+            src: "img/day-right-arm-elf-hat.png",
             img: {
                 isLoaded: 0
             }
         }
     }],
     runEffect: {
-        src: "https://devast.io/img/day-run-effect.png",
+        src: "img/day-run-effect.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-dead-player.png",
+        src: "img/day-dead-player.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/hurt-player.png",
+        src: "img/hurt-player.png",
         img: {
             isLoaded: 0
         }
     },
     heal: {
-        src: "https://devast.io/img/heal-player.png",
+        src: "img/heal-player.png",
         img: {
             isLoaded: 0
         }
     },
     food: {
-        src: "https://devast.io/img/food-player.png",
+        src: "img/food-player.png",
         img: {
             isLoaded: 0
         }
     },
     cartridges: [{
-        src: "https://devast.io/img/day-shotgun-cartridge.png",
+        src: "img/day-shotgun-cartridge.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-9mm-cartridge.png",
+        src: "img/day-9mm-cartridge.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-AK47-cartridge.png",
+        src: "img/day-AK47-cartridge.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-crossbow-cartridge.png",
+        src: "img/day-crossbow-cartridge.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-nails-cartridge.png",
+        src: "img/day-nails-cartridge.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-cells-cartridge.png",
+        src: "img/day-cells-cartridge.png",
         img: {
             isLoaded: 0
         }
     }],
     bullets: [
         [{
-            src: "https://devast.io/img/day-bullet1.png",
+            src: "img/day-bullet1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-bullet2.png",
+            src: "img/day-bullet2.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-bullet2l.png",
+            src: "img/day-bullet2l.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-bullet3.png",
+            src: "img/day-bullet3.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-bullet4.png",
+            src: "img/day-bullet4.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-bullet4l.png",
+            src: "img/day-bullet4l.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-bullet5.png",
+            src: "img/day-bullet5.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-bullet6.png",
+            src: "img/day-bullet6.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-bullet6l.png",
+            src: "img/day-bullet6l.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-wood-arrow.png",
+            src: "img/day-wood-arrow.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-wood-arrow1.png",
+            src: "img/day-wood-arrow1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-wood-arrowl.png",
+            src: "img/day-wood-arrowl.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-wood-spear0.png",
+            src: "img/day-wood-spear0.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-wood-spear1.png",
+            src: "img/day-wood-spear1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-wood-spearl.png",
+            src: "img/day-wood-spearl.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-wood-crossarrow.png",
+            src: "img/day-wood-crossarrow.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-wood-crossarrow1.png",
+            src: "img/day-wood-crossarrow1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-wood-crossarrowl.png",
+            src: "img/day-wood-crossarrowl.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-nail1.png",
+            src: "img/day-nail1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-nail2.png",
+            src: "img/day-nail2.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-nail2l.png",
+            src: "img/day-nail2l.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-laser0.png",
+            src: "img/day-laser0.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-laser1.png",
+            src: "img/day-laser1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-laser1l.png",
+            src: "img/day-laser1l.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-grenade0.png",
+            src: "img/day-grenade0.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-grenade1.png",
+            src: "img/day-grenade1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-grenadel.png",
+            src: "img/day-grenadel.png",
             img: {
                 isLoaded: 0
             }
@@ -4774,43 +4774,43 @@ var ENTITIES = [{
     ],
     gunEffect: [
         [{
-            src: "https://devast.io/img/day-gun-effect0.png",
+            src: "img/day-gun-effect0.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-gun-effect1.png",
+            src: "img/day-gun-effect1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-gun-effect2.png",
+            src: "img/day-gun-effect2.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-laser-effect0.png",
+            src: "img/day-laser-effect0.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-laser-effect1.png",
+            src: "img/day-laser-effect1.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-laser-effect2.png",
+            src: "img/day-laser-effect2.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-laser-effect3.png",
+            src: "img/day-laser-effect3.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-laser-effect4.png",
+            src: "img/day-laser-effect4.png",
             img: {
                 isLoaded: 0
             }
@@ -4857,7 +4857,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/pickaxe-swing.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-stone-pickaxe.png",
+            src: "img/day-stone-pickaxe.png",
             img: {
                 isLoaded: 0
             },
@@ -4905,7 +4905,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/pickaxe-swing.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-steel-pickaxe.png",
+            src: "img/day-steel-pickaxe.png",
             img: {
                 isLoaded: 0
             },
@@ -4953,7 +4953,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/hatchet-swing.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-hachet.png",
+            src: "img/day-hachet.png",
             img: {
                 isLoaded: 0
             },
@@ -5001,7 +5001,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/axe-swing.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-stone-axe.png",
+            src: "img/day-stone-axe.png",
             img: {
                 isLoaded: 0
             },
@@ -5048,7 +5048,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/spear-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-wood-spear.png",
+            src: "img/day-wood-spear.png",
             img: {
                 isLoaded: 0
             },
@@ -5090,7 +5090,7 @@ var ENTITIES = [{
         id: 0,
         shot: 1,
         WnVmv: {
-            src: "https://devast.io/img/day-wood-arrow1.png",
+            src: "img/day-wood-arrow1.png",
             img: {
                 isLoaded: 0
             },
@@ -5102,7 +5102,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/bow-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-wood-bow.png",
+            src: "img/day-wood-bow.png",
             img: {
                 isLoaded: 0
             },
@@ -5158,7 +5158,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/shotgun-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-shotgun.png",
+            src: "img/day-shotgun.png",
             img: {
                 isLoaded: 0
             },
@@ -5213,7 +5213,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/9mm-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-9mm.png",
+            src: "img/day-9mm.png",
             img: {
                 isLoaded: 0
             },
@@ -5268,7 +5268,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/desert-eagle-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-desert-eagle.png",
+            src: "img/day-desert-eagle.png",
             img: {
                 isLoaded: 0
             },
@@ -5323,7 +5323,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/ak47-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-AK47.png",
+            src: "img/day-AK47.png",
             img: {
                 isLoaded: 0
             },
@@ -5378,7 +5378,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/sniper-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-sniper.png",
+            src: "img/day-sniper.png",
             img: {
                 isLoaded: 0
             },
@@ -5423,7 +5423,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-raw-steak.png",
+            src: "img/day-hand-raw-steak.png",
             img: {
                 isLoaded: 0
             },
@@ -5463,7 +5463,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-cooked-steak.png",
+            src: "img/day-hand-cooked-steak.png",
             img: {
                 isLoaded: 0
             },
@@ -5503,7 +5503,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-steak.png",
+            src: "img/day-hand-rotten-steak.png",
             img: {
                 isLoaded: 0
             },
@@ -5543,7 +5543,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-orange.png",
+            src: "img/day-hand-orange.png",
             img: {
                 isLoaded: 0
             },
@@ -5583,7 +5583,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-orange.png",
+            src: "img/day-hand-rotten-orange.png",
             img: {
                 isLoaded: 0
             },
@@ -5619,7 +5619,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-medikit.png",
+            src: "img/day-hand-medikit.png",
             img: {
                 isLoaded: 0
             },
@@ -5655,7 +5655,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-bandage.png",
+            src: "img/day-hand-bandage.png",
             img: {
                 isLoaded: 0
             },
@@ -5691,7 +5691,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-soda.png",
+            src: "img/day-hand-soda.png",
             img: {
                 isLoaded: 0
             },
@@ -5741,7 +5741,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/mp5-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-MP5.png",
+            src: "img/day-MP5.png",
             img: {
                 isLoaded: 0
             },
@@ -5794,13 +5794,13 @@ var ENTITIES = [{
         move: 3,
         malusSpeed: 0,
         blueprint: {
-            src: "https://devast.io/img/day-hand-craft.png",
+            src: "img/day-hand-craft.png",
             img: {
                 isLoaded: 0
             }
         },
         pencil: {
-            src: "https://devast.io/img/day-hand-craftpencil.png",
+            src: "img/day-hand-craftpencil.png",
             img: {
                 isLoaded: 0
             }
@@ -5816,7 +5816,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/pickaxe-swing.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-sulfur-pickaxe.png",
+            src: "img/day-sulfur-pickaxe.png",
             img: {
                 isLoaded: 0
             },
@@ -5864,7 +5864,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/hammer-swing.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-hammer.png",
+            src: "img/day-hammer.png",
             img: {
                 isLoaded: 0
             },
@@ -5908,7 +5908,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-repair-hammer.png",
+            src: "img/day-repair-hammer.png",
             img: {
                 isLoaded: 0
             },
@@ -5956,7 +5956,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-tomato-soup.png",
+            src: "img/day-hand-tomato-soup.png",
             img: {
                 isLoaded: 0
             },
@@ -5992,7 +5992,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-radaway.png",
+            src: "img/day-hand-radaway.png",
             img: {
                 isLoaded: 0
             },
@@ -6032,7 +6032,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-tomato.png",
+            src: "img/day-hand-tomato.png",
             img: {
                 isLoaded: 0
             },
@@ -6072,7 +6072,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-tomato.png",
+            src: "img/day-hand-rotten-tomato.png",
             img: {
                 isLoaded: 0
             },
@@ -6122,7 +6122,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/crossbow-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-wood-crossbow.png",
+            src: "img/day-wood-crossbow.png",
             img: {
                 isLoaded: 0
             },
@@ -6177,7 +6177,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/nail-gun-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-nail-gun.png",
+            src: "img/day-nail-gun.png",
             img: {
                 isLoaded: 0
             },
@@ -6232,7 +6232,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/shotgun-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-sawed-off-shotgun.png",
+            src: "img/day-sawed-off-shotgun.png",
             img: {
                 isLoaded: 0
             },
@@ -6277,7 +6277,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-chips.png",
+            src: "img/day-hand-chips.png",
             img: {
                 isLoaded: 0
             },
@@ -6317,7 +6317,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-chips.png",
+            src: "img/day-hand-rotten-chips.png",
             img: {
                 isLoaded: 0
             },
@@ -6367,7 +6367,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/laser-pistol-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-laser-pistol.png",
+            src: "img/day-laser-pistol.png",
             img: {
                 isLoaded: 0
             },
@@ -6412,7 +6412,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/axe-swing.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-sulfur-axe.png",
+            src: "img/day-sulfur-axe.png",
             img: {
                 isLoaded: 0
             },
@@ -6455,7 +6455,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-joystick.png",
+            src: "img/day-hand-joystick.png",
             img: {
                 isLoaded: 0
             },
@@ -6505,7 +6505,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/laser-submachine-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-laser-submachine.png",
+            src: "img/day-laser-submachine.png",
             img: {
                 isLoaded: 0
             },
@@ -6546,7 +6546,7 @@ var ENTITIES = [{
         id: 0,
         shot: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-grenade.png",
+            src: "img/day-hand-grenade.png",
             img: {
                 isLoaded: 0
             },
@@ -6588,7 +6588,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-super-hammer.png",
+            src: "img/day-super-hammer.png",
             img: {
                 isLoaded: 0
             },
@@ -6632,7 +6632,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-ghoul-drug.png",
+            src: "img/day-hand-ghoul-drug.png",
             img: {
                 isLoaded: 0
             },
@@ -6672,7 +6672,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-mushroom1.png",
+            src: "img/day-hand-mushroom1.png",
             img: {
                 isLoaded: 0
             },
@@ -6712,7 +6712,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-mushroom2.png",
+            src: "img/day-hand-mushroom2.png",
             img: {
                 isLoaded: 0
             },
@@ -6752,7 +6752,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-mushroom3.png",
+            src: "img/day-hand-mushroom3.png",
             img: {
                 isLoaded: 0
             },
@@ -6792,7 +6792,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-mushroom1.png",
+            src: "img/day-hand-rotten-mushroom1.png",
             img: {
                 isLoaded: 0
             },
@@ -6832,7 +6832,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-mushroom2.png",
+            src: "img/day-hand-rotten-mushroom2.png",
             img: {
                 isLoaded: 0
             },
@@ -6872,7 +6872,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-mushroom3.png",
+            src: "img/day-hand-rotten-mushroom3.png",
             img: {
                 isLoaded: 0
             },
@@ -6908,7 +6908,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-lapadoine.png",
+            src: "img/day-hand-lapadoine.png",
             img: {
                 isLoaded: 0
             },
@@ -6948,7 +6948,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-pumpkin.png",
+            src: "img/day-hand-pumpkin.png",
             img: {
                 isLoaded: 0
             },
@@ -6988,7 +6988,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-pumpkin.png",
+            src: "img/day-hand-rotten-pumpkin.png",
             img: {
                 isLoaded: 0
             },
@@ -7024,7 +7024,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-antidote.png",
+            src: "img/day-hand-antidote.png",
             img: {
                 isLoaded: 0
             },
@@ -7064,7 +7064,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-acorn.png",
+            src: "img/day-hand-acorn.png",
             img: {
                 isLoaded: 0
             },
@@ -7104,7 +7104,7 @@ var ENTITIES = [{
         soundLen: 3,
         sound: 1,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-acorn.png",
+            src: "img/day-hand-rotten-acorn.png",
             img: {
                 isLoaded: 0
             },
@@ -7154,7 +7154,7 @@ var ENTITIES = [{
         soundLen: 1,
         sound: ["audio/laser-sniper-shot.mp3"],
         weapon: {
-            src: "https://devast.io/img/day-laser-sniper.png",
+            src: "img/day-laser-sniper.png",
             img: {
                 isLoaded: 0
             },
@@ -7195,7 +7195,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-christmas-cake.png",
+            src: "img/day-hand-christmas-cake.png",
             img: {
                 isLoaded: 0
             },
@@ -7231,7 +7231,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-christmas-cake.png",
+            src: "img/day-hand-rotten-christmas-cake.png",
             img: {
                 isLoaded: 0
             },
@@ -7267,7 +7267,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-gingerbread-man.png",
+            src: "img/day-hand-gingerbread-man.png",
             img: {
                 isLoaded: 0
             },
@@ -7303,7 +7303,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-rotten-gingerbread-man.png",
+            src: "img/day-hand-rotten-gingerbread-man.png",
             img: {
                 isLoaded: 0
             },
@@ -7339,7 +7339,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-sugar-can.png",
+            src: "img/day-sugar-can.png",
             img: {
                 isLoaded: 0
             },
@@ -7383,7 +7383,7 @@ var ENTITIES = [{
         id: 0,
         shot: 0,
         weapon: {
-            src: "https://devast.io/img/day-hand-sugar-can-bow.png",
+            src: "img/day-hand-sugar-can-bow.png",
             img: {
                 isLoaded: 0
             },
@@ -7619,52 +7619,52 @@ var ENTITIES = [{
         h: 24
     },
     explosions: [{
-        src: "https://devast.io/img/day-explosion0.png",
+        src: "img/day-explosion0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion1.png",
+        src: "img/day-explosion1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion2.png",
+        src: "img/day-explosion2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion3.png",
+        src: "img/day-explosion3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion4.png",
+        src: "img/day-explosion4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion5.png",
+        src: "img/day-explosion5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion6.png",
+        src: "img/day-explosion6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion7.png",
+        src: "img/day-explosion7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion8.png",
+        src: "img/day-explosion8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-explosion9.png",
+        src: "img/day-explosion9.png",
         img: {
             isLoaded: 0
         }
@@ -8443,7 +8443,7 @@ var Loader = (function() {
     var loadingScreen;
 
     function init() {
-        loadingScreen = GUI.createBackground(423, 276, "https://devast.io/img/loading1.png");
+        loadingScreen = GUI.createBackground(423, 276, "img/loading1.png");
     };
     var transitionSpeed;
     var mouseX = new Mouse.LocalMouseEvent;
@@ -8807,20 +8807,20 @@ var Home = (function() {
     var mNMWw = {
         _en: [{
             _name: 'Yuukun',
-            button: ["https://devast.io/img/yuukun0out.png", "https://devast.io/img/yuukun0in.png", "https://devast.io/img/yuukun0click.png"],
+            button: ["img/yuukun0out.png", "img/yuukun0in.png", "img/yuukun0click.png"],
             _url: "https://energy.youtube.com/watch?v=TyI_8Il64d8"
         }, {
             _name: 'eXistenZ',
-            button: ["https://devast.io/img/existenz5out.png", "https://devast.io/img/existenz5in.png", "https://devast.io/img/existenz5click.png"],
+            button: ["img/existenz5out.png", "img/existenz5in.png", "img/existenz5click.png"],
             _url: "https://energy.youtube.com/watch?v=Seq6QGBTvNQ"
         }, {
             _name: 'Bubble Gum',
-            button: ["https://devast.io/img/bubblegum2out.png", "https://devast.io/img/bubblegum2in.png", "https://devast.io/img/bubblegum2click.png"],
+            button: ["img/bubblegum2out.png", "img/bubblegum2in.png", "img/bubblegum2click.png"],
             _url: "https://youtu.be/fD7lx9zAQGU"
         }],
         _fr: [{
             _name: 'Devaster',
-            button: ["https://devast.io/img/devaster0out.png", "https://devast.io/img/devaster0in.png", "https://devast.io/img/devaster0click.png"],
+            button: ["img/devaster0out.png", "img/devaster0in.png", "img/devaster0click.png"],
             _url: "https://energy.youtube.com/watch?v=Jpgx-d3qHzs"
         }]
     };
@@ -8947,10 +8947,10 @@ var Home = (function() {
         nnn(__ENTITIE_RESOURCES_DOWN__, 900, 700, 50, RESID.WOOD, 4);
 
 
-        if (isTouchScreen === 1) VmV = GUI.createBackground(650, 312, "https://devast.io/img/logo-homepage-mobile2.png");
-        else VmV = GUI.createBackground(650, 312, "https://devast.io/img/logo-homepage4.png");
+        if (isTouchScreen === 1) VmV = GUI.createBackground(650, 312, "img/logo-homepage-mobile2.png");
+        else VmV = GUI.createBackground(650, 312, "img/logo-homepage4.png");
         if (isTouchScreen === 1) mVwVw = GUI.createButton(0, 0);
-        else mVwVw = GUI.createButton(94, 40, ["https://devast.io/img/more-io-games-out.png", "https://devast.io/img/more-io-games-in.png", "https://devast.io/img/more-io-games-click.png"]);
+        else mVwVw = GUI.createButton(94, 40, ["img/more-io-games-out.png", "img/more-io-games-in.png", "img/more-io-games-click.png"]);
         nickname = window.document.getElementById("nickname");
         vWmNN = nickname.style;
         VWvmM = {
@@ -8962,7 +8962,7 @@ var Home = (function() {
             if (event.keyCode === 13) joinServer();
         }, false);
 
-        playbutt = GUI.createButton(136, 57, ["https://devast.io/img/play-button-out.png", "https://devast.io/img/play-button-in.png", "https://devast.io/img/play-button-click.png"]);
+        playbutt = GUI.createButton(136, 57, ["img/play-button-out.png", "img/play-button-in.png", "img/play-button-click.png"]);
 
         NnnVw = window.document.getElementById("terms");
         Wvwwv = NnnVw.style;
@@ -8986,7 +8986,7 @@ var Home = (function() {
             if ((transitionState | reverseTransitionState) === 1) return;
         }, false);
         if (isTouchScreen === 1) mwvwV = GUI.createBackground(0, 0);
-        else mwvwV = GUI.createBackground(230, 235, "https://devast.io/img/changelogBox.png");
+        else mwvwV = GUI.createBackground(230, 235, "img/changelogBox.png");
         NNnwN = window.document.getElementById("changelog");
         VNVnM = NNnwN.style;
         nmnWW = {
@@ -8994,7 +8994,7 @@ var Home = (function() {
             y: 0
         };
         if (isTouchScreen === 1) mmvWv = GUI.createBackground(0, 0);
-        else mmvWv = GUI.createBackground(230, 355, "https://devast.io/img/commandsBox.png");
+        else mmvWv = GUI.createBackground(230, 355, "img/commandsBox.png");
         mwnnv = window.document.getElementById("howtoplay");
         wnwvW = mwnnv.style;
         MMNMM = {
@@ -9002,32 +9002,32 @@ var Home = (function() {
             y: 0
         };
         if (isTouchScreen === 1) WWNNV = GUI.createBackground(0, 0);
-        else WWNNV = GUI.createBackground(123, 55, "https://devast.io/img/gameMade.png");
+        else WWNNV = GUI.createBackground(123, 55, "img/gameMade.png");
         if (isTouchScreen === 1) twitter = GUI.createButton(0, 0);
-        else twitter = GUI.createButton(40, 38, ["https://devast.io/img/twitter-button-out.png", "https://devast.io/img/twitter-button-in.png", "https://devast.io/img/twitter-button-click.png"]);
+        else twitter = GUI.createButton(40, 38, ["img/twitter-button-out.png", "img/twitter-button-in.png", "img/twitter-button-click.png"]);
         if (isTouchScreen === 1) facebook = GUI.createButton(0, 0);
-        else facebook = GUI.createButton(40, 38, ["https://devast.io/img/facebook-button-out.png", "https://devast.io/img/facebook-button-in.png", "https://devast.io/img/facebook-button-click.png"]);
+        else facebook = GUI.createButton(40, 38, ["img/facebook-button-out.png", "img/facebook-button-in.png", "img/facebook-button-click.png"]);
         if (isTouchScreen === 1) youtube = GUI.createButton(0, 0);
-        else youtube = GUI.createButton(40, 38, ["https://devast.io/img/youtube-button-out.png", "https://devast.io/img/youtube-button-in.png", "https://devast.io/img/youtube-button-click.png"]);
+        else youtube = GUI.createButton(40, 38, ["img/youtube-button-out.png", "img/youtube-button-in.png", "img/youtube-button-click.png"]);
         if (isTouchScreen === 1) reddit = GUI.createButton(0, 0);
-        else reddit = GUI.createButton(54, 54, ["https://devast.io/img/home-reddit-button-out.png", "https://devast.io/img/home-reddit-button-in.png", "https://devast.io/img/home-reddit-button-click.png"]);
+        else reddit = GUI.createButton(54, 54, ["img/home-reddit-button-out.png", "img/home-reddit-button-in.png", "img/home-reddit-button-click.png"]);
         if (isTouchScreen === 1) discord = GUI.createButton(0, 0);
-        else discord = GUI.createButton(54, 54, ["https://devast.io/img/home-discord-button-out.png", "https://devast.io/img/home-discord-button-in.png", "https://devast.io/img/home-discord-button-click.png"]);
-        NvW = GUI.createButton(93, 51, ["https://devast.io/img/survivalmode-button-out.png", "https://devast.io/img/survivalmode-button-in.png", "https://devast.io/img/survivalmode-button-click.png"]);
-        VmwMm = GUI.createButton(93, 51, ["https://devast.io/img/battle-royale-button-out.png", "https://devast.io/img/battle-royale-button-in.png", "https://devast.io/img/battle-royale-button-click.png"]);
-        vvWWW = GUI.createButton(93, 51, ["https://devast.io/img/ghoul-mode-button-out.png", "https://devast.io/img/ghoul-mode-button-in.png", "https://devast.io/img/ghoul-mode-button-click.png"]);
-        wnm = GUI.createButton(68, 34, ["https://devast.io/img/private-server-button-out.png", "https://devast.io/img/private-server-button-in.png", "https://devast.io/img/private-server-button-click.png"]);
-        VMm = GUI.createButton(68, 34, ["https://devast.io/img/public-server-button-out.png", "https://devast.io/img/public-server-button-in.png", "https://devast.io/img/public-server-button-click.png"]);
+        else discord = GUI.createButton(54, 54, ["img/home-discord-button-out.png", "img/home-discord-button-in.png", "img/home-discord-button-click.png"]);
+        NvW = GUI.createButton(93, 51, ["img/survivalmode-button-out.png", "img/survivalmode-button-in.png", "img/survivalmode-button-click.png"]);
+        VmwMm = GUI.createButton(93, 51, ["img/battle-royale-button-out.png", "img/battle-royale-button-in.png", "img/battle-royale-button-click.png"]);
+        vvWWW = GUI.createButton(93, 51, ["img/ghoul-mode-button-out.png", "img/ghoul-mode-button-in.png", "img/ghoul-mode-button-click.png"]);
+        wnm = GUI.createButton(68, 34, ["img/private-server-button-out.png", "img/private-server-button-in.png", "img/private-server-button-click.png"]);
+        VMm = GUI.createButton(68, 34, ["img/public-server-button-out.png", "img/public-server-button-in.png", "img/public-server-button-click.png"]);
         if (isTouchScreen === 1) WMmmM = GUI.createBackground(0, 0);
-        else WMmmM = GUI.createBackground(171, 432, "https://devast.io/img/featured.png");
+        else WMmmM = GUI.createBackground(171, 432, "img/featured.png");
         if (isTouchScreen === 1) nvWwv = GUI.createButton(0, 0);
-        else nvWwv = GUI.createButton(60, 60, ["https://devast.io/img/home-limaxio-out.png", "https://devast.io/img/home-limaxio-in.png", "https://devast.io/img/home-limaxio-click.png"]);
+        else nvWwv = GUI.createButton(60, 60, ["img/home-limaxio-out.png", "img/home-limaxio-in.png", "img/home-limaxio-click.png"]);
         if (isTouchScreen === 1) WwWvv = GUI.createButton(0, 0);
-        else WwWvv = GUI.createButton(60, 60, ["https://devast.io/img/home-oibio-out.png", "https://devast.io/img/home-oibio-in.png", "https://devast.io/img/home-oibio-click.png"]);
+        else WwWvv = GUI.createButton(60, 60, ["img/home-oibio-out.png", "img/home-oibio-in.png", "img/home-oibio-click.png"]);
         if (isTouchScreen === 1) wvmmM = GUI.createButton(0, 0);
-        else wvmmM = GUI.createButton(60, 60, ["https://devast.io/img/home-starveio-out.png", "https://devast.io/img/home-starveio-in.png", "https://devast.io/img/home-starveio-click.png"]);
+        else wvmmM = GUI.createButton(60, 60, ["img/home-starveio-out.png", "img/home-starveio-in.png", "img/home-starveio-click.png"]);
         if (isTouchScreen === 1) mNVWV = GUI.createButton(0, 0);
-        else mNVWV = GUI.createButton(60, 60, ["https://devast.io/img/home-nendio-out.png", "https://devast.io/img/home-nendio-in.png", "https://devast.io/img/home-nendio-click.png"]);
+        else mNVWV = GUI.createButton(60, 60, ["img/home-nendio-out.png", "img/home-nendio-in.png", "img/home-nendio-click.png"]);
         VMmWN = window.document.getElementById("featuredVideo");
         vnvmm = VMmWN.style;
         wWWwm = {
@@ -9035,9 +9035,9 @@ var Home = (function() {
             y: 0
         };
         if (isTouchScreen === 1) privateServer = GUI.createButton(0, 0);
-        else privateServer = GUI.createButton(86, 48, ["https://devast.io/img/privateserver-button-out.png", "https://devast.io/img/privateserver-button-in.png", "https://devast.io/img/privateserver-button-click.png"]);
+        else privateServer = GUI.createButton(86, 48, ["img/privateserver-button-out.png", "img/privateserver-button-in.png", "img/privateserver-button-click.png"]);
         if (isTouchScreen === 1) vvmMm = GUI.createButton(0, 0);
-        else vvmMm = GUI.createButton(52, 42, ["https://devast.io/img/map-editor-button-out.png", "https://devast.io/img/map-editor-button-in.png", "https://devast.io/img/map-editor-button-click.png"]);
+        else vvmMm = GUI.createButton(52, 42, ["img/map-editor-button-out.png", "img/map-editor-button-in.png", "img/map-editor-button-click.png"]);
         wMNWw = window.document.getElementById("trevda");
         trevdaStyle = wMNWw.style;
         vWNNw = {
@@ -9834,52 +9834,52 @@ var Game = (function() {
         World.releaseBuilding();
     };
 
-    var BUTTON_ADDTEAM      = GUI.createButton(63, 28, ["https://devast.io/img/addteam-button-out.png", "https://devast.io/img/addteam-button-in.png", "https://devast.io/img/addteam-button-click.png"]);
-    var BUTTON_LEAVE        = GUI.createButton(44, 33, ["https://devast.io/img/leave-button-out.png", "https://devast.io/img/leave-button-in.png", "https://devast.io/img/leave-button-click.png"]);
-    var BUTTON_LOCK_TEAM    = GUI.createButton(44, 33, ["https://devast.io/img/lockteam-button-out.png", "https://devast.io/img/lockteam-button-in.png", "https://devast.io/img/lockteam-button-click.png"]);
-    var BUTTON_UNLOCK_TEAM  = GUI.createButton(44, 33, ["https://devast.io/img/unlockteam-button-out.png", "https://devast.io/img/unlockteam-button-in.png", "https://devast.io/img/unlockteam-button-click.png"]);
-    var BUTTON_DELETE       = GUI.createButton(44, 33, ["https://devast.io/img/delete-button-out.png", "https://devast.io/img/delete-button-in.png", "https://devast.io/img/delete-button-click.png"]);
-    var BUTTON_DELETE2      = GUI.createButton(44, 33, ["https://devast.io/img/delete-button-out.png", "https://devast.io/img/delete-button-in.png", "https://devast.io/img/delete-button-click.png"]);
-    var BUTTON_JOIN         = GUI.createButton(44, 33, ["https://devast.io/img/join-button-out.png", "https://devast.io/img/join-button-in.png", "https://devast.io/img/join-button-click.png"]);
-    var BUTTON_CRAFT        = GUI.createButton(71, 46, ["https://devast.io/img/craft-button-out.png", "https://devast.io/img/craft-button-in.png", "https://devast.io/img/craft-button-click.png"]);
-    var BUTTON_CANCEL       = GUI.createButton(71, 46, ["https://devast.io/img/cancel-craft-button-out.png", "https://devast.io/img/cancel-craft-button-in.png", "https://devast.io/img/cancel-craft-button-click.png"]);
-    var BUTTON_UNLOCK       = GUI.createButton(71, 46, ["https://devast.io/img/unlock-button-out.png", "https://devast.io/img/unlock-button-in.png", "https://devast.io/img/unlock-button-click.png"]);
-    var BUTTON_BAG          = GUI.createButton(64, 63, ["https://devast.io/img/bag-button-out.png", "https://devast.io/img/bag-button-in.png", "https://devast.io/img/bag-button-click.png"]);
+    var BUTTON_ADDTEAM      = GUI.createButton(63, 28, ["img/addteam-button-out.png", "img/addteam-button-in.png", "img/addteam-button-click.png"]);
+    var BUTTON_LEAVE        = GUI.createButton(44, 33, ["img/leave-button-out.png", "img/leave-button-in.png", "img/leave-button-click.png"]);
+    var BUTTON_LOCK_TEAM    = GUI.createButton(44, 33, ["img/lockteam-button-out.png", "img/lockteam-button-in.png", "img/lockteam-button-click.png"]);
+    var BUTTON_UNLOCK_TEAM  = GUI.createButton(44, 33, ["img/unlockteam-button-out.png", "img/unlockteam-button-in.png", "img/unlockteam-button-click.png"]);
+    var BUTTON_DELETE       = GUI.createButton(44, 33, ["img/delete-button-out.png", "img/delete-button-in.png", "img/delete-button-click.png"]);
+    var BUTTON_DELETE2      = GUI.createButton(44, 33, ["img/delete-button-out.png", "img/delete-button-in.png", "img/delete-button-click.png"]);
+    var BUTTON_JOIN         = GUI.createButton(44, 33, ["img/join-button-out.png", "img/join-button-in.png", "img/join-button-click.png"]);
+    var BUTTON_CRAFT        = GUI.createButton(71, 46, ["img/craft-button-out.png", "img/craft-button-in.png", "img/craft-button-click.png"]);
+    var BUTTON_CANCEL       = GUI.createButton(71, 46, ["img/cancel-craft-button-out.png", "img/cancel-craft-button-in.png", "img/cancel-craft-button-click.png"]);
+    var BUTTON_UNLOCK       = GUI.createButton(71, 46, ["img/unlock-button-out.png", "img/unlock-button-in.png", "img/unlock-button-click.png"]);
+    var BUTTON_BAG          = GUI.createButton(64, 63, ["img/bag-button-out.png", "img/bag-button-in.png", "img/bag-button-click.png"]);
     BUTTON_BAG.open = 0;
 
     var skillList = [];
     var craftList = [];
     var nmMMm = 0;
     
-    var BUTTON_CLOSE_BOX = GUI.createButton(43, 43, ["https://devast.io/img/close-box-out.png", "https://devast.io/img/close-box-in.png", "https://devast.io/img/close-box-click.png"]);
-    var highpartout = [CanvasUtils.loadImage("https://devast.io/img/high-particules-out.png"), CanvasUtils.loadImage("https://devast.io/img/high-particules-in.png"), CanvasUtils.loadImage("https://devast.io/img/high-particules-click.png")];
-    var joinbuttout = [CanvasUtils.loadImage("https://devast.io/img/join-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/join-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/join-button-click.png")];
-    var removebuttout = [CanvasUtils.loadImage("https://devast.io/img/remove-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/remove-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/remove-button-click.png")];
+    var BUTTON_CLOSE_BOX = GUI.createButton(43, 43, ["img/close-box-out.png", "img/close-box-in.png", "img/close-box-click.png"]);
+    var highpartout = [CanvasUtils.loadImage("img/high-particules-out.png"), CanvasUtils.loadImage("img/high-particules-in.png"), CanvasUtils.loadImage("img/high-particules-click.png")];
+    var joinbuttout = [CanvasUtils.loadImage("img/join-button-out.png"), CanvasUtils.loadImage("img/join-button-in.png"), CanvasUtils.loadImage("img/join-button-click.png")];
+    var removebuttout = [CanvasUtils.loadImage("img/remove-button-out.png"), CanvasUtils.loadImage("img/remove-button-in.png"), CanvasUtils.loadImage("img/remove-button-click.png")];
     var wVwnm = GUI.createButton(54, 42, null, highpartout);
-    var vWmmV = [CanvasUtils.loadImage("https://devast.io/img/low-particules-out.png"), CanvasUtils.loadImage("https://devast.io/img/low-particules-in.png"), CanvasUtils.loadImage("https://devast.io/img/low-particules-click.png")];
+    var vWmmV = [CanvasUtils.loadImage("img/low-particules-out.png"), CanvasUtils.loadImage("img/low-particules-in.png"), CanvasUtils.loadImage("img/low-particules-click.png")];
     var VnWMV = GUI.createButton(54, 42, null, vWmmV);
-    var vVvNM = [CanvasUtils.loadImage("https://devast.io/img/no-particules-out.png"), CanvasUtils.loadImage("https://devast.io/img/no-particules-in.png"), CanvasUtils.loadImage("https://devast.io/img/no-particules-click.png")];
+    var vVvNM = [CanvasUtils.loadImage("img/no-particules-out.png"), CanvasUtils.loadImage("img/no-particules-in.png"), CanvasUtils.loadImage("img/no-particules-click.png")];
     var wwMwv = GUI.createButton(54, 42, null, vVvNM);
 
-    var IMG_BUTTON_FUEL         = [CanvasUtils.loadImage("https://devast.io/img/fuel-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/fuel-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/fuel-button-click.png")];
+    var IMG_BUTTON_FUEL         = [CanvasUtils.loadImage("img/fuel-button-out.png"), CanvasUtils.loadImage("img/fuel-button-in.png"), CanvasUtils.loadImage("img/fuel-button-click.png")];
     var BUTTON_FUEL             = GUI.createButton(46, 46, null, IMG_BUTTON_FUEL);
-    var IMG_BUTTON_FUEL1        = [CanvasUtils.loadImage("https://devast.io/img/fuel1-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/fuel1-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/fuel1-button-click.png")];
+    var IMG_BUTTON_FUEL1        = [CanvasUtils.loadImage("img/fuel1-button-out.png"), CanvasUtils.loadImage("img/fuel1-button-in.png"), CanvasUtils.loadImage("img/fuel1-button-click.png")];
     var BUTTON_FUEL1            = GUI.createButton(46, 46, null, IMG_BUTTON_FUEL1);
-    var IMG_BUTTON_CELLS        = [CanvasUtils.loadImage("https://devast.io/img/energy-cells-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/energy-cells-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/energy-cells-button-click.png")];
+    var IMG_BUTTON_CELLS        = [CanvasUtils.loadImage("img/energy-cells-button-out.png"), CanvasUtils.loadImage("img/energy-cells-button-in.png"), CanvasUtils.loadImage("img/energy-cells-button-click.png")];
     var BUTTON_CELLS            = GUI.createButton(46, 46, null, IMG_BUTTON_CELLS);
 
-    var VVVMw = [CanvasUtils.loadImage("https://devast.io/img/high-resolution-out.png"), CanvasUtils.loadImage("https://devast.io/img/high-resolution-in.png"), CanvasUtils.loadImage("https://devast.io/img/high-resolution-click.png")];
+    var VVVMw = [CanvasUtils.loadImage("img/high-resolution-out.png"), CanvasUtils.loadImage("img/high-resolution-in.png"), CanvasUtils.loadImage("img/high-resolution-click.png")];
     var wWNnw = GUI.createButton(54, 42, null, VVVMw);
-    var wmnmv = [CanvasUtils.loadImage("https://devast.io/img/medium-resolution-out.png"), CanvasUtils.loadImage("https://devast.io/img/medium-resolution-in.png"), CanvasUtils.loadImage("https://devast.io/img/medium-resolution-click.png")];
+    var wmnmv = [CanvasUtils.loadImage("img/medium-resolution-out.png"), CanvasUtils.loadImage("img/medium-resolution-in.png"), CanvasUtils.loadImage("img/medium-resolution-click.png")];
     var nvwMN = GUI.createButton(54, 42, null, wmnmv);
-    var vmVnn = [CanvasUtils.loadImage("https://devast.io/img/low-resolution-out.png"), CanvasUtils.loadImage("https://devast.io/img/low-resolution-in.png"), CanvasUtils.loadImage("https://devast.io/img/low-resolution-click.png")];
+    var vmVnn = [CanvasUtils.loadImage("img/low-resolution-out.png"), CanvasUtils.loadImage("img/low-resolution-in.png"), CanvasUtils.loadImage("img/low-resolution-click.png")];
     var MNVVn = GUI.createButton(54, 42, null, vmVnn);
-    var NwVwn = [CanvasUtils.loadImage("https://devast.io/img/azerty-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/azerty-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/azerty-button-click.png")];
+    var NwVwn = [CanvasUtils.loadImage("img/azerty-button-out.png"), CanvasUtils.loadImage("img/azerty-button-in.png"), CanvasUtils.loadImage("img/azerty-button-click.png")];
     var VmvmN = GUI.createButton(81, 33, null, NwVwn);
-    var NMnMN = [CanvasUtils.loadImage("https://devast.io/img/qwerty-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/qwerty-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/qwerty-button-click.png")];
+    var NMnMN = [CanvasUtils.loadImage("img/qwerty-button-out.png"), CanvasUtils.loadImage("img/qwerty-button-in.png"), CanvasUtils.loadImage("img/qwerty-button-click.png")];
     var WMVVn = GUI.createButton(87, 33, null, NMnMN);
-    var soundonbutt = [CanvasUtils.loadImage("https://devast.io/img/sound-on-out.png"), CanvasUtils.loadImage("https://devast.io/img/sound-on-in.png"), CanvasUtils.loadImage("https://devast.io/img/sound-on-click.png")];
-    var soundoffbutt = [CanvasUtils.loadImage("https://devast.io/img/sound-off-out.png"), CanvasUtils.loadImage("https://devast.io/img/sound-off-in.png"), CanvasUtils.loadImage("https://devast.io/img/sound-off-click.png")];
+    var soundonbutt = [CanvasUtils.loadImage("img/sound-on-out.png"), CanvasUtils.loadImage("img/sound-on-in.png"), CanvasUtils.loadImage("img/sound-on-click.png")];
+    var soundoffbutt = [CanvasUtils.loadImage("img/sound-off-out.png"), CanvasUtils.loadImage("img/sound-off-in.png"), CanvasUtils.loadImage("img/sound-off-click.png")];
     var wvNNV = GUI.createButton(51, 36, null, soundonbutt);
     var WVnnn = GUI.createButton(51, 36, null, soundoffbutt);
     var NmVWV = GUI.createButton(51, 36, null, soundonbutt);
@@ -9887,7 +9887,7 @@ var Game = (function() {
     var MNWwn = [];
     var MmV = -1;
     var NWmNn = -1;
-    var inventoryEmpty = CanvasUtils.loadImage("https://devast.io/img/inv-empty.png");
+    var inventoryEmpty = CanvasUtils.loadImage("img/inv-empty.png");
     var inventoryEmpty2 = [inventoryEmpty, inventoryEmpty, inventoryEmpty];
     var inventory = [];
     var craft = [];
@@ -10034,47 +10034,47 @@ var Game = (function() {
         Game.xInteract2         = 0;
         Game.yInteract2         = 0;
 
-        skillList[SKILLS.__BUILDING__]          = GUI.createButton(42, 42, ["https://devast.io/img/building-button-out.png", "https://devast.io/img/building-button-in.png", "https://devast.io/img/building-button-click.png"]);
-        skillList[SKILLS.__SKILL__]             = GUI.createButton(42, 42, ["https://devast.io/img/skill-button-out.png", "https://devast.io/img/skill-button-in.png", "https://devast.io/img/skill-button-click.png"]);
-        skillList[SKILLS.__CLOTHE__]            = GUI.createButton(42, 42, ["https://devast.io/img/clothe-button-out.png", "https://devast.io/img/clothe-button-in.png", "https://devast.io/img/clothe-button-click.png"]);
-        skillList[SKILLS.__PLANT__]             = GUI.createButton(42, 42, ["https://devast.io/img/plant-button-out.png", "https://devast.io/img/plant-button-in.png", "https://devast.io/img/plant-button-click.png"]);
-        skillList[SKILLS.__DRUG__]              = GUI.createButton(42, 42, ["https://devast.io/img/medecine-button-out.png", "https://devast.io/img/medecine-button-in.png", "https://devast.io/img/medecine-button-click.png"]);
-        skillList[SKILLS.__MINERAL__]           = GUI.createButton(42, 42, ["https://devast.io/img/resources-button-out.png", "https://devast.io/img/resources-button-in.png", "https://devast.io/img/resources-button-click.png"]);
-        skillList[SKILLS.__SURVIVAL__]          = GUI.createButton(42, 42, ["https://devast.io/img/survival-button-out.png", "https://devast.io/img/survival-button-in.png", "https://devast.io/img/survival-button-click.png"]);
-        skillList[SKILLS.__TOOL__]              = GUI.createButton(42, 42, ["https://devast.io/img/tool-button-out.png", "https://devast.io/img/tool-button-in.png", "https://devast.io/img/tool-button-click.png"]);
-        skillList[SKILLS.__WEAPON__]            = GUI.createButton(42, 42, ["https://devast.io/img/weapon-button-out.png", "https://devast.io/img/weapon-button-in.png", "https://devast.io/img/weapon-button-click.png"]);
-        skillList[SKILLS.__LOGIC__]             = GUI.createButton(42, 42, ["https://devast.io/img/cable-button-out.png", "https://devast.io/img/cable-button-in.png", "https://devast.io/img/cable-button-click.png"]);
+        skillList[SKILLS.__BUILDING__]          = GUI.createButton(42, 42, ["img/building-button-out.png", "img/building-button-in.png", "img/building-button-click.png"]);
+        skillList[SKILLS.__SKILL__]             = GUI.createButton(42, 42, ["img/skill-button-out.png", "img/skill-button-in.png", "img/skill-button-click.png"]);
+        skillList[SKILLS.__CLOTHE__]            = GUI.createButton(42, 42, ["img/clothe-button-out.png", "img/clothe-button-in.png", "img/clothe-button-click.png"]);
+        skillList[SKILLS.__PLANT__]             = GUI.createButton(42, 42, ["img/plant-button-out.png", "img/plant-button-in.png", "img/plant-button-click.png"]);
+        skillList[SKILLS.__DRUG__]              = GUI.createButton(42, 42, ["img/medecine-button-out.png", "img/medecine-button-in.png", "img/medecine-button-click.png"]);
+        skillList[SKILLS.__MINERAL__]           = GUI.createButton(42, 42, ["img/resources-button-out.png", "img/resources-button-in.png", "img/resources-button-click.png"]);
+        skillList[SKILLS.__SURVIVAL__]          = GUI.createButton(42, 42, ["img/survival-button-out.png", "img/survival-button-in.png", "img/survival-button-click.png"]);
+        skillList[SKILLS.__TOOL__]              = GUI.createButton(42, 42, ["img/tool-button-out.png", "img/tool-button-in.png", "img/tool-button-click.png"]);
+        skillList[SKILLS.__WEAPON__]            = GUI.createButton(42, 42, ["img/weapon-button-out.png", "img/weapon-button-in.png", "img/weapon-button-click.png"]);
+        skillList[SKILLS.__LOGIC__]             = GUI.createButton(42, 42, ["img/cable-button-out.png", "img/cable-button-in.png", "img/cable-button-click.png"]);
 
-        craftList[AREAS.__PLAYER__]             = GUI.createButton(42, 42, ["https://devast.io/img/own-button-out.png", "https://devast.io/img/own-button-in.png", "https://devast.io/img/own-button-click.png"]);
-        craftList[AREAS.__FIRE__]               = GUI.createButton(42, 42, ["https://devast.io/img/fire-button-out.png", "https://devast.io/img/fire-button-in.png", "https://devast.io/img/fire-button-click.png"]);
-        craftList[AREAS.__WORKBENCH__]          = GUI.createButton(42, 42, ["https://devast.io/img/workbench1-button-out.png", "https://devast.io/img/workbench1-button-in.png", "https://devast.io/img/workbench1-button-click.png"]);
-        craftList[AREAS.__BBQ__]                = GUI.createButton(42, 42, ["https://devast.io/img/bbq-button-out.png", "https://devast.io/img/bbq-button-in.png", "https://devast.io/img/bbq-button-click.png"]);
-        craftList[AREAS.__COMPOST__]            = GUI.createButton(42, 42, ["https://devast.io/img/composter-button-out.png", "https://devast.io/img/composter-button-in.png", "https://devast.io/img/composter-button-click.png"]);
-        craftList[AREAS.__WEAVING__]            = GUI.createButton(42, 42, ["https://devast.io/img/weaving-machine-button-out.png", "https://devast.io/img/weaving-machine-button-in.png", "https://devast.io/img/weaving-machine-button-click.png"]);
-        craftList[AREAS.__WELDING_MACHINE__]    = GUI.createButton(42, 42, ["https://devast.io/img/welding-machine-button-out.png", "https://devast.io/img/welding-machine-button-in.png", "https://devast.io/img/welding-machine-button-click.png"]);
-        craftList[AREAS.__WORKBENCH2__]         = GUI.createButton(42, 42, ["https://devast.io/img/workbench2-button-out.png", "https://devast.io/img/workbench2-button-in.png", "https://devast.io/img/workbench2-button-click.png"]);
-        craftList[AREAS.__SMELTER__]            = GUI.createButton(42, 42, ["https://devast.io/img/smelter-button-out.png", "https://devast.io/img/smelter-button-in.png", "https://devast.io/img/smelter-button-click.png"]);
-        craftList[AREAS.__TESLA__]              = GUI.createButton(42, 42, ["https://devast.io/img/workbench3-button-out.png", "https://devast.io/img/workbench3-button-in.png", "https://devast.io/img/workbench3-button-click.png"]);
-        craftList[AREAS.__AGITATOR__]           = GUI.createButton(42, 42, ["https://devast.io/img/agitator-button-out.png", "https://devast.io/img/agitator-button-in.png", "https://devast.io/img/agitator-button-click.png"]);
-        craftList[AREAS.__EXTRACTOR__]          = GUI.createButton(42, 42, ["https://devast.io/img/extractor-button-out.png", "https://devast.io/img/extractor-button-in.png", "https://devast.io/img/extractor-button-click.png"]);
-        craftList[AREAS.__FEEDER__]             = GUI.createButton(42, 42, ["https://devast.io/img/feeder-button-out.png", "https://devast.io/img/feeder-button-in.png", "https://devast.io/img/feeder-button-click.png"]);
+        craftList[AREAS.__PLAYER__]             = GUI.createButton(42, 42, ["img/own-button-out.png", "img/own-button-in.png", "img/own-button-click.png"]);
+        craftList[AREAS.__FIRE__]               = GUI.createButton(42, 42, ["img/fire-button-out.png", "img/fire-button-in.png", "img/fire-button-click.png"]);
+        craftList[AREAS.__WORKBENCH__]          = GUI.createButton(42, 42, ["img/workbench1-button-out.png", "img/workbench1-button-in.png", "img/workbench1-button-click.png"]);
+        craftList[AREAS.__BBQ__]                = GUI.createButton(42, 42, ["img/bbq-button-out.png", "img/bbq-button-in.png", "img/bbq-button-click.png"]);
+        craftList[AREAS.__COMPOST__]            = GUI.createButton(42, 42, ["img/composter-button-out.png", "img/composter-button-in.png", "img/composter-button-click.png"]);
+        craftList[AREAS.__WEAVING__]            = GUI.createButton(42, 42, ["img/weaving-machine-button-out.png", "img/weaving-machine-button-in.png", "img/weaving-machine-button-click.png"]);
+        craftList[AREAS.__WELDING_MACHINE__]    = GUI.createButton(42, 42, ["img/welding-machine-button-out.png", "img/welding-machine-button-in.png", "img/welding-machine-button-click.png"]);
+        craftList[AREAS.__WORKBENCH2__]         = GUI.createButton(42, 42, ["img/workbench2-button-out.png", "img/workbench2-button-in.png", "img/workbench2-button-click.png"]);
+        craftList[AREAS.__SMELTER__]            = GUI.createButton(42, 42, ["img/smelter-button-out.png", "img/smelter-button-in.png", "img/smelter-button-click.png"]);
+        craftList[AREAS.__TESLA__]              = GUI.createButton(42, 42, ["img/workbench3-button-out.png", "img/workbench3-button-in.png", "img/workbench3-button-click.png"]);
+        craftList[AREAS.__AGITATOR__]           = GUI.createButton(42, 42, ["img/agitator-button-out.png", "img/agitator-button-in.png", "img/agitator-button-click.png"]);
+        craftList[AREAS.__EXTRACTOR__]          = GUI.createButton(42, 42, ["img/extractor-button-out.png", "img/extractor-button-in.png", "img/extractor-button-click.png"]);
+        craftList[AREAS.__FEEDER__]             = GUI.createButton(42, 42, ["img/feeder-button-out.png", "img/feeder-button-in.png", "img/feeder-button-click.png"]);
 
-        gauges = GUI.createBackground(255, 174, "https://devast.io/img/profile-player2.png");
-        BACKGROUND_SETTBOX      = GUI.createBackground(269, 267, "https://devast.io/img/settings-box.png");
-        BACKGROUND_CHESTBOX     = GUI.createBackground(162, 165, "https://devast.io/img/chest-box4.png");
-        BACKGROUND_CRAFTBOX     = GUI.createBackground(595, 405, "https://devast.io/img/craftbox2.png");
-        BACKGROUND_BIGMAP       = GUI.createBackground(412, 412, "https://devast.io/img/borderBigMinimap2.png");
-        minimap = GUI.createBackground(128, 128, "https://devast.io/img/minimap.png");
+        gauges = GUI.createBackground(255, 174, "img/profile-player2.png");
+        BACKGROUND_SETTBOX      = GUI.createBackground(269, 267, "img/settings-box.png");
+        BACKGROUND_CHESTBOX     = GUI.createBackground(162, 165, "img/chest-box4.png");
+        BACKGROUND_CRAFTBOX     = GUI.createBackground(595, 405, "img/craftbox2.png");
+        BACKGROUND_BIGMAP       = GUI.createBackground(412, 412, "img/borderBigMinimap2.png");
+        minimap = GUI.createBackground(128, 128, "img/minimap.png");
         leaderboard = GUI.createBackground(233, 246, "https://i.imgur.com/TvLIxYW.png");
-        teambox = GUI.createBackground(516, 275, "https://devast.io/img/jointeam-box.png");
-        teammemberbox = GUI.createBackground(513, 150, "https://devast.io/img/memberteam-box.png");
-        fullscreenimg = GUI.createButton(40, 40, ["https://devast.io/img/full-screen-out.png", "https://devast.io/img/full-screen-in.png", "https://devast.io/img/full-screen-click.png"]);
-        craftbutton = GUI.createButton(64, 63, ["https://devast.io/img/craftbox-button-out.png", "https://devast.io/img/craftbox-button-in.png", "https://devast.io/img/craftbox-button-click.png"]);
-        settingsimg = GUI.createButton(40, 40, ["https://devast.io/img/settings-out.png", "https://devast.io/img/settings-in.png", "https://devast.io/img/settings-click.png"]);
-        minimapbutt = GUI.createButton(40, 40, ["https://devast.io/img/minimap-button-out.png", "https://devast.io/img/minimap-button-in.png", "https://devast.io/img/minimap-button-click.png"]);
-        teambutt = GUI.createButton(40, 40, ["https://devast.io/img/team-button-out.png", "https://devast.io/img/team-button-in.png", "https://devast.io/img/team-button-click.png"]);
-        leaderboardbutt = GUI.createButton(34, 33, ["https://devast.io/img/close-leaderboard-out.png", "https://devast.io/img/close-leaderboard-in.png", "https://devast.io/img/close-leaderboard-click.png"]);
-        leaderboardbutt2 = GUI.createButton(34, 33, ["https://devast.io/img/open-leaderboard-out.png", "https://devast.io/img/open-leaderboard-in.png", "https://devast.io/img/open-leaderboard-click.png"]);
+        teambox = GUI.createBackground(516, 275, "img/jointeam-box.png");
+        teammemberbox = GUI.createBackground(513, 150, "img/memberteam-box.png");
+        fullscreenimg = GUI.createButton(40, 40, ["img/full-screen-out.png", "img/full-screen-in.png", "img/full-screen-click.png"]);
+        craftbutton = GUI.createButton(64, 63, ["img/craftbox-button-out.png", "img/craftbox-button-in.png", "img/craftbox-button-click.png"]);
+        settingsimg = GUI.createButton(40, 40, ["img/settings-out.png", "img/settings-in.png", "img/settings-click.png"]);
+        minimapbutt = GUI.createButton(40, 40, ["img/minimap-button-out.png", "img/minimap-button-in.png", "img/minimap-button-click.png"]);
+        teambutt = GUI.createButton(40, 40, ["img/team-button-out.png", "img/team-button-in.png", "img/team-button-click.png"]);
+        leaderboardbutt = GUI.createButton(34, 33, ["img/close-leaderboard-out.png", "img/close-leaderboard-in.png", "img/close-leaderboard-click.png"]);
+        leaderboardbutt2 = GUI.createButton(34, 33, ["img/open-leaderboard-out.png", "img/open-leaderboard-in.png", "img/open-leaderboard-click.png"]);
         chat = window.document.getElementById("chat");
         mnnNv = chat.style;
         NWmmW = {
@@ -11428,7 +11428,7 @@ var Score = (function() {
     };
     var NNN = 0;
     var nMwNn = {
-        src: "https://devast.io/img/adblocker-msg.png",
+        src: "img/adblocker-msg.png",
         img: {
             isLoaded: 0
         }
@@ -11512,9 +11512,9 @@ var Score = (function() {
     var vWv;
 
     function init() {
-        mNw = GUI.createBackground(541, 324, "https://devast.io/img/scoreboardnew.png");
-        playagainbutt = GUI.createButton(123, 35, ["https://devast.io/img/play-again-button-out.png", "https://devast.io/img/play-again-button-in.png", "https://devast.io/img/play-again-button-click.png"]);
-        vWv = GUI.createButton(198, 35, ["https://devast.io/img/back-main-page-button-out.png", "https://devast.io/img/back-main-page-button-in.png", "https://devast.io/img/back-main-page-button-click.png"]);
+        mNw = GUI.createBackground(541, 324, "img/scoreboardnew.png");
+        playagainbutt = GUI.createButton(123, 35, ["img/play-again-button-out.png", "img/play-again-button-in.png", "img/play-again-button-click.png"]);
+        vWv = GUI.createButton(198, 35, ["img/back-main-page-button-out.png", "img/back-main-page-button-in.png", "img/back-main-page-button-click.png"]);
     };
     var transitionSpeed;
     var mouseX = new Mouse.LocalMouseEvent;
@@ -11800,9 +11800,9 @@ var Rank = (function() {
     var vWv;
 
     function init() {
-        mNw = GUI.createBackground(414, 207, "https://devast.io/img/scoreboard-br.png");
-        playagainbutt = GUI.createButton(123, 35, ["https://devast.io/img/play-again-button-out.png", "https://devast.io/img/play-again-button-in.png", "https://devast.io/img/play-again-button-click.png"]);
-        vWv = GUI.createButton(198, 35, ["https://devast.io/img/back-main-page-button-out.png", "https://devast.io/img/back-main-page-button-in.png", "https://devast.io/img/back-main-page-button-click.png"]);
+        mNw = GUI.createBackground(414, 207, "img/scoreboard-br.png");
+        playagainbutt = GUI.createButton(123, 35, ["img/play-again-button-out.png", "img/play-again-button-in.png", "img/play-again-button-click.png"]);
+        vWv = GUI.createButton(198, 35, ["img/back-main-page-button-out.png", "img/back-main-page-button-in.png", "img/back-main-page-button-click.png"]);
     };
     var transitionSpeed;
     var mouseX = new Mouse.LocalMouseEvent;
@@ -12018,7 +12018,7 @@ var Editor = (function() {
     var isMapOpen = 0;
     var isSettingsOpen = 0;
     var MNnnv = 0;
-    var inventoryEmpty = CanvasUtils.loadImage("https://devast.io/img/inv-empty.png");
+    var inventoryEmpty = CanvasUtils.loadImage("img/inv-empty.png");
     var inventoryEmpty2 = [inventoryEmpty, inventoryEmpty, inventoryEmpty];
     var Wnw = [];
     var NWw = 0;
@@ -12076,25 +12076,25 @@ var Editor = (function() {
         World.releaseBuilding();
     };
     var nmMMm = 0;
-    var BUTTON_CLOSE_BOX = GUI.createButton(43, 43, ["https://devast.io/img/close-box-out.png", "https://devast.io/img/close-box-in.png", "https://devast.io/img/close-box-click.png"]);
-    var highpartout = [CanvasUtils.loadImage("https://devast.io/img/high-particules-out.png"), CanvasUtils.loadImage("https://devast.io/img/high-particules-in.png"), CanvasUtils.loadImage("https://devast.io/img/high-particules-click.png")];
+    var BUTTON_CLOSE_BOX = GUI.createButton(43, 43, ["img/close-box-out.png", "img/close-box-in.png", "img/close-box-click.png"]);
+    var highpartout = [CanvasUtils.loadImage("img/high-particules-out.png"), CanvasUtils.loadImage("img/high-particules-in.png"), CanvasUtils.loadImage("img/high-particules-click.png")];
     var wVwnm = GUI.createButton(54, 42, null, highpartout);
-    var vWmmV = [CanvasUtils.loadImage("https://devast.io/img/low-particules-out.png"), CanvasUtils.loadImage("https://devast.io/img/low-particules-in.png"), CanvasUtils.loadImage("https://devast.io/img/low-particules-click.png")];
+    var vWmmV = [CanvasUtils.loadImage("img/low-particules-out.png"), CanvasUtils.loadImage("img/low-particules-in.png"), CanvasUtils.loadImage("img/low-particules-click.png")];
     var VnWMV = GUI.createButton(54, 42, null, vWmmV);
-    var vVvNM = [CanvasUtils.loadImage("https://devast.io/img/no-particules-out.png"), CanvasUtils.loadImage("https://devast.io/img/no-particules-in.png"), CanvasUtils.loadImage("https://devast.io/img/no-particules-click.png")];
+    var vVvNM = [CanvasUtils.loadImage("img/no-particules-out.png"), CanvasUtils.loadImage("img/no-particules-in.png"), CanvasUtils.loadImage("img/no-particules-click.png")];
     var wwMwv = GUI.createButton(54, 42, null, vVvNM);
-    var VVVMw = [CanvasUtils.loadImage("https://devast.io/img/high-resolution-out.png"), CanvasUtils.loadImage("https://devast.io/img/high-resolution-in.png"), CanvasUtils.loadImage("https://devast.io/img/high-resolution-click.png")];
+    var VVVMw = [CanvasUtils.loadImage("img/high-resolution-out.png"), CanvasUtils.loadImage("img/high-resolution-in.png"), CanvasUtils.loadImage("img/high-resolution-click.png")];
     var wWNnw = GUI.createButton(54, 42, null, VVVMw);
-    var wmnmv = [CanvasUtils.loadImage("https://devast.io/img/medium-resolution-out.png"), CanvasUtils.loadImage("https://devast.io/img/medium-resolution-in.png"), CanvasUtils.loadImage("https://devast.io/img/medium-resolution-click.png")];
+    var wmnmv = [CanvasUtils.loadImage("img/medium-resolution-out.png"), CanvasUtils.loadImage("img/medium-resolution-in.png"), CanvasUtils.loadImage("img/medium-resolution-click.png")];
     var nvwMN = GUI.createButton(54, 42, null, wmnmv);
-    var vmVnn = [CanvasUtils.loadImage("https://devast.io/img/low-resolution-out.png"), CanvasUtils.loadImage("https://devast.io/img/low-resolution-in.png"), CanvasUtils.loadImage("https://devast.io/img/low-resolution-click.png")];
+    var vmVnn = [CanvasUtils.loadImage("img/low-resolution-out.png"), CanvasUtils.loadImage("img/low-resolution-in.png"), CanvasUtils.loadImage("img/low-resolution-click.png")];
     var MNVVn = GUI.createButton(54, 42, null, vmVnn);
-    var NwVwn = [CanvasUtils.loadImage("https://devast.io/img/azerty-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/azerty-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/azerty-button-click.png")];
+    var NwVwn = [CanvasUtils.loadImage("img/azerty-button-out.png"), CanvasUtils.loadImage("img/azerty-button-in.png"), CanvasUtils.loadImage("img/azerty-button-click.png")];
     var VmvmN = GUI.createButton(81, 33, null, NwVwn);
-    var NMnMN = [CanvasUtils.loadImage("https://devast.io/img/qwerty-button-out.png"), CanvasUtils.loadImage("https://devast.io/img/qwerty-button-in.png"), CanvasUtils.loadImage("https://devast.io/img/qwerty-button-click.png")];
+    var NMnMN = [CanvasUtils.loadImage("img/qwerty-button-out.png"), CanvasUtils.loadImage("img/qwerty-button-in.png"), CanvasUtils.loadImage("img/qwerty-button-click.png")];
     var WMVVn = GUI.createButton(87, 33, null, NMnMN);
-    var soundonbutt = [CanvasUtils.loadImage("https://devast.io/img/sound-on-out.png"), CanvasUtils.loadImage("https://devast.io/img/sound-on-in.png"), CanvasUtils.loadImage("https://devast.io/img/sound-on-click.png")];
-    var soundoffbutt = [CanvasUtils.loadImage("https://devast.io/img/sound-off-out.png"), CanvasUtils.loadImage("https://devast.io/img/sound-off-in.png"), CanvasUtils.loadImage("https://devast.io/img/sound-off-click.png")];
+    var soundonbutt = [CanvasUtils.loadImage("img/sound-on-out.png"), CanvasUtils.loadImage("img/sound-on-in.png"), CanvasUtils.loadImage("img/sound-on-click.png")];
+    var soundoffbutt = [CanvasUtils.loadImage("img/sound-off-out.png"), CanvasUtils.loadImage("img/sound-off-in.png"), CanvasUtils.loadImage("img/sound-off-click.png")];
     var wvNNV = GUI.createButton(51, 36, null, soundonbutt);
     var WVnnn = GUI.createButton(51, 36, null, soundoffbutt);
     var NmVWV = GUI.createButton(51, 36, null, soundonbutt);
@@ -12316,24 +12316,24 @@ var Editor = (function() {
         VWWvn = GUI.renderText("Copied to clipboard", "'Viga', sans-serif", "#FFFFFF", 40, 350, "#000000", 18, 18, window.undefined, window.undefined, 0.6);
         for (i = 0; i < 64; i++) Wnw.push(GUI.createButton(40, 40, null, inventoryEmpty2));
         
-        BACKGROUND_SETTBOX = GUI.createBackground(269, 267, "https://devast.io/img/settings-box.png");
-        BACKGROUND_BIGMAP = GUI.createBackground(412, 412, "https://devast.io/img/borderBigMinimap2.png");
-        minimap = GUI.createBackground(128, 128, "https://devast.io/img/minimap.png");
+        BACKGROUND_SETTBOX = GUI.createBackground(269, 267, "img/settings-box.png");
+        BACKGROUND_BIGMAP = GUI.createBackground(412, 412, "img/borderBigMinimap2.png");
+        minimap = GUI.createBackground(128, 128, "img/minimap.png");
 
-        editorScreen        = GUI.createButton(40, 40,      ["https://devast.io/img/full-screen-out.png", "https://devast.io/img/full-screen-in.png", "https://devast.io/img/full-screen-click.png"]);
-        editorOptions       = GUI.createButton(40, 40,      ["https://devast.io/img/settings-out.png", "https://devast.io/img/settings-in.png", "https://devast.io/img/settings-click.png"]);
-        editorMap           = GUI.createButton(40, 40,      ["https://devast.io/img/minimap-button-out.png", "https://devast.io/img/minimap-button-in.png", "https://devast.io/img/minimap-button-click.png"]);
-        editorLogic         = GUI.createButton(67, 67,      ["https://devast.io/img/logic-button-out.png", "https://devast.io/img/logic-button-in.png", "https://devast.io/img/logic-button-click.png"]);
-        editorExplosions    = GUI.createButton(67, 67,      ["https://devast.io/img/map-explosive-button-out.png", "https://devast.io/img/map-explosive-button-in.png", "https://devast.io/img/map-explosive-button-click.png"]);
-        editorRoad          = GUI.createButton(67, 67,      ["https://devast.io/img/map-road-button-out.png", "https://devast.io/img/map-road-button-in.png", "https://devast.io/img/map-road-button-click.png"]);
-        editorFurniture     = GUI.createButton(67, 67,      ["https://devast.io/img/map-furniture-button-out.png", "https://devast.io/img/map-furniture-button-in.png", "https://devast.io/img/map-furniture-button-click.png"]);
-        editorBuildings     = GUI.createButton(67, 67,      ["https://devast.io/img/map-building-button-out.png", "https://devast.io/img/map-building-button-in.png", "https://devast.io/img/map-building-button-click.png"]);
-        editorZoomIn        = GUI.createButton(46.5, 46.5,  ["https://devast.io/img/zoom-button-out.png", "https://devast.io/img/zoom-button-in.png", "https://devast.io/img/zoom-button-click.png"]);
-        editorZoomOut       = GUI.createButton(46.5, 46.5,  ["https://devast.io/img/unzoom-button-out.png", "https://devast.io/img/unzoom-button-in.png", "https://devast.io/img/unzoom-button-click.png"]);
-        editorDelete        = GUI.createButton(40, 40,      ["https://devast.io/img/map-delete-button-out.png", "https://devast.io/img/map-delete-button-in.png", "https://devast.io/img/map-delete-button-click.png"]);
-        editorImport        = GUI.createButton(46.5, 46.5,  ["https://devast.io/img/import-button-out.png", "https://devast.io/img/import-button-in.png", "https://devast.io/img/import-button-click.png"]);
-        editorCopy          = GUI.createButton(46.5, 46.5,  ["https://devast.io/img/copy-paste-button-out.png", "https://devast.io/img/copy-paste-button-in.png", "https://devast.io/img/copy-paste-button-click.png"]);
-        editorHome          = GUI.createButton(60, 60,      ["https://devast.io/img/home-button-out.png", "https://devast.io/img/home-button-in.png", "https://devast.io/img/home-button-click.png"]);
+        editorScreen        = GUI.createButton(40, 40,      ["img/full-screen-out.png", "img/full-screen-in.png", "img/full-screen-click.png"]);
+        editorOptions       = GUI.createButton(40, 40,      ["img/settings-out.png", "img/settings-in.png", "img/settings-click.png"]);
+        editorMap           = GUI.createButton(40, 40,      ["img/minimap-button-out.png", "img/minimap-button-in.png", "img/minimap-button-click.png"]);
+        editorLogic         = GUI.createButton(67, 67,      ["img/logic-button-out.png", "img/logic-button-in.png", "img/logic-button-click.png"]);
+        editorExplosions    = GUI.createButton(67, 67,      ["img/map-explosive-button-out.png", "img/map-explosive-button-in.png", "img/map-explosive-button-click.png"]);
+        editorRoad          = GUI.createButton(67, 67,      ["img/map-road-button-out.png", "img/map-road-button-in.png", "img/map-road-button-click.png"]);
+        editorFurniture     = GUI.createButton(67, 67,      ["img/map-furniture-button-out.png", "img/map-furniture-button-in.png", "img/map-furniture-button-click.png"]);
+        editorBuildings     = GUI.createButton(67, 67,      ["img/map-building-button-out.png", "img/map-building-button-in.png", "img/map-building-button-click.png"]);
+        editorZoomIn        = GUI.createButton(46.5, 46.5,  ["img/zoom-button-out.png", "img/zoom-button-in.png", "img/zoom-button-click.png"]);
+        editorZoomOut       = GUI.createButton(46.5, 46.5,  ["img/unzoom-button-out.png", "img/unzoom-button-in.png", "img/unzoom-button-click.png"]);
+        editorDelete        = GUI.createButton(40, 40,      ["img/map-delete-button-out.png", "img/map-delete-button-in.png", "img/map-delete-button-click.png"]);
+        editorImport        = GUI.createButton(46.5, 46.5,  ["img/import-button-out.png", "img/import-button-in.png", "img/import-button-click.png"]);
+        editorCopy          = GUI.createButton(46.5, 46.5,  ["img/copy-paste-button-out.png", "img/copy-paste-button-in.png", "img/copy-paste-button-click.png"]);
+        editorHome          = GUI.createButton(60, 60,      ["img/home-button-out.png", "img/home-button-in.png", "img/home-button-click.png"]);
 
     };
     var transitionSpeed;
@@ -12359,7 +12359,7 @@ var Editor = (function() {
             for (var i = 0; i < itemSub.length; i++) {
                 var item = itemSub[i];
                 item.itemButton = {
-                    src: [item.building.src, "https://devast.io/img/useless.png", "https://devast.io/img/useless.png"],
+                    src: [item.building.src, "img/useless.png", "img/useless.png"],
                     img: [{
                         isLoaded: 0
                     }, {
@@ -12373,7 +12373,7 @@ var Editor = (function() {
             for (var i = 0; i < itemSub.length; i++) {
                 var item = itemSub[i];
                 item.itemButton = {
-                    src: [item.building.src, "https://devast.io/img/useless.png", "https://devast.io/img/useless.png"],
+                    src: [item.building.src, "img/useless.png", "img/useless.png"],
                     img: [{
                         isLoaded: 0
                     }, {
@@ -13172,7 +13172,7 @@ BID.__ROAD_T1B1L1R0__ = __COUNTER__++;
 BID.__ROAD_T1B1L1R1__ = __COUNTER__++;
 var BUILDINGS = [{}, {
     id: BID.__ROAD_T0B0L0R1__,
-    src: "https://devast.io/img/road-T0B0L0R1.png",
+    src: "img/road-T0B0L0R1.png",
     img: {
         isLoaded: 0
     },
@@ -13191,7 +13191,7 @@ var BUILDINGS = [{}, {
     alt: [BID.__ROAD_T0B0L0R1__]
 }, {
     id: BID.__ROAD_T0B0L1R0__,
-    src: "https://devast.io/img/road-T0B0L1R0.png",
+    src: "img/road-T0B0L1R0.png",
     img: {
         isLoaded: 0
     },
@@ -13210,7 +13210,7 @@ var BUILDINGS = [{}, {
     alt: [BID.__ROAD_T0B0L1R0_1__, BID.__ROAD_T0B0L1R0_2__]
 }, {
     id: BID.__ROAD_T0B0L1R1__,
-    src: "https://devast.io/img/road-T0B0L1R1.png",
+    src: "img/road-T0B0L1R1.png",
     img: {
         isLoaded: 0
     },
@@ -13229,7 +13229,7 @@ var BUILDINGS = [{}, {
     alt: [BID.__ROAD_T0B0L1R1_1__, BID.__ROAD_T0B0L1R1_2__, BID.__ROAD_T0B0L1R1_3__, BID.__ROAD_T0B0L1R1_4__, BID.__ROAD_T0B0L1R1_5__, BID.__ROAD_T0B0L1R1_6__, BID.__ROAD_T0B0L1R1_7__, BID.__ROAD_T0B0L1R1_8__]
 }, {
     id: BID.__ROAD_T0B1L0R0__,
-    src: "https://devast.io/img/road-T0B1L0R0.png",
+    src: "img/road-T0B1L0R0.png",
     img: {
         isLoaded: 0
     },
@@ -13248,7 +13248,7 @@ var BUILDINGS = [{}, {
     alt: [BID.__ROAD_T0B1L0R0_1__, BID.__ROAD_T0B1L0R0_2__]
 }, {
     id: BID.__ROAD_T0B1L0R1__,
-    src: "https://devast.io/img/road-T0B1L0R1.png",
+    src: "img/road-T0B1L0R1.png",
     img: {
         isLoaded: 0
     },
@@ -13266,7 +13266,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T0B1L1R0__,
-    src: "https://devast.io/img/road-T0B1L1R0.png",
+    src: "img/road-T0B1L1R0.png",
     img: {
         isLoaded: 0
     },
@@ -13284,7 +13284,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T0B1L1R1__,
-    src: "https://devast.io/img/road-T0B1L1R1.png",
+    src: "img/road-T0B1L1R1.png",
     img: {
         isLoaded: 0
     },
@@ -13302,7 +13302,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T1B0L0R1__,
-    src: "https://devast.io/img/road-T1B0L0R0.png",
+    src: "img/road-T1B0L0R0.png",
     img: {
         isLoaded: 0
     },
@@ -13320,7 +13320,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T1B0L1R0__,
-    src: "https://devast.io/img/road-T1B0L0R1.png",
+    src: "img/road-T1B0L0R1.png",
     img: {
         isLoaded: 0
     },
@@ -13338,7 +13338,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T1B0L1R0__,
-    src: "https://devast.io/img/road-T1B0L1R0.png",
+    src: "img/road-T1B0L1R0.png",
     img: {
         isLoaded: 0
     },
@@ -13356,7 +13356,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T1B0L1R1__,
-    src: "https://devast.io/img/road-T1B0L1R1.png",
+    src: "img/road-T1B0L1R1.png",
     img: {
         isLoaded: 0
     },
@@ -13374,7 +13374,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T1B1L0R0__,
-    src: "https://devast.io/img/road-T1B1L0R0.png",
+    src: "img/road-T1B1L0R0.png",
     img: {
         isLoaded: 0
     },
@@ -13392,7 +13392,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T1B1L0R1__,
-    src: "https://devast.io/img/road-T1B1L0R1.png",
+    src: "img/road-T1B1L0R1.png",
     img: {
         isLoaded: 0
     },
@@ -13410,7 +13410,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T1B1L1R0__,
-    src: "https://devast.io/img/road-T1B1L1R0.png",
+    src: "img/road-T1B1L1R0.png",
     img: {
         isLoaded: 0
     },
@@ -13428,7 +13428,7 @@ var BUILDINGS = [{}, {
     ]
 }, {
     id: BID.__ROAD_T1B1L1R1__,
-    src: "https://devast.io/img/road-T1B1L1R1.png",
+    src: "img/road-T1B1L1R1.png",
     img: {
         isLoaded: 0
     },
@@ -13478,47 +13478,47 @@ try {
         var Height_410 = Width_410;
         var wVNMN = 412 / 8;
         var NnWnv = 0;
-        var IMG_MAP_BORDER      = "https://devast.io/img/borderBigMinimap2.png";
-        var IMG_MAP_ARROW       = "https://devast.io/img/arrow-minimap.png";
-        var IMG_MAP_ARROW2      = "https://devast.io/img/arrow-minimap2.png";
-        var IMG_HOUSE_ICON      = "https://devast.io/img/house-icon.png";
-        var IMG_CITY_ICON       = "https://devast.io/img/city-icon.png";
-        var IMG_INV_EMPTY       = "https://devast.io/img/inv-empty.png";
-        var IMG_LOOT            = "https://devast.io/img/loot.png";
-        var IMG_LOOT_TOUCH      = "https://devast.io/img/loot-isTouchScreen.png";
-        var IMG_LOOT2           = "https://devast.io/img/loot2.png";
-        var IMG_TIMER           = "https://devast.io/img/timer.png";
-        var IMG_CRAFT_GRID      = "https://devast.io/img/craft-grid.png";
-        var IMG_TIMER_ARROW     = "https://devast.io/img/timer-arrow.png";
-        var IMG_TIMER_LIGHTS    = "https://devast.io/img/timer-lights.png";
-        var IMG_HINT_ROTATE     = "https://devast.io/img/hint-rotate.png";
-        var IMG_DAY_UNUSABLE    = "https://devast.io/img/day-unusable.png";
-        var IMG_DAY_CLOCK       = "https://devast.io/img/day-clock.png";
-        var IMG_NIGHT_CLOCK     = "https://devast.io/img/night-clock.png";
-        var IMG_CLOCK_HAND      = "https://devast.io/img/clock-hand.png";
-        var IMG_CLOCK_HAND_RAD  = "https://devast.io/img/clock-hand-radiation.png";
-        var IMG_DAY_CLOCK_HAND  = "https://devast.io/img/day-clock-hand.png";
-        var IMG_CRAFT_GAUGE     = "https://devast.io/img/craft-gauge.png";
-        var IMG_STROKE_BONUS    = "https://devast.io/img/stroke-bonus.png";
-        var IMG_WRONG_TOOL      = "https://devast.io/img/wrong-tool.png";
-        var IMG_HAND_TOOL       = "https://devast.io/img/hand-tool.png";
-        var IMG_ARROW_CRAFT     = "https://devast.io/img/arrow-craft.png";
-        var IMG_UNLOCK_SKILLS   = "https://devast.io/img/unlock-skills.png";
-        var IMG_SERVER_FULL     = "https://devast.io/img/server-full.png";
-        var IMG_SERVER_OLD      = "https://devast.io/img/server-old.png";
-        var IMG_CLIENT_OLD      = "https://devast.io/img/client-old.png";
-        var IMG_SERVER_WRONG    = "https://devast.io/img/server-wrong.png";
-        var IMG_INVITATION_BOX  = "https://devast.io/img/invitation-box.png";
-        var IMG_TIME_BOX        = "https://devast.io/img/time-box.png";
-        var IMG_RANK_BOX        = "https://devast.io/img/rank-box.png";
-        var IMG_TOXIC_ALERT     = "https://devast.io/img/toxic-alert.png";
-        var IMG_RAD_ALERT       = "https://devast.io/img/radiation-alert.png";
+        var IMG_MAP_BORDER      = "img/borderBigMinimap2.png";
+        var IMG_MAP_ARROW       = "img/arrow-minimap.png";
+        var IMG_MAP_ARROW2      = "img/arrow-minimap2.png";
+        var IMG_HOUSE_ICON      = "img/house-icon.png";
+        var IMG_CITY_ICON       = "img/city-icon.png";
+        var IMG_INV_EMPTY       = "img/inv-empty.png";
+        var IMG_LOOT            = "img/loot.png";
+        var IMG_LOOT_TOUCH      = "img/loot-isTouchScreen.png";
+        var IMG_LOOT2           = "img/loot2.png";
+        var IMG_TIMER           = "img/timer.png";
+        var IMG_CRAFT_GRID      = "img/craft-grid.png";
+        var IMG_TIMER_ARROW     = "img/timer-arrow.png";
+        var IMG_TIMER_LIGHTS    = "img/timer-lights.png";
+        var IMG_HINT_ROTATE     = "img/hint-rotate.png";
+        var IMG_DAY_UNUSABLE    = "img/day-unusable.png";
+        var IMG_DAY_CLOCK       = "img/day-clock.png";
+        var IMG_NIGHT_CLOCK     = "img/night-clock.png";
+        var IMG_CLOCK_HAND      = "img/clock-hand.png";
+        var IMG_CLOCK_HAND_RAD  = "img/clock-hand-radiation.png";
+        var IMG_DAY_CLOCK_HAND  = "img/day-clock-hand.png";
+        var IMG_CRAFT_GAUGE     = "img/craft-gauge.png";
+        var IMG_STROKE_BONUS    = "img/stroke-bonus.png";
+        var IMG_WRONG_TOOL      = "img/wrong-tool.png";
+        var IMG_HAND_TOOL       = "img/hand-tool.png";
+        var IMG_ARROW_CRAFT     = "img/arrow-craft.png";
+        var IMG_UNLOCK_SKILLS   = "img/unlock-skills.png";
+        var IMG_SERVER_FULL     = "img/server-full.png";
+        var IMG_SERVER_OLD      = "img/server-old.png";
+        var IMG_CLIENT_OLD      = "img/client-old.png";
+        var IMG_SERVER_WRONG    = "img/server-wrong.png";
+        var IMG_INVITATION_BOX  = "img/invitation-box.png";
+        var IMG_TIME_BOX        = "img/time-box.png";
+        var IMG_RANK_BOX        = "img/rank-box.png";
+        var IMG_TOXIC_ALERT     = "img/toxic-alert.png";
+        var IMG_RAD_ALERT       = "img/radiation-alert.png";
         var Mvvwv = 500;
         var mVmWm = 256;
         var mMmvV = 500;
         var WWn = window.Math.floor(mVmWm / 2);
         var nWWwM = window.Math.floor(WWn / 2);
-        var IMG_ALERT = "https://devast.io/img/alert";
+        var IMG_ALERT = "img/alert";
         var Vwwmw = 699;
         var nvnwM = 738;
         var COLOR_LIGHTGREEN    = "#70BD56";
@@ -13723,13 +13723,13 @@ try {
         };
         var WNmVW = 0;
         var ICON_E_FURNITURE = {
-            src: "https://devast.io/img/e-furniture.png",
+            src: "img/e-furniture.png",
             img: {
                 isLoaded: 0
             }
         };
-        var IMG_TOXIC_AREA2 = CanvasUtils.loadImage("https://devast.io/img/toxic-area2.png");
-        var IMG_TOXIC_AREA3 = CanvasUtils.loadImage("https://devast.io/img/toxic-area3.png");
+        var IMG_TOXIC_AREA2 = CanvasUtils.loadImage("img/toxic-area2.png");
+        var IMG_TOXIC_AREA3 = CanvasUtils.loadImage("img/toxic-area3.png");
         var wVVVn = [];
         var playerAlive = [];
         var wmvVw = {
@@ -14312,7 +14312,7 @@ try {
                 var VWNwv = window.Math.floor(invtr[3] / 12.8);
                 var img = wwvmV[VWNwv];
                 if (img.isLoaded !== 1) {
-                    wwvmV[VWNwv] = CanvasUtils.loadImage(("https://devast.io/img/rotten" + VWNwv) + ".png", img);
+                    wwvmV[VWNwv] = CanvasUtils.loadImage(("img/rotten" + VWNwv) + ".png", img);
                 } else ctx.drawImage(img, offsetX + (0.5 * scaleby), offsetY, (scaleby * img.width) / 2, (scaleby * img.height) / 2);
             }
         };
@@ -19128,27 +19128,27 @@ var PARTICLESID = {
 };
 
 var WAITADS = [{
-    src: "https://devast.io/img/wait-ads-1.png",
+    src: "img/wait-ads-1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/wait-ads-2.png",
+    src: "img/wait-ads-2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/wait-ads-3.png",
+    src: "img/wait-ads-3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/wait-ads-4.png",
+    src: "img/wait-ads-4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/wait-ads-5.png",
+    src: "img/wait-ads-5.png",
     img: {
         isLoaded: 0
     }
@@ -19156,932 +19156,932 @@ var WAITADS = [{
 var PARTICLES = [];
 PARTICLES[PARTICLESID.__NOTHING__] = [];
 PARTICLES[PARTICLESID.__WOOD__] = [{
-    src: "https://devast.io/img/day-particules-wood1.png",
+    src: "img/day-particules-wood1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood2.png",
+    src: "img/day-particules-wood2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood3.png",
+    src: "img/day-particules-wood3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood4.png",
+    src: "img/day-particules-wood4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood5.png",
+    src: "img/day-particules-wood5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__STONE__] = [{
-    src: "https://devast.io/img/day-particules-stone1.png",
+    src: "img/day-particules-stone1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-stone2.png",
+    src: "img/day-particules-stone2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-stone3.png",
+    src: "img/day-particules-stone3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-stone4.png",
+    src: "img/day-particules-stone4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-stone5.png",
+    src: "img/day-particules-stone5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__STEEL__] = [{
-    src: "https://devast.io/img/day-particules-steel1.png",
+    src: "img/day-particules-steel1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-steel2.png",
+    src: "img/day-particules-steel2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-steel3.png",
+    src: "img/day-particules-steel3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-steel4.png",
+    src: "img/day-particules-steel4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-steel5.png",
+    src: "img/day-particules-steel5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__URANIUM__] = [{
-    src: "https://devast.io/img/day-particules-uranium1.png",
+    src: "img/day-particules-uranium1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-uranium2.png",
+    src: "img/day-particules-uranium2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-uranium3.png",
+    src: "img/day-particules-uranium3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-uranium4.png",
+    src: "img/day-particules-uranium4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-uranium5.png",
+    src: "img/day-particules-uranium5.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-uranium6.png",
+    src: "img/day-particules-uranium6.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-uranium7.png",
+    src: "img/day-particules-uranium7.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-uranium8.png",
+    src: "img/day-particules-uranium8.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-uranium9.png",
+    src: "img/day-particules-uranium9.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__SULFUR__] = [{
-    src: "https://devast.io/img/day-particules-sulfur1.png",
+    src: "img/day-particules-sulfur1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sulfur2.png",
+    src: "img/day-particules-sulfur2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sulfur3.png",
+    src: "img/day-particules-sulfur3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sulfur4.png",
+    src: "img/day-particules-sulfur4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sulfur5.png",
+    src: "img/day-particules-sulfur5.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sulfur6.png",
+    src: "img/day-particules-sulfur6.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sulfur7.png",
+    src: "img/day-particules-sulfur7.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sulfur8.png",
+    src: "img/day-particules-sulfur8.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sulfur9.png",
+    src: "img/day-particules-sulfur9.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__LEAF__] = [{
-    src: "https://devast.io/img/day-particules-leaf1.png",
+    src: "img/day-particules-leaf1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf2.png",
+    src: "img/day-particules-leaf2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf3.png",
+    src: "img/day-particules-leaf3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf4.png",
+    src: "img/day-particules-leaf4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf5.png",
+    src: "img/day-particules-leaf5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__LEAFTREE__] = [{
-    src: "https://devast.io/img/day-particules-wood1.png",
+    src: "img/day-particules-wood1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood3.png",
+    src: "img/day-particules-wood3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaftree1.png",
+    src: "img/day-particules-leaftree1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaftree2.png",
+    src: "img/day-particules-leaftree2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaftree3.png",
+    src: "img/day-particules-leaftree3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaftree4.png",
+    src: "img/day-particules-leaftree4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaftree5.png",
+    src: "img/day-particules-leaftree5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.flower] = [{
-    src: "https://devast.io/img/day-particules-flower1.png",
+    src: "img/day-particules-flower1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-flower2.png",
+    src: "img/day-particules-flower2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-flower3.png",
+    src: "img/day-particules-flower3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-flower4.png",
+    src: "img/day-particules-flower4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-flower5.png",
+    src: "img/day-particules-flower5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__ORANGE__] = [{
-    src: "https://devast.io/img/day-particules-leaf1.png",
+    src: "img/day-particules-leaf1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf2.png",
+    src: "img/day-particules-leaf2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf3.png",
+    src: "img/day-particules-leaf3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf4.png",
+    src: "img/day-particules-leaf4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf5.png",
+    src: "img/day-particules-leaf5.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf6.png",
+    src: "img/day-particules-leaf6.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf7.png",
+    src: "img/day-particules-leaf7.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf8.png",
+    src: "img/day-particules-leaf8.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-leaf9.png",
+    src: "img/day-particules-leaf9.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__BLOOD__] = [{
-    src: "https://devast.io/img/day-particules-blood1.png",
+    src: "img/day-particules-blood1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-blood2.png",
+    src: "img/day-particules-blood2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-blood3.png",
+    src: "img/day-particules-blood3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-blood4.png",
+    src: "img/day-particules-blood4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-blood5.png",
+    src: "img/day-particules-blood5.png",
     img: {
         isLoaded: 0
     }
 }];
 var NVMWV = 380;
 PARTICLES[PARTICLESID.__FIRE__] = [{
-    src: "https://devast.io/img/day-particules-fire1.png",
+    src: "img/day-particules-fire1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fire2.png",
+    src: "img/day-particules-fire2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fire3.png",
+    src: "img/day-particules-fire3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fire4.png",
+    src: "img/day-particules-fire4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fire5.png",
+    src: "img/day-particules-fire5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__FUR__] = [{
-    src: "https://devast.io/img/day-particules-fur1.png",
+    src: "img/day-particules-fur1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fur2.png",
+    src: "img/day-particules-fur2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fur3.png",
+    src: "img/day-particules-fur3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fur4.png",
+    src: "img/day-particules-fur4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fur5.png",
+    src: "img/day-particules-fur5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__BED0__] = [{
-    src: "https://devast.io/img/day-particules-bed0.png",
+    src: "img/day-particules-bed0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-bed1.png",
+    src: "img/day-particules-bed1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-bed2.png",
+    src: "img/day-particules-bed2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-bed6.png",
+    src: "img/day-particules-bed6.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood1.png",
+    src: "img/day-particules-wood1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood3.png",
+    src: "img/day-particules-wood3.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__BED1__] = [{
-    src: "https://devast.io/img/day-particules-bed3.png",
+    src: "img/day-particules-bed3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-bed4.png",
+    src: "img/day-particules-bed4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-bed5.png",
+    src: "img/day-particules-bed5.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-bed6.png",
+    src: "img/day-particules-bed6.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood1.png",
+    src: "img/day-particules-wood1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood3.png",
+    src: "img/day-particules-wood3.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__SOFA0__] = [{
-    src: "https://devast.io/img/day-particules-sofa0.png",
+    src: "img/day-particules-sofa0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa1.png",
+    src: "img/day-particules-sofa1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa2.png",
+    src: "img/day-particules-sofa2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa3.png",
+    src: "img/day-particules-sofa3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa4.png",
+    src: "img/day-particules-sofa4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__SOFA1__] = [{
-    src: "https://devast.io/img/day-particules-sofa0.png",
+    src: "img/day-particules-sofa0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa1.png",
+    src: "img/day-particules-sofa1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa2.png",
+    src: "img/day-particules-sofa2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa5.png",
+    src: "img/day-particules-sofa5.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa6.png",
+    src: "img/day-particules-sofa6.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__SOFA2__] = [{
-    src: "https://devast.io/img/day-particules-sofa0.png",
+    src: "img/day-particules-sofa0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa1.png",
+    src: "img/day-particules-sofa1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa2.png",
+    src: "img/day-particules-sofa2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa7.png",
+    src: "img/day-particules-sofa7.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-sofa8.png",
+    src: "img/day-particules-sofa8.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__TOILET__] = [{
-    src: "https://devast.io/img/day-particules-toilet0.png",
+    src: "img/day-particules-toilet0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-toilet1.png",
+    src: "img/day-particules-toilet1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-toilet2.png",
+    src: "img/day-particules-toilet2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-toilet3.png",
+    src: "img/day-particules-toilet3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-toilet4.png",
+    src: "img/day-particules-toilet4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__WOODLIGHT__] = [{
-    src: "https://devast.io/img/day-particules-woodlight0.png",
+    src: "img/day-particules-woodlight0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-woodlight1.png",
+    src: "img/day-particules-woodlight1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-woodlight2.png",
+    src: "img/day-particules-woodlight2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-woodlight3.png",
+    src: "img/day-particules-woodlight3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-woodlight4.png",
+    src: "img/day-particules-woodlight4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__SAFE0__] = [{
-    src: "https://devast.io/img/day-particules-safe0.png",
+    src: "img/day-particules-safe0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-safe1.png",
+    src: "img/day-particules-safe1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-safe2.png",
+    src: "img/day-particules-safe2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-safe3.png",
+    src: "img/day-particules-safe3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-safe4.png",
+    src: "img/day-particules-safe4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__GARBAGE0__] = [{
-    src: "https://devast.io/img/day-particules-garbage0.png",
+    src: "img/day-particules-garbage0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-garbage1.png",
+    src: "img/day-particules-garbage1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-garbage2.png",
+    src: "img/day-particules-garbage2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-garbage3.png",
+    src: "img/day-particules-garbage3.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__FRIDGE__] = [{
-    src: "https://devast.io/img/day-particules-fridge0.png",
+    src: "img/day-particules-fridge0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fridge1.png",
+    src: "img/day-particules-fridge1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fridge2.png",
+    src: "img/day-particules-fridge2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fridge3.png",
+    src: "img/day-particules-fridge3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-fridge4.png",
+    src: "img/day-particules-fridge4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__PLOT__] = [{
-    src: "https://devast.io/img/day-particules-plot0.png",
+    src: "img/day-particules-plot0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-plot1.png",
+    src: "img/day-particules-plot1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-plot2.png",
+    src: "img/day-particules-plot2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-plot3.png",
+    src: "img/day-particules-plot3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood1.png",
+    src: "img/day-particules-wood1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-wood3.png",
+    src: "img/day-particules-wood3.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__BARELRED__] = [{
-    src: "https://devast.io/img/day-particules-barel0.png",
+    src: "img/day-particules-barel0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-barel1.png",
+    src: "img/day-particules-barel1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-barel2.png",
+    src: "img/day-particules-barel2.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__BARELGREEN__] = [{
-    src: "https://devast.io/img/day-particules-barel3.png",
+    src: "img/day-particules-barel3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-barel4.png",
+    src: "img/day-particules-barel4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-barel5.png",
+    src: "img/day-particules-barel5.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__METAL__] = [{
-    src: "https://devast.io/img/day-particules-metal0.png",
+    src: "img/day-particules-metal0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-metal1.png",
+    src: "img/day-particules-metal1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-metal2.png",
+    src: "img/day-particules-metal2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-metal3.png",
+    src: "img/day-particules-metal3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-metal4.png",
+    src: "img/day-particules-metal4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__TOMATO__] = [{
-    src: "https://devast.io/img/day-particules-tomato0.png",
+    src: "img/day-particules-tomato0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-tomato1.png",
+    src: "img/day-particules-tomato1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-tomato2.png",
+    src: "img/day-particules-tomato2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-tomato3.png",
+    src: "img/day-particules-tomato3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-tomato4.png",
+    src: "img/day-particules-tomato4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__BLUE_STEEL__] = [{
-    src: "https://devast.io/img/day-particules-blue-steel0.png",
+    src: "img/day-particules-blue-steel0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-blue-steel1.png",
+    src: "img/day-particules-blue-steel1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-blue-steel2.png",
+    src: "img/day-particules-blue-steel2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-blue-steel3.png",
+    src: "img/day-particules-blue-steel3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-blue-steel4.png",
+    src: "img/day-particules-blue-steel4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__GREY_STEEL__] = [{
-    src: "https://devast.io/img/day-particules-grey-steel0.png",
+    src: "img/day-particules-grey-steel0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-grey-steel1.png",
+    src: "img/day-particules-grey-steel1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-grey-steel2.png",
+    src: "img/day-particules-grey-steel2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-grey-steel3.png",
+    src: "img/day-particules-grey-steel3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-grey-steel4.png",
+    src: "img/day-particules-grey-steel4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__RED_STEEL__] = [{
-    src: "https://devast.io/img/day-particules-red-steel0.png",
+    src: "img/day-particules-red-steel0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-red-steel1.png",
+    src: "img/day-particules-red-steel1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-red-steel2.png",
+    src: "img/day-particules-red-steel2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-red-steel3.png",
+    src: "img/day-particules-red-steel3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-red-steel4.png",
+    src: "img/day-particules-red-steel4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__KAKI__] = [{
-    src: "https://devast.io/img/day-particules-kaki0.png",
+    src: "img/day-particules-kaki0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-kaki1.png",
+    src: "img/day-particules-kaki1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-kaki2.png",
+    src: "img/day-particules-kaki2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-kaki3.png",
+    src: "img/day-particules-kaki3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-kaki4.png",
+    src: "img/day-particules-kaki4.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__MUSHROOM1__] = [{
-    src: "https://devast.io/img/day-particules-mushroom4.png",
+    src: "img/day-particules-mushroom4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-mushroom5.png",
+    src: "img/day-particules-mushroom5.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-mushroom6.png",
+    src: "img/day-particules-mushroom6.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__MUSHROOM2__] = [{
-    src: "https://devast.io/img/day-particules-mushroom1.png",
+    src: "img/day-particules-mushroom1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-mushroom2.png",
+    src: "img/day-particules-mushroom2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-mushroom3.png",
+    src: "img/day-particules-mushroom3.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__MUSHROOM3__] = [{
-    src: "https://devast.io/img/day-particules-mushroom7.png",
+    src: "img/day-particules-mushroom7.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-mushroom8.png",
+    src: "img/day-particules-mushroom8.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-mushroom9.png",
+    src: "img/day-particules-mushroom9.png",
     img: {
         isLoaded: 0
     }
 }];
 PARTICLES[PARTICLESID.__GOLD__] = [{
-    src: "https://devast.io/img/day-particules-gold0.png",
+    src: "img/day-particules-gold0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-gold1.png",
+    src: "img/day-particules-gold1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-particules-gold2.png",
+    src: "img/day-particules-gold2.png",
     img: {
         isLoaded: 0
     }
@@ -20120,7 +20120,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-out.png", "https://devast.io/img/inv-wood-in.png", "https://devast.io/img/inv-wood-click.png"],
+        src: ["img/inv-wood-out.png", "img/inv-wood-in.png", "img/inv-wood-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20136,7 +20136,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-out.png", "https://devast.io/img/inv-stone-in.png", "https://devast.io/img/inv-stone-click.png"],
+        src: ["img/inv-stone-out.png", "img/inv-stone-in.png", "img/inv-stone-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20156,7 +20156,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STEEL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-steel-out.png", "https://devast.io/img/inv-steel-in.png", "https://devast.io/img/inv-steel-click.png"],
+        src: ["img/inv-steel-out.png", "img/inv-steel-in.png", "img/inv-steel-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20176,7 +20176,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ANIMAL_FAT__,
     itemButton: {
-        src: ["https://devast.io/img/inv-animal-fat-out.png", "https://devast.io/img/inv-animal-fat-in.png", "https://devast.io/img/inv-animal-fat-click.png"],
+        src: ["img/inv-animal-fat-out.png", "img/inv-animal-fat-in.png", "img/inv-animal-fat-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20192,7 +20192,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ANIMAL_TENDON__,
     itemButton: {
-        src: ["https://devast.io/img/inv-animal-tendon-out.png", "https://devast.io/img/inv-animal-tendon-in.png", "https://devast.io/img/inv-animal-tendon-click.png"],
+        src: ["img/inv-animal-tendon-out.png", "img/inv-animal-tendon-in.png", "img/inv-animal-tendon-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20208,7 +20208,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STRING__,
     itemButton: {
-        src: ["https://devast.io/img/inv-string-out.png", "https://devast.io/img/inv-string-in.png", "https://devast.io/img/inv-string-click.png"],
+        src: ["img/inv-string-out.png", "img/inv-string-in.png", "img/inv-string-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20227,7 +20227,7 @@ var INVENTORY = [{
 }, {
     id: IID.__LEATHER_BOAR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-leather-boar-out.png", "https://devast.io/img/inv-leather-boar-in.png", "https://devast.io/img/inv-leather-boar-click.png"],
+        src: ["img/inv-leather-boar-out.png", "img/inv-leather-boar-in.png", "img/inv-leather-boar-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20243,7 +20243,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SHAPED_METAL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-shaped-metal-out.png", "https://devast.io/img/inv-shaped-metal-in.png", "https://devast.io/img/inv-shaped-metal-click.png"],
+        src: ["img/inv-shaped-metal-out.png", "img/inv-shaped-metal-in.png", "img/inv-shaped-metal-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20263,7 +20263,7 @@ var INVENTORY = [{
 }, {
     id: IID.__RAW_STEAK__,
     itemButton: {
-        src: ["https://devast.io/img/inv-raw-steak-out.png", "https://devast.io/img/inv-raw-steak-in.png", "https://devast.io/img/inv-raw-steak-click.png"],
+        src: ["img/inv-raw-steak-out.png", "img/inv-raw-steak-in.png", "img/inv-raw-steak-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20283,7 +20283,7 @@ var INVENTORY = [{
 }, {
     id: IID.__COOKED_STEAK__,
     itemButton: {
-        src: ["https://devast.io/img/inv-cooked-steak-out.png", "https://devast.io/img/inv-cooked-steak-in.png", "https://devast.io/img/inv-cooked-steak-click.png"],
+        src: ["img/inv-cooked-steak-out.png", "img/inv-cooked-steak-in.png", "img/inv-cooked-steak-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20307,7 +20307,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_STEAK__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-steak-out.png", "https://devast.io/img/inv-rotten-steak-in.png", "https://devast.io/img/inv-rotten-steak-click.png"],
+        src: ["img/inv-rotten-steak-out.png", "img/inv-rotten-steak-in.png", "img/inv-rotten-steak-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20325,7 +20325,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ORANGE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-orange-out.png", "https://devast.io/img/inv-orange-in.png", "https://devast.io/img/inv-orange-click.png"],
+        src: ["img/inv-orange-out.png", "img/inv-orange-in.png", "img/inv-orange-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20345,7 +20345,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_ORANGE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-orange-out.png", "https://devast.io/img/inv-rotten-orange-in.png", "https://devast.io/img/inv-rotten-orange-click.png"],
+        src: ["img/inv-rotten-orange-out.png", "img/inv-rotten-orange-in.png", "img/inv-rotten-orange-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20367,7 +20367,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SEED_ORANGE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-orange-seed-out.png", "https://devast.io/img/inv-orange-seed-in.png", "https://devast.io/img/inv-orange-seed-click.png"],
+        src: ["img/inv-orange-seed-out.png", "img/inv-orange-seed-in.png", "img/inv-orange-seed-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20398,13 +20398,13 @@ var INVENTORY = [{
     _x: [35, 35, 35, 35],
     _y: [35, 35, 35, 35],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-plant2-orange.png",
+        src: "img/day-clear-blue-plant2-orange.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-plant2-orange.png",
+        src: "img/day-redprint-plant2-orange.png",
         img: {
             isLoaded: 0
         }
@@ -20420,27 +20420,27 @@ var INVENTORY = [{
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__NO_SOUND__,
     building: [{
-        src: "https://devast.io/img/day-plant0-orange.png",
+        src: "img/day-plant0-orange.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant1-orange.png",
+        src: "img/day-plant1-orange.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant2-orange.png",
+        src: "img/day-plant2-orange.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant3-orange.png",
+        src: "img/day-plant3-orange.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant4-orange.png",
+        src: "img/day-plant4-orange.png",
         img: {
             isLoaded: 0
         }
@@ -20453,7 +20453,7 @@ var INVENTORY = [{
 }, {
     id: IID.__HACHET__,
     itemButton: {
-        src: ["https://devast.io/img/inv-hachet-out.png", "https://devast.io/img/inv-hachet-in.png", "https://devast.io/img/inv-hachet-click.png"],
+        src: ["img/inv-hachet-out.png", "img/inv-hachet-in.png", "img/inv-hachet-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20476,7 +20476,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE_PICKAXE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-pickaxe-out.png", "https://devast.io/img/inv-stone-pickaxe-in.png", "https://devast.io/img/inv-stone-pickaxe-click.png"],
+        src: ["img/inv-stone-pickaxe-out.png", "img/inv-stone-pickaxe-in.png", "img/inv-stone-pickaxe-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20498,7 +20498,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STEEL_PICKAXE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-steel-pickaxe-out.png", "https://devast.io/img/inv-steel-pickaxe-in.png", "https://devast.io/img/inv-steel-pickaxe-click.png"],
+        src: ["img/inv-steel-pickaxe-out.png", "img/inv-steel-pickaxe-in.png", "img/inv-steel-pickaxe-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20520,7 +20520,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE_AXE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-axe-out.png", "https://devast.io/img/inv-stone-axe-in.png", "https://devast.io/img/inv-stone-axe-click.png"],
+        src: ["img/inv-stone-axe-out.png", "img/inv-stone-axe-in.png", "img/inv-stone-axe-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20542,7 +20542,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WORKBENCH__,
     itemButton: {
-        src: ["https://devast.io/img/inv-workbench-out.png", "https://devast.io/img/inv-workbench-in.png", "https://devast.io/img/inv-workbench-click.png"],
+        src: ["img/inv-workbench-out.png", "img/inv-workbench-in.png", "img/inv-workbench-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20574,13 +20574,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-workbench.png",
+        src: "img/day-clear-blue-workbench.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-workbench.png",
+        src: "img/day-redprint-workbench.png",
         img: {
             isLoaded: 0
         }
@@ -20598,7 +20598,7 @@ var INVENTORY = [{
     draw: Render.workbench,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-workbench.png",
+        src: "img/e-workbench.png",
         img: {
             isLoaded: 0
         }
@@ -20606,7 +20606,7 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-workbench.png",
+        src: "img/day-workbench.png",
         img: {
             isLoaded: 0
         }
@@ -20619,7 +20619,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_SPEAR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-spear-out.png", "https://devast.io/img/inv-wood-spear-in.png", "https://devast.io/img/inv-wood-spear-click.png"],
+        src: ["img/inv-wood-spear-out.png", "img/inv-wood-spear-in.png", "img/inv-wood-spear-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20641,7 +20641,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_BOW__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-bow-out.png", "https://devast.io/img/inv-wood-bow-in.png", "https://devast.io/img/inv-wood-bow-click.png"],
+        src: ["img/inv-wood-bow-out.png", "img/inv-wood-bow-in.png", "img/inv-wood-bow-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20666,7 +20666,7 @@ var INVENTORY = [{
 }, {
     id: IID.__9MM__,
     itemButton: {
-        src: ["https://devast.io/img/inv-9mm-out.png", "https://devast.io/img/inv-9mm-in.png", "https://devast.io/img/inv-9mm-click.png"],
+        src: ["img/inv-9mm-out.png", "img/inv-9mm-in.png", "img/inv-9mm-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20689,7 +20689,7 @@ var INVENTORY = [{
 }, {
     id: IID.__DESERT_EAGLE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-desert-eagle-out.png", "https://devast.io/img/inv-desert-eagle-in.png", "https://devast.io/img/inv-desert-eagle-click.png"],
+        src: ["img/inv-desert-eagle-out.png", "img/inv-desert-eagle-in.png", "img/inv-desert-eagle-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20712,7 +20712,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SHOTGUN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-shotgun-out.png", "https://devast.io/img/inv-shotgun-in.png", "https://devast.io/img/inv-shotgun-click.png"],
+        src: ["img/inv-shotgun-out.png", "img/inv-shotgun-in.png", "img/inv-shotgun-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20735,7 +20735,7 @@ var INVENTORY = [{
 }, {
     id: IID.__AK47__,
     itemButton: {
-        src: ["https://devast.io/img/inv-ak47-out.png", "https://devast.io/img/inv-ak47-in.png", "https://devast.io/img/inv-ak47-click.png"],
+        src: ["img/inv-ak47-out.png", "img/inv-ak47-in.png", "img/inv-ak47-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20758,7 +20758,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SNIPER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-sniper-out.png", "https://devast.io/img/inv-sniper-in.png", "https://devast.io/img/inv-sniper-click.png"],
+        src: ["img/inv-sniper-out.png", "img/inv-sniper-in.png", "img/inv-sniper-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20781,7 +20781,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_WALL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-wall-out.png", "https://devast.io/img/inv-wood-wall-in.png", "https://devast.io/img/inv-wood-wall-click.png"],
+        src: ["img/inv-wood-wall-out.png", "img/inv-wood-wall-in.png", "img/inv-wood-wall-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -20810,13 +20810,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-wood-wall.png",
+        src: "img/day-clear-blue-wood-wall.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-wood-wall.png",
+        src: "img/day-redprint-wood-wall.png",
         img: {
             isLoaded: 0
         }
@@ -20835,17 +20835,17 @@ var INVENTORY = [{
     draw: Render.wall,
     drawFloor: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     broken: [{
-        src: "https://devast.io/img/day-wood-wall-broken0.png",
+        src: "img/day-wood-wall-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall-broken1.png",
+        src: "img/day-wood-wall-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall-broken2.png",
+        src: "img/day-wood-wall-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -20853,237 +20853,237 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-wood-wall0.png",
+        src: "img/day-wood-wall0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall1.png",
+        src: "img/day-wood-wall1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall2.png",
+        src: "img/day-wood-wall2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall3.png",
+        src: "img/day-wood-wall3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall4.png",
+        src: "img/day-wood-wall4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall5.png",
+        src: "img/day-wood-wall5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall6.png",
+        src: "img/day-wood-wall6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall7.png",
+        src: "img/day-wood-wall7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall8.png",
+        src: "img/day-wood-wall8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall9.png",
+        src: "img/day-wood-wall9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall10.png",
+        src: "img/day-wood-wall10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall11.png",
+        src: "img/day-wood-wall11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall12.png",
+        src: "img/day-wood-wall12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall13.png",
+        src: "img/day-wood-wall13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall14.png",
+        src: "img/day-wood-wall14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall15.png",
+        src: "img/day-wood-wall15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall16.png",
+        src: "img/day-wood-wall16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall17.png",
+        src: "img/day-wood-wall17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall18.png",
+        src: "img/day-wood-wall18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall19.png",
+        src: "img/day-wood-wall19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall20.png",
+        src: "img/day-wood-wall20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall21.png",
+        src: "img/day-wood-wall21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall22.png",
+        src: "img/day-wood-wall22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall23.png",
+        src: "img/day-wood-wall23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall24.png",
+        src: "img/day-wood-wall24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall25.png",
+        src: "img/day-wood-wall25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall26.png",
+        src: "img/day-wood-wall26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall27.png",
+        src: "img/day-wood-wall27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall28.png",
+        src: "img/day-wood-wall28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall29.png",
+        src: "img/day-wood-wall29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall30.png",
+        src: "img/day-wood-wall30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall31.png",
+        src: "img/day-wood-wall31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall32.png",
+        src: "img/day-wood-wall32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall33.png",
+        src: "img/day-wood-wall33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall34.png",
+        src: "img/day-wood-wall34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall35.png",
+        src: "img/day-wood-wall35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall36.png",
+        src: "img/day-wood-wall36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall37.png",
+        src: "img/day-wood-wall37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall38.png",
+        src: "img/day-wood-wall38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall39.png",
+        src: "img/day-wood-wall39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall40.png",
+        src: "img/day-wood-wall40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall41.png",
+        src: "img/day-wood-wall41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall42.png",
+        src: "img/day-wood-wall42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall43.png",
+        src: "img/day-wood-wall43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall44.png",
+        src: "img/day-wood-wall44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall45.png",
+        src: "img/day-wood-wall45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-wall46.png",
+        src: "img/day-wood-wall46.png",
         img: {
             isLoaded: 0
         }
@@ -21096,7 +21096,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE_WALL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-wall-out.png", "https://devast.io/img/inv-stone-wall-in.png", "https://devast.io/img/inv-stone-wall-click.png"],
+        src: ["img/inv-stone-wall-out.png", "img/inv-stone-wall-in.png", "img/inv-stone-wall-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -21125,13 +21125,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-wall.png",
+        src: "img/day-clear-blue-stone-wall.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-wall.png",
+        src: "img/day-redprint-stone-wall.png",
         img: {
             isLoaded: 0
         }
@@ -21150,17 +21150,17 @@ var INVENTORY = [{
     draw: Render.wall,
     drawFloor: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     broken: [{
-        src: "https://devast.io/img/day-stone-wall-broken0.png",
+        src: "img/day-stone-wall-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall-broken1.png",
+        src: "img/day-stone-wall-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall-broken2.png",
+        src: "img/day-stone-wall-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -21168,237 +21168,237 @@ var INVENTORY = [{
     impact: SOUNDID.__STONE_IMPACT__,
     destroy: SOUNDID.__STONE_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-stone-wall0.png",
+        src: "img/day-stone-wall0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall1.png",
+        src: "img/day-stone-wall1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall2.png",
+        src: "img/day-stone-wall2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall3.png",
+        src: "img/day-stone-wall3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall4.png",
+        src: "img/day-stone-wall4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall5.png",
+        src: "img/day-stone-wall5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall6.png",
+        src: "img/day-stone-wall6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall7.png",
+        src: "img/day-stone-wall7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall8.png",
+        src: "img/day-stone-wall8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall9.png",
+        src: "img/day-stone-wall9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall10.png",
+        src: "img/day-stone-wall10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall11.png",
+        src: "img/day-stone-wall11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall12.png",
+        src: "img/day-stone-wall12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall13.png",
+        src: "img/day-stone-wall13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall14.png",
+        src: "img/day-stone-wall14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall15.png",
+        src: "img/day-stone-wall15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall16.png",
+        src: "img/day-stone-wall16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall17.png",
+        src: "img/day-stone-wall17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall18.png",
+        src: "img/day-stone-wall18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall19.png",
+        src: "img/day-stone-wall19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall20.png",
+        src: "img/day-stone-wall20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall21.png",
+        src: "img/day-stone-wall21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall22.png",
+        src: "img/day-stone-wall22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall23.png",
+        src: "img/day-stone-wall23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall24.png",
+        src: "img/day-stone-wall24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall25.png",
+        src: "img/day-stone-wall25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall26.png",
+        src: "img/day-stone-wall26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall27.png",
+        src: "img/day-stone-wall27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall28.png",
+        src: "img/day-stone-wall28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall29.png",
+        src: "img/day-stone-wall29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall30.png",
+        src: "img/day-stone-wall30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall31.png",
+        src: "img/day-stone-wall31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall32.png",
+        src: "img/day-stone-wall32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall33.png",
+        src: "img/day-stone-wall33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall34.png",
+        src: "img/day-stone-wall34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall35.png",
+        src: "img/day-stone-wall35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall36.png",
+        src: "img/day-stone-wall36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall37.png",
+        src: "img/day-stone-wall37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall38.png",
+        src: "img/day-stone-wall38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall39.png",
+        src: "img/day-stone-wall39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall40.png",
+        src: "img/day-stone-wall40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall41.png",
+        src: "img/day-stone-wall41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall42.png",
+        src: "img/day-stone-wall42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall43.png",
+        src: "img/day-stone-wall43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall44.png",
+        src: "img/day-stone-wall44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall45.png",
+        src: "img/day-stone-wall45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-wall46.png",
+        src: "img/day-stone-wall46.png",
         img: {
             isLoaded: 0
         }
@@ -21411,7 +21411,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STEEL_WALL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-steel-wall-out.png", "https://devast.io/img/inv-steel-wall-in.png", "https://devast.io/img/inv-steel-wall-click.png"],
+        src: ["img/inv-steel-wall-out.png", "img/inv-steel-wall-in.png", "img/inv-steel-wall-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -21440,13 +21440,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-wall.png",
+        src: "img/day-clear-blue-stone-wall.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-wall.png",
+        src: "img/day-redprint-stone-wall.png",
         img: {
             isLoaded: 0
         }
@@ -21465,17 +21465,17 @@ var INVENTORY = [{
     draw: Render.wall,
     drawFloor: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     broken: [{
-        src: "https://devast.io/img/day-steel-wall-broken0.png",
+        src: "img/day-steel-wall-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall-broken1.png",
+        src: "img/day-steel-wall-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall-broken2.png",
+        src: "img/day-steel-wall-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -21483,237 +21483,237 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-steel-wall0.png",
+        src: "img/day-steel-wall0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall1.png",
+        src: "img/day-steel-wall1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall2.png",
+        src: "img/day-steel-wall2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall3.png",
+        src: "img/day-steel-wall3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall4.png",
+        src: "img/day-steel-wall4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall5.png",
+        src: "img/day-steel-wall5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall6.png",
+        src: "img/day-steel-wall6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall7.png",
+        src: "img/day-steel-wall7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall8.png",
+        src: "img/day-steel-wall8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall9.png",
+        src: "img/day-steel-wall9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall10.png",
+        src: "img/day-steel-wall10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall11.png",
+        src: "img/day-steel-wall11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall12.png",
+        src: "img/day-steel-wall12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall13.png",
+        src: "img/day-steel-wall13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall14.png",
+        src: "img/day-steel-wall14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall15.png",
+        src: "img/day-steel-wall15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall16.png",
+        src: "img/day-steel-wall16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall17.png",
+        src: "img/day-steel-wall17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall18.png",
+        src: "img/day-steel-wall18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall19.png",
+        src: "img/day-steel-wall19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall20.png",
+        src: "img/day-steel-wall20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall21.png",
+        src: "img/day-steel-wall21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall22.png",
+        src: "img/day-steel-wall22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall23.png",
+        src: "img/day-steel-wall23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall24.png",
+        src: "img/day-steel-wall24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall25.png",
+        src: "img/day-steel-wall25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall26.png",
+        src: "img/day-steel-wall26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall27.png",
+        src: "img/day-steel-wall27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall28.png",
+        src: "img/day-steel-wall28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall29.png",
+        src: "img/day-steel-wall29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall30.png",
+        src: "img/day-steel-wall30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall31.png",
+        src: "img/day-steel-wall31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall32.png",
+        src: "img/day-steel-wall32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall33.png",
+        src: "img/day-steel-wall33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall34.png",
+        src: "img/day-steel-wall34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall35.png",
+        src: "img/day-steel-wall35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall36.png",
+        src: "img/day-steel-wall36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall37.png",
+        src: "img/day-steel-wall37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall38.png",
+        src: "img/day-steel-wall38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall39.png",
+        src: "img/day-steel-wall39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall40.png",
+        src: "img/day-steel-wall40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall41.png",
+        src: "img/day-steel-wall41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall42.png",
+        src: "img/day-steel-wall42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall43.png",
+        src: "img/day-steel-wall43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall44.png",
+        src: "img/day-steel-wall44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall45.png",
+        src: "img/day-steel-wall45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-wall46.png",
+        src: "img/day-steel-wall46.png",
         img: {
             isLoaded: 0
         }
@@ -21726,7 +21726,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_DOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-door-out.png", "https://devast.io/img/inv-wood-door-in.png", "https://devast.io/img/inv-wood-door-click.png"],
+        src: ["img/inv-wood-door-out.png", "img/inv-wood-door-in.png", "img/inv-wood-door-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -21755,13 +21755,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 65],
     _y: [65, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-wood-door.png",
+        src: "img/day-clear-blue-wood-door.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-wood-door.png",
+        src: "img/day-redprint-wood-door.png",
         img: {
             isLoaded: 0
         }
@@ -21787,29 +21787,29 @@ var INVENTORY = [{
     draw: Render.door,
     packetId: 15,
     interact: {
-        src: "https://devast.io/img/e-opendoor.png",
+        src: "img/e-opendoor.png",
         img: {
             isLoaded: 0
         }
     },
     interactclose: {
-        src: "https://devast.io/img/e-closedoor.png",
+        src: "img/e-closedoor.png",
         img: {
             isLoaded: 0
         }
     },
     broken: [{
-        src: "https://devast.io/img/day-wood-door-broken0.png",
+        src: "img/day-wood-door-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-door-broken1.png",
+        src: "img/day-wood-door-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-door-broken2.png",
+        src: "img/day-wood-door-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -21817,7 +21817,7 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-wood-door.png",
+        src: "img/day-wood-door.png",
         img: {
             isLoaded: 0
         }
@@ -21830,7 +21830,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE_DOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-door-out.png", "https://devast.io/img/inv-stone-door-in.png", "https://devast.io/img/inv-stone-door-click.png"],
+        src: ["img/inv-stone-door-out.png", "img/inv-stone-door-in.png", "img/inv-stone-door-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -21859,13 +21859,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 65],
     _y: [65, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-door.png",
+        src: "img/day-clear-blue-stone-door.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-door.png",
+        src: "img/day-redprint-stone-door.png",
         img: {
             isLoaded: 0
         }
@@ -21891,29 +21891,29 @@ var INVENTORY = [{
     draw: Render.door,
     packetId: 15,
     interact: {
-        src: "https://devast.io/img/e-opendoor.png",
+        src: "img/e-opendoor.png",
         img: {
             isLoaded: 0
         }
     },
     interactclose: {
-        src: "https://devast.io/img/e-closedoor.png",
+        src: "img/e-closedoor.png",
         img: {
             isLoaded: 0
         }
     },
     broken: [{
-        src: "https://devast.io/img/day-stone-door-broken0.png",
+        src: "img/day-stone-door-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-door-broken1.png",
+        src: "img/day-stone-door-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-door-broken2.png",
+        src: "img/day-stone-door-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -21921,7 +21921,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STONE_IMPACT__,
     destroy: SOUNDID.__STONE_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-stone-door.png",
+        src: "img/day-stone-door.png",
         img: {
             isLoaded: 0
         }
@@ -21934,7 +21934,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STEEL_DOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-steel-door-out.png", "https://devast.io/img/inv-steel-door-in.png", "https://devast.io/img/inv-steel-door-click.png"],
+        src: ["img/inv-steel-door-out.png", "img/inv-steel-door-in.png", "img/inv-steel-door-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -21963,13 +21963,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 65],
     _y: [65, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-door.png",
+        src: "img/day-clear-blue-stone-door.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-door.png",
+        src: "img/day-redprint-stone-door.png",
         img: {
             isLoaded: 0
         }
@@ -21995,29 +21995,29 @@ var INVENTORY = [{
     draw: Render.door,
     packetId: 15,
     interact: {
-        src: "https://devast.io/img/e-opendoor.png",
+        src: "img/e-opendoor.png",
         img: {
             isLoaded: 0
         }
     },
     interactclose: {
-        src: "https://devast.io/img/e-closedoor.png",
+        src: "img/e-closedoor.png",
         img: {
             isLoaded: 0
         }
     },
     broken: [{
-        src: "https://devast.io/img/day-steel-door-broken0.png",
+        src: "img/day-steel-door-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-door-broken1.png",
+        src: "img/day-steel-door-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-door-broken2.png",
+        src: "img/day-steel-door-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -22025,7 +22025,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-steel-door.png",
+        src: "img/day-steel-door.png",
         img: {
             isLoaded: 0
         }
@@ -22038,7 +22038,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CAMPFIRE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-campfire-out.png", "https://devast.io/img/inv-campfire-in.png", "https://devast.io/img/inv-campfire-click.png"],
+        src: ["img/inv-campfire-out.png", "img/inv-campfire-in.png", "img/inv-campfire-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22070,13 +22070,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-campfire.png",
+        src: "img/day-clear-blue-campfire.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-campfire.png",
+        src: "img/day-redprint-campfire.png",
         img: {
             isLoaded: 0
         }
@@ -22095,7 +22095,7 @@ var INVENTORY = [{
     drawTop: Render.campfireLight,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-campfire.png",
+        src: "img/e-campfire.png",
         img: {
             isLoaded: 0
         }
@@ -22103,7 +22103,7 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-campfire.png",
+        src: "img/day-campfire.png",
         img: {
             isLoaded: 0
         }
@@ -22116,7 +22116,7 @@ var INVENTORY = [{
 }, {
     id: IID.__BULLET_9MM__,
     itemButton: {
-        src: ["https://devast.io/img/inv-bullet-9mm-out.png", "https://devast.io/img/inv-bullet-9mm-in.png", "https://devast.io/img/inv-bullet-9mm-click.png"],
+        src: ["img/inv-bullet-9mm-out.png", "img/inv-bullet-9mm-in.png", "img/inv-bullet-9mm-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22137,7 +22137,7 @@ var INVENTORY = [{
 }, {
     id: IID.__BULLET_SHOTGUN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-bullet-shotgun-out.png", "https://devast.io/img/inv-bullet-shotgun-in.png", "https://devast.io/img/inv-bullet-shotgun-click.png"],
+        src: ["img/inv-bullet-shotgun-out.png", "img/inv-bullet-shotgun-in.png", "img/inv-bullet-shotgun-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22158,7 +22158,7 @@ var INVENTORY = [{
 }, {
     id: IID.__BULLET_SNIPER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-bullet-sniper-out.png", "https://devast.io/img/inv-bullet-sniper-in.png", "https://devast.io/img/inv-bullet-sniper-click.png"],
+        src: ["img/inv-bullet-sniper-out.png", "img/inv-bullet-sniper-in.png", "img/inv-bullet-sniper-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22179,7 +22179,7 @@ var INVENTORY = [{
 }, {
     id: IID.__MEDIKIT__,
     itemButton: {
-        src: ["https://devast.io/img/inv-medikit-out.png", "https://devast.io/img/inv-medikit-in.png", "https://devast.io/img/inv-medikit-click.png"],
+        src: ["img/inv-medikit-out.png", "img/inv-medikit-in.png", "img/inv-medikit-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22203,7 +22203,7 @@ var INVENTORY = [{
 }, {
     id: IID.__BANDAGE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-bandage-out.png", "https://devast.io/img/inv-bandage-in.png", "https://devast.io/img/inv-bandage-click.png"],
+        src: ["img/inv-bandage-out.png", "img/inv-bandage-in.png", "img/inv-bandage-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22225,7 +22225,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SODA__,
     itemButton: {
-        src: ["https://devast.io/img/inv-soda-out.png", "https://devast.io/img/inv-soda-in.png", "https://devast.io/img/inv-soda-click.png"],
+        src: ["img/inv-soda-out.png", "img/inv-soda-in.png", "img/inv-soda-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22251,7 +22251,7 @@ var INVENTORY = [{
 }, {
     id: IID.__MP5__,
     itemButton: {
-        src: ["https://devast.io/img/inv-MP5-out.png", "https://devast.io/img/inv-MP5-in.png", "https://devast.io/img/inv-MP5-click.png"],
+        src: ["img/inv-MP5-out.png", "img/inv-MP5-in.png", "img/inv-MP5-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22274,7 +22274,7 @@ var INVENTORY = [{
 }, {
     id: IID.__HEADSCARF__,
     itemButton: {
-        src: ["https://devast.io/img/inv-headscarf-out.png", "https://devast.io/img/inv-headscarf-in.png", "https://devast.io/img/inv-headscarf-click.png"],
+        src: ["img/inv-headscarf-out.png", "img/inv-headscarf-in.png", "img/inv-headscarf-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22303,7 +22303,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CHAPKA__,
     itemButton: {
-        src: ["https://devast.io/img/inv-chapka-out.png", "https://devast.io/img/inv-chapka-in.png", "https://devast.io/img/inv-chapka-click.png"],
+        src: ["img/inv-chapka-out.png", "img/inv-chapka-in.png", "img/inv-chapka-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22333,7 +22333,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WINTER_COAT__,
     itemButton: {
-        src: ["https://devast.io/img/inv-coat-out.png", "https://devast.io/img/inv-coat-in.png", "https://devast.io/img/inv-coat-click.png"],
+        src: ["img/inv-coat-out.png", "img/inv-coat-in.png", "img/inv-coat-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22363,7 +22363,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GAZ_MASK__,
     itemButton: {
-        src: ["https://devast.io/img/inv-gaz-mask-out.png", "https://devast.io/img/inv-gaz-mask-in.png", "https://devast.io/img/inv-gaz-mask-click.png"],
+        src: ["img/inv-gaz-mask-out.png", "img/inv-gaz-mask-in.png", "img/inv-gaz-mask-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22393,7 +22393,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GAZ_PROTECTION__,
     itemButton: {
-        src: ["https://devast.io/img/inv-gaz-protection-out.png", "https://devast.io/img/inv-gaz-protection-in.png", "https://devast.io/img/inv-gaz-protection-click.png"],
+        src: ["img/inv-gaz-protection-out.png", "img/inv-gaz-protection-in.png", "img/inv-gaz-protection-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22425,7 +22425,7 @@ var INVENTORY = [{
 }, {
     id: IID.__RADIATION_SUIT__,
     itemButton: {
-        src: ["https://devast.io/img/inv-radiation-suit-out.png", "https://devast.io/img/inv-radiation-suit-in.png", "https://devast.io/img/inv-radiation-suit-click.png"],
+        src: ["img/inv-radiation-suit-out.png", "img/inv-radiation-suit-in.png", "img/inv-radiation-suit-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22457,7 +22457,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_ARROW__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-arrow-out.png", "https://devast.io/img/inv-wood-arrow-in.png", "https://devast.io/img/inv-wood-arrow-click.png"],
+        src: ["img/inv-wood-arrow-out.png", "img/inv-wood-arrow-in.png", "img/inv-wood-arrow-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22477,7 +22477,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CAMPFIRE_BBQ__,
     itemButton: {
-        src: ["https://devast.io/img/inv-campfire-bbq-out.png", "https://devast.io/img/inv-campfire-bbq-in.png", "https://devast.io/img/inv-campfire-bbq-click.png"],
+        src: ["img/inv-campfire-bbq-out.png", "img/inv-campfire-bbq-in.png", "img/inv-campfire-bbq-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22509,13 +22509,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-campfire-bbq.png",
+        src: "img/day-clear-blue-campfire-bbq.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-campfire-bbq.png",
+        src: "img/day-redprint-campfire-bbq.png",
         img: {
             isLoaded: 0
         }
@@ -22534,7 +22534,7 @@ var INVENTORY = [{
     drawTop: Render.campfireLight,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-campfire-bbq.png",
+        src: "img/e-campfire-bbq.png",
         img: {
             isLoaded: 0
         }
@@ -22542,7 +22542,7 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-campfire-bbq.png",
+        src: "img/day-campfire-bbq.png",
         img: {
             isLoaded: 0
         }
@@ -22555,7 +22555,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SMELTER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-smelter-out.png", "https://devast.io/img/inv-smelter-in.png", "https://devast.io/img/inv-smelter-click.png"],
+        src: ["img/inv-smelter-out.png", "img/inv-smelter-in.png", "img/inv-smelter-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22588,13 +22588,13 @@ var INVENTORY = [{
     iTile: [-1, 0, -1, 0],
     jTile: [0, -1, 0, -1],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-smelter.png",
+        src: "img/day-clear-blue-smelter.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-smelter.png",
+        src: "img/day-redprint-smelter.png",
         img: {
             isLoaded: 0
         }
@@ -22614,7 +22614,7 @@ var INVENTORY = [{
     draw: Render.smelter,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-smelter.png",
+        src: "img/e-smelter.png",
         img: {
             isLoaded: 0
         }
@@ -22622,22 +22622,22 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-smelter-off.png",
+        src: "img/day-smelter-off.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-smelter-on.png",
+        src: "img/day-smelter-on.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-smelter-light-up.png",
+        src: "img/day-smelter-light-up.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-smelter-light-down.png",
+        src: "img/day-smelter-light-down.png",
         img: {
             isLoaded: 0
         }
@@ -22650,7 +22650,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_BIGDOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-door1-out.png", "https://devast.io/img/inv-wood-door1-in.png", "https://devast.io/img/inv-wood-door1-click.png"],
+        src: ["img/inv-wood-door1-out.png", "img/inv-wood-door1-in.png", "img/inv-wood-door1-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22679,13 +22679,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-wood-door1.png",
+        src: "img/day-clear-blue-wood-door1.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-wood-door1.png",
+        src: "img/day-redprint-wood-door1.png",
         img: {
             isLoaded: 0
         }
@@ -22711,29 +22711,29 @@ var INVENTORY = [{
     draw: Render.door,
     packetId: 15,
     interact: {
-        src: "https://devast.io/img/e-opendoor.png",
+        src: "img/e-opendoor.png",
         img: {
             isLoaded: 0
         }
     },
     interactclose: {
-        src: "https://devast.io/img/e-closedoor.png",
+        src: "img/e-closedoor.png",
         img: {
             isLoaded: 0
         }
     },
     broken: [{
-        src: "https://devast.io/img/day-wood-door1-broken0.png",
+        src: "img/day-wood-door1-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-door1-broken1.png",
+        src: "img/day-wood-door1-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-door1-broken2.png",
+        src: "img/day-wood-door1-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -22741,7 +22741,7 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-wood-door1.png",
+        src: "img/day-wood-door1.png",
         img: {
             isLoaded: 0
         }
@@ -22754,7 +22754,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE_BIGDOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-door1-out.png", "https://devast.io/img/inv-stone-door1-in.png", "https://devast.io/img/inv-stone-door1-click.png"],
+        src: ["img/inv-stone-door1-out.png", "img/inv-stone-door1-in.png", "img/inv-stone-door1-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22783,13 +22783,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-door1.png",
+        src: "img/day-clear-blue-stone-door1.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-door1.png",
+        src: "img/day-redprint-stone-door1.png",
         img: {
             isLoaded: 0
         }
@@ -22815,29 +22815,29 @@ var INVENTORY = [{
     draw: Render.door,
     packetId: 15,
     interact: {
-        src: "https://devast.io/img/e-opendoor.png",
+        src: "img/e-opendoor.png",
         img: {
             isLoaded: 0
         }
     },
     interactclose: {
-        src: "https://devast.io/img/e-closedoor.png",
+        src: "img/e-closedoor.png",
         img: {
             isLoaded: 0
         }
     },
     broken: [{
-        src: "https://devast.io/img/day-stone-door1-broken0.png",
+        src: "img/day-stone-door1-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-door1-broken1.png",
+        src: "img/day-stone-door1-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-door1-broken2.png",
+        src: "img/day-stone-door1-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -22845,7 +22845,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STONE_IMPACT__,
     destroy: SOUNDID.__STONE_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-stone-door1.png",
+        src: "img/day-stone-door1.png",
         img: {
             isLoaded: 0
         }
@@ -22858,7 +22858,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STEEL_BIGDOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-steel-door1-out.png", "https://devast.io/img/inv-steel-door1-in.png", "https://devast.io/img/inv-steel-door1-click.png"],
+        src: ["img/inv-steel-door1-out.png", "img/inv-steel-door1-in.png", "img/inv-steel-door1-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22887,13 +22887,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-door1.png",
+        src: "img/day-clear-blue-stone-door1.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-door1.png",
+        src: "img/day-redprint-stone-door1.png",
         img: {
             isLoaded: 0
         }
@@ -22919,29 +22919,29 @@ var INVENTORY = [{
     draw: Render.door,
     packetId: 15,
     interact: {
-        src: "https://devast.io/img/e-opendoor.png",
+        src: "img/e-opendoor.png",
         img: {
             isLoaded: 0
         }
     },
     interactclose: {
-        src: "https://devast.io/img/e-closedoor.png",
+        src: "img/e-closedoor.png",
         img: {
             isLoaded: 0
         }
     },
     broken: [{
-        src: "https://devast.io/img/day-steel-door1-broken0.png",
+        src: "img/day-steel-door1-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-door1-broken1.png",
+        src: "img/day-steel-door1-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-door1-broken2.png",
+        src: "img/day-steel-door1-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -22949,7 +22949,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-steel-door1.png",
+        src: "img/day-steel-door1.png",
         img: {
             isLoaded: 0
         }
@@ -22962,7 +22962,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SULFUR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-sulfur-out.png", "https://devast.io/img/inv-sulfur-in.png", "https://devast.io/img/inv-sulfur-click.png"],
+        src: ["img/inv-sulfur-out.png", "img/inv-sulfur-in.png", "img/inv-sulfur-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -22982,7 +22982,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SHAPED_URANIUM__,
     itemButton: {
-        src: ["https://devast.io/img/inv-shaped-uranium-out.png", "https://devast.io/img/inv-shaped-uranium-in.png", "https://devast.io/img/inv-shaped-uranium-click.png"],
+        src: ["img/inv-shaped-uranium-out.png", "img/inv-shaped-uranium-in.png", "img/inv-shaped-uranium-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23002,7 +23002,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WORKBENCH2__,
     itemButton: {
-        src: ["https://devast.io/img/inv-workbench2-out.png", "https://devast.io/img/inv-workbench2-in.png", "https://devast.io/img/inv-workbench2-click.png"],
+        src: ["img/inv-workbench2-out.png", "img/inv-workbench2-in.png", "img/inv-workbench2-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23035,13 +23035,13 @@ var INVENTORY = [{
     iTile: [-1, 0, -1, 0],
     jTile: [0, -1, 0, -1],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-workbench2.png",
+        src: "img/day-clear-blue-workbench2.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-workbench2.png",
+        src: "img/day-redprint-workbench2.png",
         img: {
             isLoaded: 0
         }
@@ -23059,7 +23059,7 @@ var INVENTORY = [{
     draw: Render.workbench2,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-workbench2.png",
+        src: "img/e-workbench2.png",
         img: {
             isLoaded: 0
         }
@@ -23067,7 +23067,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-workbench2.png",
+        src: "img/day-workbench2.png",
         img: {
             isLoaded: 0
         }
@@ -23080,7 +23080,7 @@ var INVENTORY = [{
 }, {
     id: IID.__URANIUM__,
     itemButton: {
-        src: ["https://devast.io/img/inv-uranium-out.png", "https://devast.io/img/inv-uranium-in.png", "https://devast.io/img/inv-uranium-click.png"],
+        src: ["img/inv-uranium-out.png", "img/inv-uranium-in.png", "img/inv-uranium-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23100,7 +23100,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WEAVING__,
     itemButton: {
-        src: ["https://devast.io/img/inv-weaving-machine-out.png", "https://devast.io/img/inv-weaving-machine-in.png", "https://devast.io/img/inv-weaving-machine-click.png"],
+        src: ["img/inv-weaving-machine-out.png", "img/inv-weaving-machine-in.png", "img/inv-weaving-machine-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23132,13 +23132,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-weaving-machine.png",
+        src: "img/day-clear-blue-weaving-machine.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-weaving-machine.png",
+        src: "img/day-redprint-weaving-machine.png",
         img: {
             isLoaded: 0
         }
@@ -23156,7 +23156,7 @@ var INVENTORY = [{
     draw: Render.workbench,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-weaving-machine.png",
+        src: "img/e-weaving-machine.png",
         img: {
             isLoaded: 0
         }
@@ -23164,7 +23164,7 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-weaving-machine.png",
+        src: "img/day-weaving-machine.png",
         img: {
             isLoaded: 0
         }
@@ -23177,7 +23177,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GASOLINE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-gasoline-out.png", "https://devast.io/img/inv-gasoline-in.png", "https://devast.io/img/inv-gasoline-click.png"],
+        src: ["img/inv-gasoline-out.png", "img/inv-gasoline-in.png", "img/inv-gasoline-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23197,7 +23197,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SULFUR_PICKAXE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-sulfur-pickaxe-out.png", "https://devast.io/img/inv-sulfur-pickaxe-in.png", "https://devast.io/img/inv-sulfur-pickaxe-click.png"],
+        src: ["img/inv-sulfur-pickaxe-out.png", "img/inv-sulfur-pickaxe-in.png", "img/inv-sulfur-pickaxe-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23220,7 +23220,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CHEST__,
     itemButton: {
-        src: ["https://devast.io/img/inv-chest-out.png", "https://devast.io/img/inv-chest-in.png", "https://devast.io/img/inv-chest-click.png"],
+        src: ["img/inv-chest-out.png", "img/inv-chest-in.png", "img/inv-chest-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23251,13 +23251,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-chest.png",
+        src: "img/day-clear-blue-chest.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-chest.png",
+        src: "img/day-redprint-chest.png",
         img: {
             isLoaded: 0
         }
@@ -23275,7 +23275,7 @@ var INVENTORY = [{
     draw: Render.workbench,
     packetId: 25,
     interact: {
-        src: "https://devast.io/img/e-chest.png",
+        src: "img/e-chest.png",
         img: {
             isLoaded: 0
         }
@@ -23283,7 +23283,7 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-chest.png",
+        src: "img/day-chest.png",
         img: {
             isLoaded: 0
         }
@@ -23296,7 +23296,7 @@ var INVENTORY = [{
 }, {
     id: IID.__FRIDGE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-fridge-out.png", "https://devast.io/img/inv-fridge-in.png", "https://devast.io/img/inv-fridge-click.png"],
+        src: ["img/inv-fridge-out.png", "img/inv-fridge-in.png", "img/inv-fridge-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23328,13 +23328,13 @@ var INVENTORY = [{
     _x: [0, 0, 50, 0],
     _y: [0, 0, 0, 50],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-fridge.png",
+        src: "img/day-clear-blue-fridge.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-fridge.png",
+        src: "img/day-redprint-fridge.png",
         img: {
             isLoaded: 0
         }
@@ -23352,7 +23352,7 @@ var INVENTORY = [{
     draw: Render.workbench,
     packetId: 25,
     interact: {
-        src: "https://devast.io/img/e-fridge.png",
+        src: "img/e-fridge.png",
         img: {
             isLoaded: 0
         }
@@ -23360,7 +23360,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-fridge.png",
+        src: "img/day-fridge.png",
         img: {
             isLoaded: 0
         }
@@ -23373,7 +23373,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_FLOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-floor-out.png", "https://devast.io/img/inv-wood-floor-in.png", "https://devast.io/img/inv-wood-floor-click.png"],
+        src: ["img/inv-wood-floor-out.png", "img/inv-wood-floor-in.png", "img/inv-wood-floor-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23402,13 +23402,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-wood-floor.png",
+        src: "img/day-clear-blue-wood-floor.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-wood-floor.png",
+        src: "img/day-redprint-wood-floor.png",
         img: {
             isLoaded: 0
         }
@@ -23426,17 +23426,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.groundFloor,
     broken: [{
-        src: "https://devast.io/img/day-wood-floor-broken0.png",
+        src: "img/day-wood-floor-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-broken1.png",
+        src: "img/day-wood-floor-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-broken2.png",
+        src: "img/day-wood-floor-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -23444,237 +23444,237 @@ var INVENTORY = [{
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-wood-floor-0.png",
+        src: "img/day-wood-floor-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-1.png",
+        src: "img/day-wood-floor-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-2.png",
+        src: "img/day-wood-floor-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-3.png",
+        src: "img/day-wood-floor-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-4.png",
+        src: "img/day-wood-floor-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-5.png",
+        src: "img/day-wood-floor-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-6.png",
+        src: "img/day-wood-floor-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-7.png",
+        src: "img/day-wood-floor-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-8.png",
+        src: "img/day-wood-floor-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-9.png",
+        src: "img/day-wood-floor-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-10.png",
+        src: "img/day-wood-floor-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-11.png",
+        src: "img/day-wood-floor-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-12.png",
+        src: "img/day-wood-floor-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-13.png",
+        src: "img/day-wood-floor-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-14.png",
+        src: "img/day-wood-floor-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-15.png",
+        src: "img/day-wood-floor-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-16.png",
+        src: "img/day-wood-floor-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-17.png",
+        src: "img/day-wood-floor-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-18.png",
+        src: "img/day-wood-floor-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-19.png",
+        src: "img/day-wood-floor-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-20.png",
+        src: "img/day-wood-floor-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-21.png",
+        src: "img/day-wood-floor-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-22.png",
+        src: "img/day-wood-floor-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-23.png",
+        src: "img/day-wood-floor-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-24.png",
+        src: "img/day-wood-floor-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-25.png",
+        src: "img/day-wood-floor-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-26.png",
+        src: "img/day-wood-floor-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-27.png",
+        src: "img/day-wood-floor-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-28.png",
+        src: "img/day-wood-floor-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-29.png",
+        src: "img/day-wood-floor-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-30.png",
+        src: "img/day-wood-floor-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-31.png",
+        src: "img/day-wood-floor-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-32.png",
+        src: "img/day-wood-floor-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-33.png",
+        src: "img/day-wood-floor-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-34.png",
+        src: "img/day-wood-floor-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-35.png",
+        src: "img/day-wood-floor-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-36.png",
+        src: "img/day-wood-floor-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-37.png",
+        src: "img/day-wood-floor-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-38.png",
+        src: "img/day-wood-floor-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-39.png",
+        src: "img/day-wood-floor-39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-40.png",
+        src: "img/day-wood-floor-40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-41.png",
+        src: "img/day-wood-floor-41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-42.png",
+        src: "img/day-wood-floor-42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-43.png",
+        src: "img/day-wood-floor-43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-44.png",
+        src: "img/day-wood-floor-44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-45.png",
+        src: "img/day-wood-floor-45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-46.png",
+        src: "img/day-wood-floor-46.png",
         img: {
             isLoaded: 0
         }
@@ -23687,7 +23687,7 @@ var INVENTORY = [{
 }, {
     id: IID.__HAMMER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-hammer-out.png", "https://devast.io/img/inv-hammer-in.png", "https://devast.io/img/inv-hammer-click.png"],
+        src: ["img/inv-hammer-out.png", "img/inv-hammer-in.png", "img/inv-hammer-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23709,7 +23709,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SLEEPING_BAG__,
     itemButton: {
-        src: ["https://devast.io/img/inv-sleeping-bag-out.png", "https://devast.io/img/inv-sleeping-bag-in.png", "https://devast.io/img/inv-sleeping-bag-click.png"],
+        src: ["img/inv-sleeping-bag-out.png", "img/inv-sleeping-bag-in.png", "img/inv-sleeping-bag-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23740,13 +23740,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-sleeping-bag.png",
+        src: "img/day-clear-blue-sleeping-bag.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-sleeping-bag.png",
+        src: "img/day-redprint-sleeping-bag.png",
         img: {
             isLoaded: 0
         }
@@ -23762,7 +23762,7 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-sleeping-bag.png",
+        src: "img/day-sleeping-bag.png",
         img: {
             isLoaded: 0
         }
@@ -23775,7 +23775,7 @@ var INVENTORY = [{
 }, {
     id: IID.__REPAIR_HAMMER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-repair-hammer-out.png", "https://devast.io/img/inv-repair-hammer-in.png", "https://devast.io/img/inv-repair-hammer-click.png"],
+        src: ["img/inv-repair-hammer-out.png", "img/inv-repair-hammer-in.png", "img/inv-repair-hammer-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23797,7 +23797,7 @@ var INVENTORY = [{
 }, {
     id: IID.__NAILS__,
     itemButton: {
-        src: ["https://devast.io/img/inv-nails-out.png", "https://devast.io/img/inv-nails-in.png", "https://devast.io/img/inv-nails-click.png"],
+        src: ["img/inv-nails-out.png", "img/inv-nails-in.png", "img/inv-nails-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23816,7 +23816,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOODLIGHT_FLOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-floor-light-out.png", "https://devast.io/img/inv-wood-floor-light-in.png", "https://devast.io/img/inv-wood-floor-light-click.png"],
+        src: ["img/inv-wood-floor-light-out.png", "img/inv-wood-floor-light-in.png", "img/inv-wood-floor-light-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -23845,13 +23845,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-woodlight-floor.png",
+        src: "img/day-clear-blue-woodlight-floor.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-woodlight-floor.png",
+        src: "img/day-redprint-woodlight-floor.png",
         img: {
             isLoaded: 0
         }
@@ -23869,17 +23869,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.groundFloor,
     broken: [{
-        src: "https://devast.io/img/day-wood-floor-light-broken0.png",
+        src: "img/day-wood-floor-light-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-broken1.png",
+        src: "img/day-wood-floor-light-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-broken2.png",
+        src: "img/day-wood-floor-light-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -23887,237 +23887,237 @@ var INVENTORY = [{
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-wood-floor-light-0.png",
+        src: "img/day-wood-floor-light-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-1.png",
+        src: "img/day-wood-floor-light-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-2.png",
+        src: "img/day-wood-floor-light-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-3.png",
+        src: "img/day-wood-floor-light-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-4.png",
+        src: "img/day-wood-floor-light-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-5.png",
+        src: "img/day-wood-floor-light-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-6.png",
+        src: "img/day-wood-floor-light-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-7.png",
+        src: "img/day-wood-floor-light-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-8.png",
+        src: "img/day-wood-floor-light-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-9.png",
+        src: "img/day-wood-floor-light-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-10.png",
+        src: "img/day-wood-floor-light-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-11.png",
+        src: "img/day-wood-floor-light-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-12.png",
+        src: "img/day-wood-floor-light-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-13.png",
+        src: "img/day-wood-floor-light-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-14.png",
+        src: "img/day-wood-floor-light-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-15.png",
+        src: "img/day-wood-floor-light-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-16.png",
+        src: "img/day-wood-floor-light-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-17.png",
+        src: "img/day-wood-floor-light-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-18.png",
+        src: "img/day-wood-floor-light-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-19.png",
+        src: "img/day-wood-floor-light-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-20.png",
+        src: "img/day-wood-floor-light-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-21.png",
+        src: "img/day-wood-floor-light-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-22.png",
+        src: "img/day-wood-floor-light-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-23.png",
+        src: "img/day-wood-floor-light-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-24.png",
+        src: "img/day-wood-floor-light-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-25.png",
+        src: "img/day-wood-floor-light-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-26.png",
+        src: "img/day-wood-floor-light-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-27.png",
+        src: "img/day-wood-floor-light-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-28.png",
+        src: "img/day-wood-floor-light-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-29.png",
+        src: "img/day-wood-floor-light-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-30.png",
+        src: "img/day-wood-floor-light-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-31.png",
+        src: "img/day-wood-floor-light-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-32.png",
+        src: "img/day-wood-floor-light-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-33.png",
+        src: "img/day-wood-floor-light-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-34.png",
+        src: "img/day-wood-floor-light-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-35.png",
+        src: "img/day-wood-floor-light-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-36.png",
+        src: "img/day-wood-floor-light-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-37.png",
+        src: "img/day-wood-floor-light-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-38.png",
+        src: "img/day-wood-floor-light-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-39.png",
+        src: "img/day-wood-floor-light-39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-40.png",
+        src: "img/day-wood-floor-light-40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-41.png",
+        src: "img/day-wood-floor-light-41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-42.png",
+        src: "img/day-wood-floor-light-42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-43.png",
+        src: "img/day-wood-floor-light-43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-44.png",
+        src: "img/day-wood-floor-light-44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-45.png",
+        src: "img/day-wood-floor-light-45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-floor-light-46.png",
+        src: "img/day-wood-floor-light-46.png",
         img: {
             isLoaded: 0
         }
@@ -24130,7 +24130,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_SMALLWALL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-smallwall-out.png", "https://devast.io/img/inv-wood-smallwall-in.png", "https://devast.io/img/inv-wood-smallwall-click.png"],
+        src: ["img/inv-wood-smallwall-out.png", "img/inv-wood-smallwall-in.png", "img/inv-wood-smallwall-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -24159,13 +24159,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 65],
     _y: [65, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-wood-smallwall.png",
+        src: "img/day-clear-blue-wood-smallwall.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-wood-smallwall.png",
+        src: "img/day-redprint-wood-smallwall.png",
         img: {
             isLoaded: 0
         }
@@ -24191,17 +24191,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.lowWall,
     broken: [{
-        src: "https://devast.io/img/day-wood-smallwalls-broken0.png",
+        src: "img/day-wood-smallwalls-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-broken1.png",
+        src: "img/day-wood-smallwalls-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-broken2.png",
+        src: "img/day-wood-smallwalls-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -24209,202 +24209,202 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-wood-smallwalls-0.png",
+        src: "img/day-wood-smallwalls-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-1.png",
+        src: "img/day-wood-smallwalls-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-2.png",
+        src: "img/day-wood-smallwalls-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-3.png",
+        src: "img/day-wood-smallwalls-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-4.png",
+        src: "img/day-wood-smallwalls-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-5.png",
+        src: "img/day-wood-smallwalls-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-6.png",
+        src: "img/day-wood-smallwalls-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-7.png",
+        src: "img/day-wood-smallwalls-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-8.png",
+        src: "img/day-wood-smallwalls-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-9.png",
+        src: "img/day-wood-smallwalls-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-10.png",
+        src: "img/day-wood-smallwalls-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-11.png",
+        src: "img/day-wood-smallwalls-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-12.png",
+        src: "img/day-wood-smallwalls-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-13.png",
+        src: "img/day-wood-smallwalls-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-14.png",
+        src: "img/day-wood-smallwalls-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-15.png",
+        src: "img/day-wood-smallwalls-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-16.png",
+        src: "img/day-wood-smallwalls-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-17.png",
+        src: "img/day-wood-smallwalls-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-18.png",
+        src: "img/day-wood-smallwalls-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-19.png",
+        src: "img/day-wood-smallwalls-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-20.png",
+        src: "img/day-wood-smallwalls-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-21.png",
+        src: "img/day-wood-smallwalls-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-22.png",
+        src: "img/day-wood-smallwalls-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-23.png",
+        src: "img/day-wood-smallwalls-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-24.png",
+        src: "img/day-wood-smallwalls-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-25.png",
+        src: "img/day-wood-smallwalls-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-26.png",
+        src: "img/day-wood-smallwalls-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-27.png",
+        src: "img/day-wood-smallwalls-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-28.png",
+        src: "img/day-wood-smallwalls-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-29.png",
+        src: "img/day-wood-smallwalls-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-30.png",
+        src: "img/day-wood-smallwalls-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-31.png",
+        src: "img/day-wood-smallwalls-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-32.png",
+        src: "img/day-wood-smallwalls-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-33.png",
+        src: "img/day-wood-smallwalls-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-34.png",
+        src: "img/day-wood-smallwalls-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-35.png",
+        src: "img/day-wood-smallwalls-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-36.png",
+        src: "img/day-wood-smallwalls-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-37.png",
+        src: "img/day-wood-smallwalls-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-38.png",
+        src: "img/day-wood-smallwalls-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-smallwalls-39.png",
+        src: "img/day-wood-smallwalls-39.png",
         img: {
             isLoaded: 0
         }
@@ -24417,7 +24417,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE_SMALLWALL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-smallwall-out.png", "https://devast.io/img/inv-stone-smallwall-in.png", "https://devast.io/img/inv-stone-smallwall-click.png"],
+        src: ["img/inv-stone-smallwall-out.png", "img/inv-stone-smallwall-in.png", "img/inv-stone-smallwall-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -24446,13 +24446,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 65],
     _y: [65, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-smallwalls.png",
+        src: "img/day-clear-blue-stone-smallwalls.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-smallwalls.png",
+        src: "img/day-redprint-stone-smallwalls.png",
         img: {
             isLoaded: 0
         }
@@ -24478,17 +24478,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.lowWall,
     broken: [{
-        src: "https://devast.io/img/day-stone-smallwalls-broken0.png",
+        src: "img/day-stone-smallwalls-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-broken1.png",
+        src: "img/day-stone-smallwalls-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-broken2.png",
+        src: "img/day-stone-smallwalls-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -24496,202 +24496,202 @@ var INVENTORY = [{
     impact: SOUNDID.__STONE_IMPACT__,
     destroy: SOUNDID.__STONE_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-stone-smallwalls-0.png",
+        src: "img/day-stone-smallwalls-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-1.png",
+        src: "img/day-stone-smallwalls-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-2.png",
+        src: "img/day-stone-smallwalls-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-3.png",
+        src: "img/day-stone-smallwalls-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-4.png",
+        src: "img/day-stone-smallwalls-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-5.png",
+        src: "img/day-stone-smallwalls-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-6.png",
+        src: "img/day-stone-smallwalls-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-7.png",
+        src: "img/day-stone-smallwalls-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-8.png",
+        src: "img/day-stone-smallwalls-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-9.png",
+        src: "img/day-stone-smallwalls-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-10.png",
+        src: "img/day-stone-smallwalls-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-11.png",
+        src: "img/day-stone-smallwalls-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-12.png",
+        src: "img/day-stone-smallwalls-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-13.png",
+        src: "img/day-stone-smallwalls-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-14.png",
+        src: "img/day-stone-smallwalls-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-15.png",
+        src: "img/day-stone-smallwalls-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-16.png",
+        src: "img/day-stone-smallwalls-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-17.png",
+        src: "img/day-stone-smallwalls-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-18.png",
+        src: "img/day-stone-smallwalls-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-19.png",
+        src: "img/day-stone-smallwalls-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-20.png",
+        src: "img/day-stone-smallwalls-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-21.png",
+        src: "img/day-stone-smallwalls-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-22.png",
+        src: "img/day-stone-smallwalls-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-23.png",
+        src: "img/day-stone-smallwalls-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-24.png",
+        src: "img/day-stone-smallwalls-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-25.png",
+        src: "img/day-stone-smallwalls-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-26.png",
+        src: "img/day-stone-smallwalls-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-27.png",
+        src: "img/day-stone-smallwalls-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-28.png",
+        src: "img/day-stone-smallwalls-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-29.png",
+        src: "img/day-stone-smallwalls-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-30.png",
+        src: "img/day-stone-smallwalls-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-31.png",
+        src: "img/day-stone-smallwalls-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-32.png",
+        src: "img/day-stone-smallwalls-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-33.png",
+        src: "img/day-stone-smallwalls-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-34.png",
+        src: "img/day-stone-smallwalls-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-35.png",
+        src: "img/day-stone-smallwalls-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-36.png",
+        src: "img/day-stone-smallwalls-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-37.png",
+        src: "img/day-stone-smallwalls-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-38.png",
+        src: "img/day-stone-smallwalls-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-smallwalls-39.png",
+        src: "img/day-stone-smallwalls-39.png",
         img: {
             isLoaded: 0
         }
@@ -24704,7 +24704,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STEEL_SMALLWALL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-steel-smallwall-out.png", "https://devast.io/img/inv-steel-smallwall-in.png", "https://devast.io/img/inv-steel-smallwall-click.png"],
+        src: ["img/inv-steel-smallwall-out.png", "img/inv-steel-smallwall-in.png", "img/inv-steel-smallwall-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -24733,13 +24733,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 65],
     _y: [65, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-smallwalls.png",
+        src: "img/day-clear-blue-stone-smallwalls.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-smallwalls.png",
+        src: "img/day-redprint-stone-smallwalls.png",
         img: {
             isLoaded: 0
         }
@@ -24765,17 +24765,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.lowWall,
     broken: [{
-        src: "https://devast.io/img/day-steel-smallwalls-broken0.png",
+        src: "img/day-steel-smallwalls-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-broken1.png",
+        src: "img/day-steel-smallwalls-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-broken2.png",
+        src: "img/day-steel-smallwalls-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -24783,202 +24783,202 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-steel-smallwalls-0.png",
+        src: "img/day-steel-smallwalls-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-1.png",
+        src: "img/day-steel-smallwalls-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-2.png",
+        src: "img/day-steel-smallwalls-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-3.png",
+        src: "img/day-steel-smallwalls-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-4.png",
+        src: "img/day-steel-smallwalls-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-5.png",
+        src: "img/day-steel-smallwalls-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-6.png",
+        src: "img/day-steel-smallwalls-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-7.png",
+        src: "img/day-steel-smallwalls-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-8.png",
+        src: "img/day-steel-smallwalls-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-9.png",
+        src: "img/day-steel-smallwalls-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-10.png",
+        src: "img/day-steel-smallwalls-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-11.png",
+        src: "img/day-steel-smallwalls-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-12.png",
+        src: "img/day-steel-smallwalls-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-13.png",
+        src: "img/day-steel-smallwalls-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-14.png",
+        src: "img/day-steel-smallwalls-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-15.png",
+        src: "img/day-steel-smallwalls-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-16.png",
+        src: "img/day-steel-smallwalls-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-17.png",
+        src: "img/day-steel-smallwalls-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-18.png",
+        src: "img/day-steel-smallwalls-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-19.png",
+        src: "img/day-steel-smallwalls-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-20.png",
+        src: "img/day-steel-smallwalls-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-21.png",
+        src: "img/day-steel-smallwalls-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-22.png",
+        src: "img/day-steel-smallwalls-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-23.png",
+        src: "img/day-steel-smallwalls-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-24.png",
+        src: "img/day-steel-smallwalls-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-25.png",
+        src: "img/day-steel-smallwalls-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-26.png",
+        src: "img/day-steel-smallwalls-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-27.png",
+        src: "img/day-steel-smallwalls-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-28.png",
+        src: "img/day-steel-smallwalls-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-29.png",
+        src: "img/day-steel-smallwalls-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-30.png",
+        src: "img/day-steel-smallwalls-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-31.png",
+        src: "img/day-steel-smallwalls-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-32.png",
+        src: "img/day-steel-smallwalls-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-33.png",
+        src: "img/day-steel-smallwalls-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-34.png",
+        src: "img/day-steel-smallwalls-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-35.png",
+        src: "img/day-steel-smallwalls-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-36.png",
+        src: "img/day-steel-smallwalls-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-37.png",
+        src: "img/day-steel-smallwalls-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-38.png",
+        src: "img/day-steel-smallwalls-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-steel-smallwalls-39.png",
+        src: "img/day-steel-smallwalls-39.png",
         img: {
             isLoaded: 0
         }
@@ -25009,7 +25009,7 @@ var INVENTORY = [{
 }, {
     id: IID.__TOMATO_SOUP__,
     itemButton: {
-        src: ["https://devast.io/img/inv-tomato-soup-out.png", "https://devast.io/img/inv-tomato-soup-in.png", "https://devast.io/img/inv-tomato-soup-click.png"],
+        src: ["img/inv-tomato-soup-out.png", "img/inv-tomato-soup-in.png", "img/inv-tomato-soup-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25034,7 +25034,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SYRINGE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-syringe-out.png", "https://devast.io/img/inv-syringe-in.png", "https://devast.io/img/inv-syringe-click.png"],
+        src: ["img/inv-syringe-out.png", "img/inv-syringe-in.png", "img/inv-syringe-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25054,7 +25054,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CHEMICAL_COMPONENT__,
     itemButton: {
-        src: ["https://devast.io/img/inv-chemical-component-out.png", "https://devast.io/img/inv-chemical-component-in.png", "https://devast.io/img/inv-chemical-component-click.png"],
+        src: ["img/inv-chemical-component-out.png", "img/inv-chemical-component-in.png", "img/inv-chemical-component-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25070,7 +25070,7 @@ var INVENTORY = [{
 }, {
     id: IID.__RADAWAY__,
     itemButton: {
-        src: ["https://devast.io/img/inv-radaway-out.png", "https://devast.io/img/inv-radaway-in.png", "https://devast.io/img/inv-radaway-click.png"],
+        src: ["img/inv-radaway-out.png", "img/inv-radaway-in.png", "img/inv-radaway-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25093,7 +25093,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SEED_TOMATO__,
     itemButton: {
-        src: ["https://devast.io/img/inv-tomato-seed-out.png", "https://devast.io/img/inv-tomato-seed-in.png", "https://devast.io/img/inv-tomato-seed-click.png"],
+        src: ["img/inv-tomato-seed-out.png", "img/inv-tomato-seed-in.png", "img/inv-tomato-seed-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25124,13 +25124,13 @@ var INVENTORY = [{
     _x: [35, 35, 35, 35],
     _y: [35, 35, 35, 35],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-tomato.png",
+        src: "img/day-clear-blue-tomato.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-tomato.png",
+        src: "img/day-redprint-tomato.png",
         img: {
             isLoaded: 0
         }
@@ -25146,27 +25146,27 @@ var INVENTORY = [{
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__NO_SOUND__,
     building: [{
-        src: "https://devast.io/img/day-plant0-tomato.png",
+        src: "img/day-plant0-tomato.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant1-tomato.png",
+        src: "img/day-plant1-tomato.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant2-tomato.png",
+        src: "img/day-plant2-tomato.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant3-tomato.png",
+        src: "img/day-plant3-tomato.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant4-tomato.png",
+        src: "img/day-plant4-tomato.png",
         img: {
             isLoaded: 0
         }
@@ -25179,7 +25179,7 @@ var INVENTORY = [{
 }, {
     id: IID.__TOMATO__,
     itemButton: {
-        src: ["https://devast.io/img/inv-tomato-out.png", "https://devast.io/img/inv-tomato-in.png", "https://devast.io/img/inv-tomato-click.png"],
+        src: ["img/inv-tomato-out.png", "img/inv-tomato-in.png", "img/inv-tomato-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25199,7 +25199,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_TOMATO__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-tomato-out.png", "https://devast.io/img/inv-rotten-tomato-in.png", "https://devast.io/img/inv-rotten-tomato-click.png"],
+        src: ["img/inv-rotten-tomato-out.png", "img/inv-rotten-tomato-in.png", "img/inv-rotten-tomato-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25217,7 +25217,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CAN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-can-out.png", "https://devast.io/img/inv-can-in.png", "https://devast.io/img/inv-can-click.png"],
+        src: ["img/inv-can-out.png", "img/inv-can-in.png", "img/inv-can-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25237,7 +25237,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_CROSSBOW__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-crossbow-out.png", "https://devast.io/img/inv-wood-crossbow-in.png", "https://devast.io/img/inv-wood-crossbow-click.png"],
+        src: ["img/inv-wood-crossbow-out.png", "img/inv-wood-crossbow-in.png", "img/inv-wood-crossbow-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25261,7 +25261,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_CROSSARROW__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-crossarrow-out.png", "https://devast.io/img/inv-wood-crossarrow-in.png", "https://devast.io/img/inv-wood-crossarrow-click.png"],
+        src: ["img/inv-wood-crossarrow-out.png", "img/inv-wood-crossarrow-in.png", "img/inv-wood-crossarrow-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25281,7 +25281,7 @@ var INVENTORY = [{
 }, {
     id: IID.__NAIL_GUN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-nail-gun-out.png", "https://devast.io/img/inv-nail-gun-in.png", "https://devast.io/img/inv-nail-gun-click.png"],
+        src: ["img/inv-nail-gun-out.png", "img/inv-nail-gun-in.png", "img/inv-nail-gun-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25306,7 +25306,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SAWED_OFF_SHOTGUN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-sawed-off-shotgun-out.png", "https://devast.io/img/inv-sawed-off-shotgun-in.png", "https://devast.io/img/inv-sawed-off-shotgun-click.png"],
+        src: ["img/inv-sawed-off-shotgun-out.png", "img/inv-sawed-off-shotgun-in.png", "img/inv-sawed-off-shotgun-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25330,7 +25330,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE_FLOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-floor-out.png", "https://devast.io/img/inv-stone-floor-in.png", "https://devast.io/img/inv-stone-floor-click.png"],
+        src: ["img/inv-stone-floor-out.png", "img/inv-stone-floor-in.png", "img/inv-stone-floor-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25359,13 +25359,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-floor.png",
+        src: "img/day-clear-blue-stone-floor.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-floor.png",
+        src: "img/day-redprint-stone-floor.png",
         img: {
             isLoaded: 0
         }
@@ -25383,17 +25383,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.groundFloor,
     broken: [{
-        src: "https://devast.io/img/day-stone-floor-broken0.png",
+        src: "img/day-stone-floor-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-broken1.png",
+        src: "img/day-stone-floor-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-broken2.png",
+        src: "img/day-stone-floor-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -25401,237 +25401,237 @@ var INVENTORY = [{
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__STONE_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-stone-floor-0.png",
+        src: "img/day-stone-floor-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-1.png",
+        src: "img/day-stone-floor-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-2.png",
+        src: "img/day-stone-floor-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-3.png",
+        src: "img/day-stone-floor-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-4.png",
+        src: "img/day-stone-floor-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-5.png",
+        src: "img/day-stone-floor-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-6.png",
+        src: "img/day-stone-floor-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-7.png",
+        src: "img/day-stone-floor-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-8.png",
+        src: "img/day-stone-floor-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-9.png",
+        src: "img/day-stone-floor-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-10.png",
+        src: "img/day-stone-floor-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-11.png",
+        src: "img/day-stone-floor-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-12.png",
+        src: "img/day-stone-floor-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-13.png",
+        src: "img/day-stone-floor-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-14.png",
+        src: "img/day-stone-floor-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-15.png",
+        src: "img/day-stone-floor-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-16.png",
+        src: "img/day-stone-floor-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-17.png",
+        src: "img/day-stone-floor-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-18.png",
+        src: "img/day-stone-floor-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-19.png",
+        src: "img/day-stone-floor-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-20.png",
+        src: "img/day-stone-floor-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-21.png",
+        src: "img/day-stone-floor-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-22.png",
+        src: "img/day-stone-floor-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-23.png",
+        src: "img/day-stone-floor-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-24.png",
+        src: "img/day-stone-floor-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-25.png",
+        src: "img/day-stone-floor-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-26.png",
+        src: "img/day-stone-floor-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-27.png",
+        src: "img/day-stone-floor-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-28.png",
+        src: "img/day-stone-floor-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-29.png",
+        src: "img/day-stone-floor-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-30.png",
+        src: "img/day-stone-floor-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-31.png",
+        src: "img/day-stone-floor-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-32.png",
+        src: "img/day-stone-floor-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-33.png",
+        src: "img/day-stone-floor-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-34.png",
+        src: "img/day-stone-floor-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-35.png",
+        src: "img/day-stone-floor-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-36.png",
+        src: "img/day-stone-floor-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-37.png",
+        src: "img/day-stone-floor-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-38.png",
+        src: "img/day-stone-floor-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-39.png",
+        src: "img/day-stone-floor-39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-40.png",
+        src: "img/day-stone-floor-40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-41.png",
+        src: "img/day-stone-floor-41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-42.png",
+        src: "img/day-stone-floor-42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-43.png",
+        src: "img/day-stone-floor-43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-44.png",
+        src: "img/day-stone-floor-44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-45.png",
+        src: "img/day-stone-floor-45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-floor-46.png",
+        src: "img/day-stone-floor-46.png",
         img: {
             isLoaded: 0
         }
@@ -25644,7 +25644,7 @@ var INVENTORY = [{
 }, {
     id: IID.__TILING_FLOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-tiling-floor-out.png", "https://devast.io/img/inv-tiling-floor-in.png", "https://devast.io/img/inv-tiling-floor-click.png"],
+        src: ["img/inv-tiling-floor-out.png", "img/inv-tiling-floor-in.png", "img/inv-tiling-floor-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25673,13 +25673,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-tiling-floor.png",
+        src: "img/day-clear-blue-tiling-floor.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-tiling-floor.png",
+        src: "img/day-redprint-tiling-floor.png",
         img: {
             isLoaded: 0
         }
@@ -25697,17 +25697,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.groundFloor,
     broken: [{
-        src: "https://devast.io/img/day-tiling-floor-broken0.png",
+        src: "img/day-tiling-floor-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-broken1.png",
+        src: "img/day-tiling-floor-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-broken2.png",
+        src: "img/day-tiling-floor-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -25715,237 +25715,237 @@ var INVENTORY = [{
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__STONE_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-tiling-floor-0.png",
+        src: "img/day-tiling-floor-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-1.png",
+        src: "img/day-tiling-floor-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-2.png",
+        src: "img/day-tiling-floor-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-3.png",
+        src: "img/day-tiling-floor-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-4.png",
+        src: "img/day-tiling-floor-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-5.png",
+        src: "img/day-tiling-floor-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-6.png",
+        src: "img/day-tiling-floor-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-7.png",
+        src: "img/day-tiling-floor-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-8.png",
+        src: "img/day-tiling-floor-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-9.png",
+        src: "img/day-tiling-floor-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-10.png",
+        src: "img/day-tiling-floor-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-11.png",
+        src: "img/day-tiling-floor-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-12.png",
+        src: "img/day-tiling-floor-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-13.png",
+        src: "img/day-tiling-floor-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-14.png",
+        src: "img/day-tiling-floor-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-15.png",
+        src: "img/day-tiling-floor-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-16.png",
+        src: "img/day-tiling-floor-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-17.png",
+        src: "img/day-tiling-floor-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-18.png",
+        src: "img/day-tiling-floor-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-19.png",
+        src: "img/day-tiling-floor-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-20.png",
+        src: "img/day-tiling-floor-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-21.png",
+        src: "img/day-tiling-floor-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-22.png",
+        src: "img/day-tiling-floor-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-23.png",
+        src: "img/day-tiling-floor-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-24.png",
+        src: "img/day-tiling-floor-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-25.png",
+        src: "img/day-tiling-floor-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-26.png",
+        src: "img/day-tiling-floor-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-27.png",
+        src: "img/day-tiling-floor-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-28.png",
+        src: "img/day-tiling-floor-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-29.png",
+        src: "img/day-tiling-floor-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-30.png",
+        src: "img/day-tiling-floor-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-31.png",
+        src: "img/day-tiling-floor-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-32.png",
+        src: "img/day-tiling-floor-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-33.png",
+        src: "img/day-tiling-floor-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-34.png",
+        src: "img/day-tiling-floor-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-35.png",
+        src: "img/day-tiling-floor-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-36.png",
+        src: "img/day-tiling-floor-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-37.png",
+        src: "img/day-tiling-floor-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-38.png",
+        src: "img/day-tiling-floor-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-39.png",
+        src: "img/day-tiling-floor-39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-40.png",
+        src: "img/day-tiling-floor-40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-41.png",
+        src: "img/day-tiling-floor-41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-42.png",
+        src: "img/day-tiling-floor-42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-43.png",
+        src: "img/day-tiling-floor-43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-44.png",
+        src: "img/day-tiling-floor-44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-45.png",
+        src: "img/day-tiling-floor-45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tiling-floor-46.png",
+        src: "img/day-tiling-floor-46.png",
         img: {
             isLoaded: 0
         }
@@ -25977,7 +25977,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CRISPS__,
     itemButton: {
-        src: ["https://devast.io/img/inv-chips-out.png", "https://devast.io/img/inv-chips-in.png", "https://devast.io/img/inv-chips-click.png"],
+        src: ["img/inv-chips-out.png", "img/inv-chips-in.png", "img/inv-chips-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -25996,7 +25996,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_CRISPS__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-chips-out.png", "https://devast.io/img/inv-rotten-chips-in.png", "https://devast.io/img/inv-rotten-chips-click.png"],
+        src: ["img/inv-rotten-chips-out.png", "img/inv-rotten-chips-in.png", "img/inv-rotten-chips-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26014,7 +26014,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ELECTRONICS__,
     itemButton: {
-        src: ["https://devast.io/img/inv-electronic-part-out.png", "https://devast.io/img/inv-electronic-part-in.png", "https://devast.io/img/inv-electronic-part-click.png"],
+        src: ["img/inv-electronic-part-out.png", "img/inv-electronic-part-in.png", "img/inv-electronic-part-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26030,7 +26030,7 @@ var INVENTORY = [{
 }, {
     id: IID.__JUNK__,
     itemButton: {
-        src: ["https://devast.io/img/inv-junk-out.png", "https://devast.io/img/inv-junk-in.png", "https://devast.io/img/inv-junk-click.png"],
+        src: ["img/inv-junk-out.png", "img/inv-junk-in.png", "img/inv-junk-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26046,7 +26046,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WIRE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wires-out.png", "https://devast.io/img/inv-wires-in.png", "https://devast.io/img/inv-wires-click.png"],
+        src: ["img/inv-wires-out.png", "img/inv-wires-in.png", "img/inv-wires-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26062,7 +26062,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ENERGY_CELLS__,
     itemButton: {
-        src: ["https://devast.io/img/inv-small-energy-cells-out.png", "https://devast.io/img/inv-small-energy-cells-in.png", "https://devast.io/img/inv-small-energy-cells-click.png"],
+        src: ["img/inv-small-energy-cells-out.png", "img/inv-small-energy-cells-in.png", "img/inv-small-energy-cells-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26082,7 +26082,7 @@ var INVENTORY = [{
 }, {
     id: IID.__LASER_PISTOL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-laser-pistol-out.png", "https://devast.io/img/inv-laser-pistol-in.png", "https://devast.io/img/inv-laser-pistol-click.png"],
+        src: ["img/inv-laser-pistol-out.png", "img/inv-laser-pistol-in.png", "img/inv-laser-pistol-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26108,7 +26108,7 @@ var INVENTORY = [{
 }, {
     id: IID.__TESLA__,
     itemButton: {
-        src: ["https://devast.io/img/inv-workbench3-out.png", "https://devast.io/img/inv-workbench3-in.png", "https://devast.io/img/inv-workbench3-click.png"],
+        src: ["img/inv-workbench3-out.png", "img/inv-workbench3-in.png", "img/inv-workbench3-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26144,13 +26144,13 @@ var INVENTORY = [{
     iTile: [-1, 0, -1, 0],
     jTile: [0, -1, 0, -1],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-workbench3.png",
+        src: "img/day-clear-blue-workbench3.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-workbench3.png",
+        src: "img/day-redprint-workbench3.png",
         img: {
             isLoaded: 0
         }
@@ -26170,7 +26170,7 @@ var INVENTORY = [{
     draw: Render.teslaBench,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-workbench3.png",
+        src: "img/e-workbench3.png",
         img: {
             isLoaded: 0
         }
@@ -26178,53 +26178,53 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-workbench3.png",
+        src: "img/day-workbench3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-workbench3-1.png",
+        src: "img/day-workbench3-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-workbench3-2.png",
+        src: "img/day-workbench3-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-workbench3-3.png",
+        src: "img/day-workbench3-3.png",
         img: {
             isLoaded: 0
         }
     }],
     light: [{
-        src: "https://devast.io/img/day-tesla-light0.png",
+        src: "img/day-tesla-light0.png",
         img: {
             isLoaded: 0
         }
     }, 0, {
-        src: "https://devast.io/img/day-tesla-light1.png",
+        src: "img/day-tesla-light1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tesla-light2.png",
+        src: "img/day-tesla-light2.png",
         img: {
             isLoaded: 0
         }
     }, 0, {
-        src: "https://devast.io/img/day-tesla-light3.png",
+        src: "img/day-tesla-light3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tesla-light4.png",
+        src: "img/day-tesla-light4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-tesla-light5.png",
+        src: "img/day-tesla-light5.png",
         img: {
             isLoaded: 0
         }
@@ -26237,7 +26237,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ALLOYS__,
     itemButton: {
-        src: ["https://devast.io/img/inv-alloys-out.png", "https://devast.io/img/inv-alloys-in.png", "https://devast.io/img/inv-alloys-click.png"],
+        src: ["img/inv-alloys-out.png", "img/inv-alloys-in.png", "img/inv-alloys-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26258,7 +26258,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SULFUR_AXE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-sulfur-axe-out.png", "https://devast.io/img/inv-sulfur-axe-in.png", "https://devast.io/img/inv-sulfur-axe-click.png"],
+        src: ["img/inv-sulfur-axe-out.png", "img/inv-sulfur-axe-in.png", "img/inv-sulfur-axe-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26282,7 +26282,7 @@ var INVENTORY = [{
 }, {
     id: IID.__LANDMINE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-landmine-out.png", "https://devast.io/img/inv-landmine-in.png", "https://devast.io/img/inv-landmine-click.png"],
+        src: ["img/inv-landmine-out.png", "img/inv-landmine-in.png", "img/inv-landmine-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26314,13 +26314,13 @@ var INVENTORY = [{
     xCenter: [0, 0, 0, 0],
     yCenter: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-landmine.png",
+        src: "img/clear-blue-landmine.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-landmine.png",
+        src: "img/redprint-landmine.png",
         img: {
             isLoaded: 0
         }
@@ -26338,17 +26338,17 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-landmine-0.png",
+        src: "img/day-landmine-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-landmine-1.png",
+        src: "img/day-landmine-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-landmine-2.png",
+        src: "img/day-landmine-2.png",
         img: {
             isLoaded: 0
         }
@@ -26361,7 +26361,7 @@ var INVENTORY = [{
 }, {
     id: IID.__DYNAMITE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-dynamite-out.png", "https://devast.io/img/inv-dynamite-in.png", "https://devast.io/img/inv-dynamite-click.png"],
+        src: ["img/inv-dynamite-out.png", "img/inv-dynamite-in.png", "img/inv-dynamite-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26393,13 +26393,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-dynamite.png",
+        src: "img/clear-blue-dynamite.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-dynamite.png",
+        src: "img/redprint-dynamite.png",
         img: {
             isLoaded: 0
         }
@@ -26417,12 +26417,12 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__NO_SOUND__,
     building: [{
-        src: "https://devast.io/img/day-dynamite.png",
+        src: "img/day-dynamite.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/dynamite-yellow.png",
+        src: "img/dynamite-yellow.png",
         img: {
             isLoaded: 0
         }
@@ -26435,7 +26435,7 @@ var INVENTORY = [{
 }, {
     id: IID.__C4__,
     itemButton: {
-        src: ["https://devast.io/img/inv-C4-out.png", "https://devast.io/img/inv-C4-in.png", "https://devast.io/img/inv-C4-click.png"],
+        src: ["img/inv-C4-out.png", "img/inv-C4-in.png", "img/inv-C4-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26467,13 +26467,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-C4.png",
+        src: "img/clear-blue-C4.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-C4.png",
+        src: "img/redprint-C4.png",
         img: {
             isLoaded: 0
         }
@@ -26491,12 +26491,12 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__NO_SOUND__,
     building: [{
-        src: "https://devast.io/img/day-C4.png",
+        src: "img/day-C4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/C4-red.png",
+        src: "img/C4-red.png",
         img: {
             isLoaded: 0
         }
@@ -26509,7 +26509,7 @@ var INVENTORY = [{
 }, {
     id: IID.__C4_TRIGGER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-joystick-out.png", "https://devast.io/img/inv-joystick-in.png", "https://devast.io/img/inv-joystick-click.png"],
+        src: ["img/inv-joystick-out.png", "img/inv-joystick-in.png", "img/inv-joystick-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26534,7 +26534,7 @@ var INVENTORY = [{
 }, {
     id: IID.__COMPOST__,
     itemButton: {
-        src: ["https://devast.io/img/inv-composter-out.png", "https://devast.io/img/inv-composter-in.png", "https://devast.io/img/inv-composter-click.png"],
+        src: ["img/inv-composter-out.png", "img/inv-composter-in.png", "img/inv-composter-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26565,13 +26565,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-composter.png",
+        src: "img/clear-blue-composter.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-composter.png",
+        src: "img/redprint-composter.png",
         img: {
             isLoaded: 0
         }
@@ -26589,7 +26589,7 @@ var INVENTORY = [{
     draw: Render.compost,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-composter.png",
+        src: "img/e-composter.png",
         img: {
             isLoaded: 0
         }
@@ -26597,12 +26597,12 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-composter-off.png",
+        src: "img/day-composter-off.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-composter.png",
+        src: "img/day-composter.png",
         img: {
             isLoaded: 0
         }
@@ -26615,7 +26615,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_PHYSIC_1__,
     itemButton: {
-        src: ["https://devast.io/img/inv-metal-helmet-out.png", "https://devast.io/img/inv-metal-helmet-in.png", "https://devast.io/img/inv-metal-helmet-click.png"],
+        src: ["img/inv-metal-helmet-out.png", "img/inv-metal-helmet-in.png", "img/inv-metal-helmet-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26646,7 +26646,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_PHYSIC_2__,
     itemButton: {
-        src: ["https://devast.io/img/inv-welding-helmet-out.png", "https://devast.io/img/inv-welding-helmet-in.png", "https://devast.io/img/inv-welding-helmet-click.png"],
+        src: ["img/inv-welding-helmet-out.png", "img/inv-welding-helmet-in.png", "img/inv-welding-helmet-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26678,7 +26678,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_PHYSIC_3__,
     itemButton: {
-        src: ["https://devast.io/img/inv-gladiator-helmet-out.png", "https://devast.io/img/inv-gladiator-helmet-in.png", "https://devast.io/img/inv-gladiator-helmet-click.png"],
+        src: ["img/inv-gladiator-helmet-out.png", "img/inv-gladiator-helmet-in.png", "img/inv-gladiator-helmet-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26710,7 +26710,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_FIRE_1__,
     itemButton: {
-        src: ["https://devast.io/img/inv-leather-jacket-out.png", "https://devast.io/img/inv-leather-jacket-in.png", "https://devast.io/img/inv-leather-jacket-click.png"],
+        src: ["img/inv-leather-jacket-out.png", "img/inv-leather-jacket-in.png", "img/inv-leather-jacket-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26739,7 +26739,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_FIRE_2__,
     itemButton: {
-        src: ["https://devast.io/img/inv-kevlar-suit-out.png", "https://devast.io/img/inv-kevlar-suit-in.png", "https://devast.io/img/inv-kevlar-suit-click.png"],
+        src: ["img/inv-kevlar-suit-out.png", "img/inv-kevlar-suit-in.png", "img/inv-kevlar-suit-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26771,7 +26771,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_FIRE_3__,
     itemButton: {
-        src: ["https://devast.io/img/inv-SWAT-suit-out.png", "https://devast.io/img/inv-SWAT-suit-in.png", "https://devast.io/img/inv-SWAT-suit-click.png"],
+        src: ["img/inv-SWAT-suit-out.png", "img/inv-SWAT-suit-in.png", "img/inv-SWAT-suit-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26803,7 +26803,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_DEMINER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-protective-suit-out.png", "https://devast.io/img/inv-protective-suit-in.png", "https://devast.io/img/inv-protective-suit-click.png"],
+        src: ["img/inv-protective-suit-out.png", "img/inv-protective-suit-in.png", "img/inv-protective-suit-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26834,7 +26834,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_TESLA_1__,
     itemButton: {
-        src: ["https://devast.io/img/inv-tesla-0-out.png", "https://devast.io/img/inv-tesla-0-in.png", "https://devast.io/img/inv-tesla-0-click.png"],
+        src: ["img/inv-tesla-0-out.png", "img/inv-tesla-0-in.png", "img/inv-tesla-0-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26866,7 +26866,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ARMOR_TESLA_2__,
     itemButton: {
-        src: ["https://devast.io/img/inv-tesla-armor-out.png", "https://devast.io/img/inv-tesla-armor-in.png", "https://devast.io/img/inv-tesla-armor-click.png"],
+        src: ["img/inv-tesla-armor-out.png", "img/inv-tesla-armor-in.png", "img/inv-tesla-armor-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26898,7 +26898,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WOOD_SPIKE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wood-spike-out.png", "https://devast.io/img/inv-wood-spike-in.png", "https://devast.io/img/inv-wood-spike-click.png"],
+        src: ["img/inv-wood-spike-out.png", "img/inv-wood-spike-in.png", "img/inv-wood-spike-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -26927,13 +26927,13 @@ var INVENTORY = [{
     xCenter: [0, 0, 0, 0],
     yCenter: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-wood-spike.png",
+        src: "img/clear-blue-wood-spike.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-wood-spike.png",
+        src: "img/redprint-wood-spike.png",
         img: {
             isLoaded: 0
         }
@@ -26947,33 +26947,33 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.spike,
     hidden: [{
-        src: "https://devast.io/img/day-wood-spike-cover1.png",
+        src: "img/day-wood-spike-cover1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-spike-cover2.png",
+        src: "img/day-wood-spike-cover2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-spike-cover3.png",
+        src: "img/day-wood-spike-cover3.png",
         img: {
             isLoaded: 0
         }
     }],
     deployed: [{
-        src: "https://devast.io/img/day-wood-spike-1.png",
+        src: "img/day-wood-spike-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-spike-2.png",
+        src: "img/day-wood-spike-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-wood-spike-3.png",
+        src: "img/day-wood-spike-3.png",
         img: {
             isLoaded: 0
         }
@@ -26986,7 +26986,7 @@ var INVENTORY = [{
 }, {
     id: IID.__LASER_SUBMACHINE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-laser-submachine-out.png", "https://devast.io/img/inv-laser-submachine-in.png", "https://devast.io/img/inv-laser-submachine-click.png"],
+        src: ["img/inv-laser-submachine-out.png", "img/inv-laser-submachine-in.png", "img/inv-laser-submachine-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27012,7 +27012,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GRENADE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-grenade-out.png", "https://devast.io/img/inv-grenade-in.png", "https://devast.io/img/inv-grenade-click.png"],
+        src: ["img/inv-grenade-out.png", "img/inv-grenade-in.png", "img/inv-grenade-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27038,7 +27038,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SUPER_HAMMER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-super-hammer-out.png", "https://devast.io/img/inv-super-hammer-in.png", "https://devast.io/img/inv-super-hammer-click.png"],
+        src: ["img/inv-super-hammer-out.png", "img/inv-super-hammer-in.png", "img/inv-super-hammer-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27055,7 +27055,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GHOUL_BLOOD__,
     itemButton: {
-        src: ["https://devast.io/img/inv-ghoul-blood-out.png", "https://devast.io/img/inv-ghoul-blood-in.png", "https://devast.io/img/inv-ghoul-blood-click.png"],
+        src: ["img/inv-ghoul-blood-out.png", "img/inv-ghoul-blood-in.png", "img/inv-ghoul-blood-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27073,7 +27073,7 @@ var INVENTORY = [{
 {
     id: IID.__CAMOUFLAGE_GEAR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-camouflage-gear-out.png", "https://devast.io/img/inv-camouflage-gear-in.png", "https://devast.io/img/inv-camouflage-gear-click.png"],
+        src: ["img/inv-camouflage-gear-out.png", "img/inv-camouflage-gear-in.png", "img/inv-camouflage-gear-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27105,7 +27105,7 @@ var INVENTORY = [{
 {
     id: IID.__AGITATOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-agitator-out.png", "https://devast.io/img/inv-agitator-in.png", "https://devast.io/img/inv-agitator-click.png"],
+        src: ["img/inv-agitator-out.png", "img/inv-agitator-in.png", "img/inv-agitator-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27136,13 +27136,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-agitator.png",
+        src: "img/clear-blue-agitator.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-agitator.png",
+        src: "img/redprint-agitator.png",
         img: {
             isLoaded: 0
         }
@@ -27160,7 +27160,7 @@ var INVENTORY = [{
     draw: Render.agitator,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-agitator.png",
+        src: "img/e-agitator.png",
         img: {
             isLoaded: 0
         }
@@ -27168,22 +27168,22 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-agitator1-off.png",
+        src: "img/day-agitator1-off.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-agitator1-on.png",
+        src: "img/day-agitator1-on.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-agitator-1.png",
+        src: "img/day-agitator-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-agitator-2.png",
+        src: "img/day-agitator-2.png",
         img: {
             isLoaded: 0
         }
@@ -27202,7 +27202,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GHOUL_DRUG__,
     itemButton: {
-        src: ["https://devast.io/img/inv-ghoul-drug-out.png", "https://devast.io/img/inv-ghoul-drug-in.png", "https://devast.io/img/inv-ghoul-drug-click.png"],
+        src: ["img/inv-ghoul-drug-out.png", "img/inv-ghoul-drug-in.png", "img/inv-ghoul-drug-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27227,7 +27227,7 @@ var INVENTORY = [{
 }, {
     id: IID.__MUSHROOM1__,
     itemButton: {
-        src: ["https://devast.io/img/inv-mushroom1-out.png", "https://devast.io/img/inv-mushroom1-in.png", "https://devast.io/img/inv-mushroom1-click.png"],
+        src: ["img/inv-mushroom1-out.png", "img/inv-mushroom1-in.png", "img/inv-mushroom1-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27247,7 +27247,7 @@ var INVENTORY = [{
 }, {
     id: IID.__MUSHROOM2__,
     itemButton: {
-        src: ["https://devast.io/img/inv-mushroom2-out.png", "https://devast.io/img/inv-mushroom2-in.png", "https://devast.io/img/inv-mushroom2-click.png"],
+        src: ["img/inv-mushroom2-out.png", "img/inv-mushroom2-in.png", "img/inv-mushroom2-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27267,7 +27267,7 @@ var INVENTORY = [{
 }, {
     id: IID.__MUSHROOM3__,
     itemButton: {
-        src: ["https://devast.io/img/inv-mushroom3-out.png", "https://devast.io/img/inv-mushroom3-in.png", "https://devast.io/img/inv-mushroom3-click.png"],
+        src: ["img/inv-mushroom3-out.png", "img/inv-mushroom3-in.png", "img/inv-mushroom3-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27287,7 +27287,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_MUSHROOM1__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-mushroom1-out.png", "https://devast.io/img/inv-rotten-mushroom1-in.png", "https://devast.io/img/inv-rotten-mushroom1-click.png"],
+        src: ["img/inv-rotten-mushroom1-out.png", "img/inv-rotten-mushroom1-in.png", "img/inv-rotten-mushroom1-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27305,7 +27305,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_MUSHROOM2__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-mushroom2-out.png", "https://devast.io/img/inv-rotten-mushroom2-in.png", "https://devast.io/img/inv-rotten-mushroom2-click.png"],
+        src: ["img/inv-rotten-mushroom2-out.png", "img/inv-rotten-mushroom2-in.png", "img/inv-rotten-mushroom2-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27323,7 +27323,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_MUSHROOM3__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-mushroom3-out.png", "https://devast.io/img/inv-rotten-mushroom3-in.png", "https://devast.io/img/inv-rotten-mushroom3-click.png"],
+        src: ["img/inv-rotten-mushroom3-out.png", "img/inv-rotten-mushroom3-in.png", "img/inv-rotten-mushroom3-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27341,7 +27341,7 @@ var INVENTORY = [{
 }, {
     id: IID.__LAPADONE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-lapadoine-out.png", "https://devast.io/img/inv-lapadoine-in.png", "https://devast.io/img/inv-lapadoine-click.png"],
+        src: ["img/inv-lapadoine-out.png", "img/inv-lapadoine-in.png", "img/inv-lapadoine-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27365,7 +27365,7 @@ var INVENTORY = [{
 }, {
     id: IID.__LAPABOT_REPAIR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-lapabot-out.png", "https://devast.io/img/inv-lapabot-in.png", "https://devast.io/img/inv-lapabot-click.png"],
+        src: ["img/inv-lapabot-out.png", "img/inv-lapabot-in.png", "img/inv-lapabot-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27398,13 +27398,13 @@ var INVENTORY = [{
     _x: [35, 35, 35, 35],
     _y: [35, 35, 35, 35],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-lapabot.png",
+        src: "img/clear-blue-lapabot.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-lapabot.png",
+        src: "img/redprint-lapabot.png",
         img: {
             isLoaded: 0
         }
@@ -27420,33 +27420,33 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/lapabot0.png",
+        src: "img/lapabot0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/lapabot1.png",
+        src: "img/lapabot1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/lapabot2.png",
+        src: "img/lapabot2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/lapabot3.png",
+        src: "img/lapabot3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/lapabot4.png",
+        src: "img/lapabot4.png",
         img: {
             isLoaded: 0
         }
     }],
     builder: {
-        src: "https://devast.io/img/day-lapabot-builder.png",
+        src: "img/day-lapabot-builder.png",
         img: {
             isLoaded: 0
         }
@@ -27464,7 +27464,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SMALL_WIRE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-small-wire-out.png", "https://devast.io/img/inv-small-wire-in.png", "https://devast.io/img/inv-small-wire-click.png"],
+        src: ["img/inv-small-wire-out.png", "img/inv-small-wire-in.png", "img/inv-small-wire-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27480,7 +27480,7 @@ var INVENTORY = [{
 }, {
     id: IID.__PUMPKIN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-pumpkin-out.png", "https://devast.io/img/inv-pumpkin-in.png", "https://devast.io/img/inv-pumpkin-click.png"],
+        src: ["img/inv-pumpkin-out.png", "img/inv-pumpkin-in.png", "img/inv-pumpkin-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27500,7 +27500,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_PUMPKIN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-pumpkin-out.png", "https://devast.io/img/inv-rotten-pumpkin-in.png", "https://devast.io/img/inv-rotten-pumpkin-click.png"],
+        src: ["img/inv-rotten-pumpkin-out.png", "img/inv-rotten-pumpkin-in.png", "img/inv-rotten-pumpkin-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27518,7 +27518,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SEED_GHOUL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-ghoul5-out.png", "https://devast.io/img/inv-ghoul5-in.png", "https://devast.io/img/inv-ghoul5-click.png"],
+        src: ["img/inv-ghoul5-out.png", "img/inv-ghoul5-in.png", "img/inv-ghoul5-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27550,13 +27550,13 @@ var INVENTORY = [{
     _x: [35, 35, 35, 35],
     _y: [35, 35, 35, 35],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-root.png",
+        src: "img/clear-blue-root.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-root.png",
+        src: "img/redprint-root.png",
         img: {
             isLoaded: 0
         }
@@ -27572,27 +27572,27 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-root0-ghoul.png",
+        src: "img/day-root0-ghoul.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-root1-ghoul.png",
+        src: "img/day-root1-ghoul.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-root2-ghoul.png",
+        src: "img/day-root2-ghoul.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-root3-ghoul.png",
+        src: "img/day-root3-ghoul.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-root4-ghoul.png",
+        src: "img/day-root4-ghoul.png",
         img: {
             isLoaded: 0
         }
@@ -27610,7 +27610,7 @@ var INVENTORY = [{
 }, {
     id: IID.__EXTRACTOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-extractor-out.png", "https://devast.io/img/inv-extractor-in.png", "https://devast.io/img/inv-extractor-click.png"],
+        src: ["img/inv-extractor-out.png", "img/inv-extractor-in.png", "img/inv-extractor-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27644,13 +27644,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-extractor.png",
+        src: "img/clear-blue-extractor.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-extractor.png",
+        src: "img/redprint-extractor.png",
         img: {
             isLoaded: 0
         }
@@ -27668,7 +27668,7 @@ var INVENTORY = [{
     draw: Render.extractor,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-extractor.png",
+        src: "img/e-extractor.png",
         img: {
             isLoaded: 0
         }
@@ -27676,17 +27676,17 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-extractor.png",
+        src: "img/day-extractor.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-extractor-rotate.png",
+        src: "img/day-extractor-rotate.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-extractor-off.png",
+        src: "img/day-extractor-off.png",
         img: {
             isLoaded: 0
         }
@@ -27705,7 +27705,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ANTIDOTE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-antidote-out.png", "https://devast.io/img/inv-antidote-in.png", "https://devast.io/img/inv-antidote-click.png"],
+        src: ["img/inv-antidote-out.png", "img/inv-antidote-in.png", "img/inv-antidote-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27729,7 +27729,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ANTIDOTE_FLOWER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-antidote-flower-out.png", "https://devast.io/img/inv-antidote-flower-in.png", "https://devast.io/img/inv-antidote-flower-click.png"],
+        src: ["img/inv-antidote-flower-out.png", "img/inv-antidote-flower-in.png", "img/inv-antidote-flower-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27745,7 +27745,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SEED_TREE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-seed-tree-out.png", "https://devast.io/img/inv-seed-tree-in.png", "https://devast.io/img/inv-seed-tree-click.png"],
+        src: ["img/inv-seed-tree-out.png", "img/inv-seed-tree-in.png", "img/inv-seed-tree-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27776,13 +27776,13 @@ var INVENTORY = [{
     _x: [35, 35, 35, 35],
     _y: [35, 35, 35, 35],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-plant-tree.png",
+        src: "img/clear-blue-plant-tree.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-plant-tree.png",
+        src: "img/redprint-plant-tree.png",
         img: {
             isLoaded: 0
         }
@@ -27798,27 +27798,27 @@ var INVENTORY = [{
     impact: SOUNDID.__WOOD_IMPACT__,
     destroy: SOUNDID.__WOOD_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-plant-tree0.png",
+        src: "img/day-plant-tree0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant-tree1.png",
+        src: "img/day-plant-tree1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant-tree2.png",
+        src: "img/day-plant-tree2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant-tree3.png",
+        src: "img/day-plant-tree3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-plant4-orange.png",
+        src: "img/day-plant4-orange.png",
         img: {
             isLoaded: 0
         }
@@ -27831,7 +27831,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ACORN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-acorn-out.png", "https://devast.io/img/inv-acorn-in.png", "https://devast.io/img/inv-acorn-click.png"],
+        src: ["img/inv-acorn-out.png", "img/inv-acorn-in.png", "img/inv-acorn-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27851,7 +27851,7 @@ var INVENTORY = [{
 }, {
     id: IID.__ROTTEN_ACORN__,
     itemButton: {
-        src: ["https://devast.io/img/inv-rotten-acorn-out.png", "https://devast.io/img/inv-rotten-acorn-in.png", "https://devast.io/img/inv-rotten-acorn-click.png"],
+        src: ["img/inv-rotten-acorn-out.png", "img/inv-rotten-acorn-in.png", "img/inv-rotten-acorn-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27869,7 +27869,7 @@ var INVENTORY = [{
 }, {
     id: IID.__LASER_SNIPER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-laser-sniper-out.png", "https://devast.io/img/inv-laser-sniper-in.png", "https://devast.io/img/inv-laser-sniper-click.png"],
+        src: ["img/inv-laser-sniper-out.png", "img/inv-laser-sniper-in.png", "img/inv-laser-sniper-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27895,7 +27895,7 @@ var INVENTORY = [{
 }, {
     id: IID.__HAL_BOT__,
     itemButton: {
-        src: ["https://devast.io/img/inv-hal-bot-out.png", "https://devast.io/img/inv-hal-bot-in.png", "https://devast.io/img/inv-hal-bot-click.png"],
+        src: ["img/inv-hal-bot-out.png", "img/inv-hal-bot-in.png", "img/inv-hal-bot-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -27928,13 +27928,13 @@ var INVENTORY = [{
     _x: [35, 35, 35, 35],
     _y: [35, 35, 35, 35],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-hal-bot.png",
+        src: "img/clear-blue-hal-bot.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-hal-bot.png",
+        src: "img/redprint-hal-bot.png",
         img: {
             isLoaded: 0
         }
@@ -27950,33 +27950,33 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/hal-bot0.png",
+        src: "img/hal-bot0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/hal-bot1.png",
+        src: "img/hal-bot1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/hal-bot2.png",
+        src: "img/hal-bot2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/hal-bot3.png",
+        src: "img/hal-bot3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/hal-bot4.png",
+        src: "img/hal-bot4.png",
         img: {
             isLoaded: 0
         }
     }],
     builder: {
-        src: "https://devast.io/img/day-hal-bot-builder.png",
+        src: "img/day-hal-bot-builder.png",
         img: {
             isLoaded: 0
         }
@@ -27994,7 +27994,7 @@ var INVENTORY = [{
 }, {
     id: IID.__TESLA_BOT__,
     itemButton: {
-        src: ["https://devast.io/img/inv-tesla-bot-out.png", "https://devast.io/img/inv-tesla-bot-in.png", "https://devast.io/img/inv-tesla-bot-click.png"],
+        src: ["img/inv-tesla-bot-out.png", "img/inv-tesla-bot-in.png", "img/inv-tesla-bot-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28028,13 +28028,13 @@ var INVENTORY = [{
     _x: [35, 35, 35, 35],
     _y: [35, 35, 35, 35],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-tesla-bot.png",
+        src: "img/clear-blue-tesla-bot.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-tesla-bot.png",
+        src: "img/redprint-tesla-bot.png",
         img: {
             isLoaded: 0
         }
@@ -28050,33 +28050,33 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/tesla-bot0.png",
+        src: "img/tesla-bot0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/tesla-bot1.png",
+        src: "img/tesla-bot1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/tesla-bot2.png",
+        src: "img/tesla-bot2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/tesla-bot3.png",
+        src: "img/tesla-bot3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/tesla-bot4.png",
+        src: "img/tesla-bot4.png",
         img: {
             isLoaded: 0
         }
     }],
     builder: {
-        src: "https://devast.io/img/day-lapabot-builder.png",
+        src: "img/day-lapabot-builder.png",
         img: {
             isLoaded: 0
         }
@@ -28094,7 +28094,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CABLE0__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wire0-out.png", "https://devast.io/img/inv-wire0-in.png", "https://devast.io/img/inv-wire0-click.png"],
+        src: ["img/inv-wire0-out.png", "img/inv-wire0-in.png", "img/inv-wire0-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28123,13 +28123,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-wire0.png",
+        src: "img/clear-blue-wire0.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-wire0.png",
+        src: "img/redprint-wire0.png",
         img: {
             isLoaded: 0
         }
@@ -28154,7 +28154,7 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-wire0.png",
+        src: "img/day-wire0.png",
         img: {
             isLoaded: 0
         }
@@ -28167,7 +28167,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CABLE1__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wire1-out.png", "https://devast.io/img/inv-wire1-in.png", "https://devast.io/img/inv-wire1-click.png"],
+        src: ["img/inv-wire1-out.png", "img/inv-wire1-in.png", "img/inv-wire1-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28196,13 +28196,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-wire1.png",
+        src: "img/clear-blue-wire1.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-wire1.png",
+        src: "img/redprint-wire1.png",
         img: {
             isLoaded: 0
         }
@@ -28227,7 +28227,7 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-wire1.png",
+        src: "img/day-wire1.png",
         img: {
             isLoaded: 0
         }
@@ -28240,7 +28240,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CABLE2__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wire2-out.png", "https://devast.io/img/inv-wire2-in.png", "https://devast.io/img/inv-wire2-click.png"],
+        src: ["img/inv-wire2-out.png", "img/inv-wire2-in.png", "img/inv-wire2-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28269,13 +28269,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-wire2.png",
+        src: "img/clear-blue-wire2.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-wire2.png",
+        src: "img/redprint-wire2.png",
         img: {
             isLoaded: 0
         }
@@ -28300,7 +28300,7 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-wire2.png",
+        src: "img/day-wire2.png",
         img: {
             isLoaded: 0
         }
@@ -28313,7 +28313,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CABLE3__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wire3-out.png", "https://devast.io/img/inv-wire3-in.png", "https://devast.io/img/inv-wire3-click.png"],
+        src: ["img/inv-wire3-out.png", "img/inv-wire3-in.png", "img/inv-wire3-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28342,13 +28342,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-wire3.png",
+        src: "img/clear-blue-wire3.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-wire3.png",
+        src: "img/redprint-wire3.png",
         img: {
             isLoaded: 0
         }
@@ -28373,7 +28373,7 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-wire3.png",
+        src: "img/day-wire3.png",
         img: {
             isLoaded: 0
         }
@@ -28386,7 +28386,7 @@ var INVENTORY = [{
 }, {
     id: IID.__SWITCH__,
     itemButton: {
-        src: ["https://devast.io/img/inv-switch-out.png", "https://devast.io/img/inv-switch-in.png", "https://devast.io/img/inv-switch-click.png"],
+        src: ["img/inv-switch-out.png", "img/inv-switch-in.png", "img/inv-switch-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28416,13 +28416,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-switch.png",
+        src: "img/clear-blue-switch.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-switch.png",
+        src: "img/redprint-switch.png",
         img: {
             isLoaded: 0
         }
@@ -28446,7 +28446,7 @@ var INVENTORY = [{
     draw: Render.switchOff,
     packetId: 37,
     interact: {
-        src: "https://devast.io/img/e-turnon.png",
+        src: "img/e-turnon.png",
         img: {
             isLoaded: 0
         }
@@ -28454,12 +28454,12 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-switch-off.png",
+        src: "img/day-switch-off.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-switch-on.png",
+        src: "img/day-switch-on.png",
         img: {
             isLoaded: 0
         }
@@ -28472,7 +28472,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GATE_OR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-switch-or-out.png", "https://devast.io/img/inv-switch-or-in.png", "https://devast.io/img/inv-switch-or-click.png"],
+        src: ["img/inv-switch-or-out.png", "img/inv-switch-or-in.png", "img/inv-switch-or-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28502,13 +28502,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-switch-or.png",
+        src: "img/clear-blue-switch-or.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-switch-or.png",
+        src: "img/redprint-switch-or.png",
         img: {
             isLoaded: 0
         }
@@ -28533,7 +28533,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-switch-or.png",
+        src: "img/day-switch-or.png",
         img: {
             isLoaded: 0
         }
@@ -28546,7 +28546,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GATE_AND__,
     itemButton: {
-        src: ["https://devast.io/img/inv-switch-and-out.png", "https://devast.io/img/inv-switch-and-in.png", "https://devast.io/img/inv-switch-and-click.png"],
+        src: ["img/inv-switch-and-out.png", "img/inv-switch-and-in.png", "img/inv-switch-and-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28576,13 +28576,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-switch-and.png",
+        src: "img/clear-blue-switch-and.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-switch-and.png",
+        src: "img/redprint-switch-and.png",
         img: {
             isLoaded: 0
         }
@@ -28607,7 +28607,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-switch-and.png",
+        src: "img/day-switch-and.png",
         img: {
             isLoaded: 0
         }
@@ -28620,7 +28620,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GATE_NOT__,
     itemButton: {
-        src: ["https://devast.io/img/inv-switch-reverse-out.png", "https://devast.io/img/inv-switch-reverse-in.png", "https://devast.io/img/inv-switch-reverse-click.png"],
+        src: ["img/inv-switch-reverse-out.png", "img/inv-switch-reverse-in.png", "img/inv-switch-reverse-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28650,13 +28650,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-switch-reverse.png",
+        src: "img/clear-blue-switch-reverse.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-switch-reverse.png",
+        src: "img/redprint-switch-reverse.png",
         img: {
             isLoaded: 0
         }
@@ -28681,7 +28681,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-switch-reverse.png",
+        src: "img/day-switch-reverse.png",
         img: {
             isLoaded: 0
         }
@@ -28694,7 +28694,7 @@ var INVENTORY = [{
 }, {
     id: IID.__LAMP__,
     itemButton: {
-        src: ["https://devast.io/img/inv-lamp-white-out.png", "https://devast.io/img/inv-lamp-white-in.png", "https://devast.io/img/inv-lamp-white-click.png"],
+        src: ["img/inv-lamp-white-out.png", "img/inv-lamp-white-in.png", "img/inv-lamp-white-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28724,13 +28724,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-lamp.png",
+        src: "img/clear-blue-lamp.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-lamp.png",
+        src: "img/redprint-lamp.png",
         img: {
             isLoaded: 0
         }
@@ -28756,7 +28756,7 @@ var INVENTORY = [{
     drawTop: Render.lampLight,
     packetId: 36,
     interact: {
-        src: "https://devast.io/img/e-light.png",
+        src: "img/e-light.png",
         img: {
             isLoaded: 0
         }
@@ -28764,79 +28764,79 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-lamp-off.png",
+        src: "img/day-lamp-off.png",
         img: {
             isLoaded: 0
         }
     },
     buildingOn: [{
-        src: "https://devast.io/img/day-lamp-white.png",
+        src: "img/day-lamp-white.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-yellow.png",
+        src: "img/day-lamp-yellow.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-green.png",
+        src: "img/day-lamp-green.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-clear-blue.png",
+        src: "img/day-lamp-clear-blue.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-purple.png",
+        src: "img/day-lamp-purple.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-pink.png",
+        src: "img/day-lamp-pink.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-orange.png",
+        src: "img/day-lamp-orange.png",
         img: {
             isLoaded: 0
         }
     }],
     buildingTop: [{
-        src: "https://devast.io/img/day-lamp-light-white.png",
+        src: "img/day-lamp-light-white.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-light-yellow.png",
+        src: "img/day-lamp-light-yellow.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-light-green.png",
+        src: "img/day-lamp-light-green.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-light-clear-blue.png",
+        src: "img/day-lamp-light-clear-blue.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-light-purple.png",
+        src: "img/day-lamp-light-purple.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-light-pink.png",
+        src: "img/day-lamp-light-pink.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-lamp-light-orange.png",
+        src: "img/day-lamp-light-orange.png",
         img: {
             isLoaded: 0
         }
@@ -28849,7 +28849,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CABLE_WALL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-cable-wall-out.png", "https://devast.io/img/inv-cable-wall-in.png", "https://devast.io/img/inv-cable-wall-click.png"],
+        src: ["img/inv-cable-wall-out.png", "img/inv-cable-wall-in.png", "img/inv-cable-wall-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28879,13 +28879,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-cable-wall.png",
+        src: "img/clear-blue-cable-wall.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-cable-wall.png",
+        src: "img/redprint-cable-wall.png",
         img: {
             isLoaded: 0
         }
@@ -28910,22 +28910,22 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-cable-wall.png",
+        src: "img/day-cable-wall.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-cable-wall1.png",
+        src: "img/day-cable-wall1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-cable-wall2.png",
+        src: "img/day-cable-wall2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-cable-wall3.png",
+        src: "img/day-cable-wall3.png",
         img: {
             isLoaded: 0
         }
@@ -28938,7 +28938,7 @@ var INVENTORY = [{
 }, {
     id: IID.__AUTOMATIC_DOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-automatic-door-out.png", "https://devast.io/img/inv-automatic-door-in.png", "https://devast.io/img/inv-automatic-door-click.png"],
+        src: ["img/inv-automatic-door-out.png", "img/inv-automatic-door-in.png", "img/inv-automatic-door-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -28969,13 +28969,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-automatic-door.png",
+        src: "img/clear-blue-automatic-door.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-automatic-door.png",
+        src: "img/redprint-automatic-door.png",
         img: {
             isLoaded: 0
         }
@@ -29001,43 +29001,43 @@ var INVENTORY = [{
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [
         [{
-            src: "https://devast.io/img/day-automatic-door-off.png",
+            src: "img/day-automatic-door-off.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-automatic-door1-off.png",
+            src: "img/day-automatic-door1-off.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-automatic-door2-off.png",
+            src: "img/day-automatic-door2-off.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-automatic-door3-off.png",
+            src: "img/day-automatic-door3-off.png",
             img: {
                 isLoaded: 0
             }
         }],
         [{
-            src: "https://devast.io/img/day-automatic-door-on.png",
+            src: "img/day-automatic-door-on.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-automatic-door1-on.png",
+            src: "img/day-automatic-door1-on.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-automatic-door2-on.png",
+            src: "img/day-automatic-door2-on.png",
             img: {
                 isLoaded: 0
             }
         }, {
-            src: "https://devast.io/img/day-automatic-door3-on.png",
+            src: "img/day-automatic-door3-on.png",
             img: {
                 isLoaded: 0
             }
@@ -29051,7 +29051,7 @@ var INVENTORY = [{
 }, {
     id: IID.__PLATFORM__,
     itemButton: {
-        src: ["https://devast.io/img/inv-platform-out.png", "https://devast.io/img/inv-platform-in.png", "https://devast.io/img/inv-platform-click.png"],
+        src: ["img/inv-platform-out.png", "img/inv-platform-in.png", "img/inv-platform-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -29081,13 +29081,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-platform-off.png",
+        src: "img/clear-blue-platform-off.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-platform-off.png",
+        src: "img/redprint-platform-off.png",
         img: {
             isLoaded: 0
         }
@@ -29112,7 +29112,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-platform-off.png",
+        src: "img/day-platform-off.png",
         img: {
             isLoaded: 0
         }
@@ -29125,7 +29125,7 @@ var INVENTORY = [{
 }, {
     id: IID.__STONE_CAVE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-stone-cave-out.png", "https://devast.io/img/inv-stone-cave-in.png", "https://devast.io/img/inv-stone-cave-click.png"],
+        src: ["img/inv-stone-cave-out.png", "img/inv-stone-cave-in.png", "img/inv-stone-cave-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -29154,13 +29154,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-stone-cave.png",
+        src: "img/clear-blue-stone-cave.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-stone-cave.png",
+        src: "img/redprint-stone-cave.png",
         img: {
             isLoaded: 0
         }
@@ -29179,17 +29179,17 @@ var INVENTORY = [{
     draw: Render.wall,
     drawFloor: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     broken: [{
-        src: "https://devast.io/img/day-stone-cave-broken0.png",
+        src: "img/day-stone-cave-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave-broken1.png",
+        src: "img/day-stone-cave-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave-broken2.png",
+        src: "img/day-stone-cave-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -29197,237 +29197,237 @@ var INVENTORY = [{
     impact: SOUNDID.__STONE_IMPACT__,
     destroy: SOUNDID.__STONE_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-stone-cave0.png",
+        src: "img/day-stone-cave0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave1.png",
+        src: "img/day-stone-cave1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave2.png",
+        src: "img/day-stone-cave2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave3.png",
+        src: "img/day-stone-cave3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave4.png",
+        src: "img/day-stone-cave4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave5.png",
+        src: "img/day-stone-cave5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave6.png",
+        src: "img/day-stone-cave6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave7.png",
+        src: "img/day-stone-cave7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave8.png",
+        src: "img/day-stone-cave8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave9.png",
+        src: "img/day-stone-cave9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave10.png",
+        src: "img/day-stone-cave10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave11.png",
+        src: "img/day-stone-cave11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave12.png",
+        src: "img/day-stone-cave12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave13.png",
+        src: "img/day-stone-cave13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave14.png",
+        src: "img/day-stone-cave14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave15.png",
+        src: "img/day-stone-cave15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave16.png",
+        src: "img/day-stone-cave16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave17.png",
+        src: "img/day-stone-cave17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave18.png",
+        src: "img/day-stone-cave18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave19.png",
+        src: "img/day-stone-cave19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave20.png",
+        src: "img/day-stone-cave20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave21.png",
+        src: "img/day-stone-cave21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave22.png",
+        src: "img/day-stone-cave22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave23.png",
+        src: "img/day-stone-cave23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave24.png",
+        src: "img/day-stone-cave24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave25.png",
+        src: "img/day-stone-cave25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave26.png",
+        src: "img/day-stone-cave26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave27.png",
+        src: "img/day-stone-cave27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave28.png",
+        src: "img/day-stone-cave28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave29.png",
+        src: "img/day-stone-cave29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave30.png",
+        src: "img/day-stone-cave30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave31.png",
+        src: "img/day-stone-cave31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave32.png",
+        src: "img/day-stone-cave32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave33.png",
+        src: "img/day-stone-cave33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave34.png",
+        src: "img/day-stone-cave34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave35.png",
+        src: "img/day-stone-cave35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave36.png",
+        src: "img/day-stone-cave36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave37.png",
+        src: "img/day-stone-cave37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave38.png",
+        src: "img/day-stone-cave38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave39.png",
+        src: "img/day-stone-cave39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave40.png",
+        src: "img/day-stone-cave40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave41.png",
+        src: "img/day-stone-cave41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave42.png",
+        src: "img/day-stone-cave42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave43.png",
+        src: "img/day-stone-cave43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave44.png",
+        src: "img/day-stone-cave44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave45.png",
+        src: "img/day-stone-cave45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-stone-cave46.png",
+        src: "img/day-stone-cave46.png",
         img: {
             isLoaded: 0
         }
@@ -29440,7 +29440,7 @@ var INVENTORY = [{
 }, {
     id: IID.__BUNKER_WALL__,
     itemButton: {
-        src: ["https://devast.io/img/inv-bunker-wall-out.png", "https://devast.io/img/inv-bunker-wall-in.png", "https://devast.io/img/inv-bunker-wall-click.png"],
+        src: ["img/inv-bunker-wall-out.png", "img/inv-bunker-wall-in.png", "img/inv-bunker-wall-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -29470,13 +29470,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-bunker-wall.png",
+        src: "img/clear-blue-bunker-wall.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-bunker-wall.png",
+        src: "img/redprint-bunker-wall.png",
         img: {
             isLoaded: 0
         }
@@ -29495,17 +29495,17 @@ var INVENTORY = [{
     draw: Render.wall,
     drawFloor: [1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     broken: [{
-        src: "https://devast.io/img/day-bunker-wall-broken0.png",
+        src: "img/day-bunker-wall-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall-broken1.png",
+        src: "img/day-bunker-wall-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall-broken2.png",
+        src: "img/day-bunker-wall-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -29513,237 +29513,237 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-bunker-wall0.png",
+        src: "img/day-bunker-wall0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall1.png",
+        src: "img/day-bunker-wall1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall2.png",
+        src: "img/day-bunker-wall2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall3.png",
+        src: "img/day-bunker-wall3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall4.png",
+        src: "img/day-bunker-wall4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall5.png",
+        src: "img/day-bunker-wall5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall6.png",
+        src: "img/day-bunker-wall6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall7.png",
+        src: "img/day-bunker-wall7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall8.png",
+        src: "img/day-bunker-wall8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall9.png",
+        src: "img/day-bunker-wall9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall10.png",
+        src: "img/day-bunker-wall10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall11.png",
+        src: "img/day-bunker-wall11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall12.png",
+        src: "img/day-bunker-wall12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall13.png",
+        src: "img/day-bunker-wall13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall14.png",
+        src: "img/day-bunker-wall14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall15.png",
+        src: "img/day-bunker-wall15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall16.png",
+        src: "img/day-bunker-wall16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall17.png",
+        src: "img/day-bunker-wall17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall18.png",
+        src: "img/day-bunker-wall18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall19.png",
+        src: "img/day-bunker-wall19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall20.png",
+        src: "img/day-bunker-wall20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall21.png",
+        src: "img/day-bunker-wall21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall22.png",
+        src: "img/day-bunker-wall22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall23.png",
+        src: "img/day-bunker-wall23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall24.png",
+        src: "img/day-bunker-wall24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall25.png",
+        src: "img/day-bunker-wall25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall26.png",
+        src: "img/day-bunker-wall26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall27.png",
+        src: "img/day-bunker-wall27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall28.png",
+        src: "img/day-bunker-wall28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall29.png",
+        src: "img/day-bunker-wall29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall30.png",
+        src: "img/day-bunker-wall30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall31.png",
+        src: "img/day-bunker-wall31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall32.png",
+        src: "img/day-bunker-wall32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall33.png",
+        src: "img/day-bunker-wall33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall34.png",
+        src: "img/day-bunker-wall34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall35.png",
+        src: "img/day-bunker-wall35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall36.png",
+        src: "img/day-bunker-wall36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall37.png",
+        src: "img/day-bunker-wall37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall38.png",
+        src: "img/day-bunker-wall38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall39.png",
+        src: "img/day-bunker-wall39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall40.png",
+        src: "img/day-bunker-wall40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall41.png",
+        src: "img/day-bunker-wall41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall42.png",
+        src: "img/day-bunker-wall42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall43.png",
+        src: "img/day-bunker-wall43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall44.png",
+        src: "img/day-bunker-wall44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall45.png",
+        src: "img/day-bunker-wall45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-bunker-wall46.png",
+        src: "img/day-bunker-wall46.png",
         img: {
             isLoaded: 0
         }
@@ -29756,7 +29756,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GOLD_FLOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-mustard-floor-out.png", "https://devast.io/img/inv-mustard-floor-in.png", "https://devast.io/img/inv-mustard-floor-click.png"],
+        src: ["img/inv-mustard-floor-out.png", "img/inv-mustard-floor-in.png", "img/inv-mustard-floor-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -29785,13 +29785,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-floor.png",
+        src: "img/day-clear-blue-stone-floor.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-floor.png",
+        src: "img/day-redprint-stone-floor.png",
         img: {
             isLoaded: 0
         }
@@ -29809,17 +29809,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.groundFloor,
     broken: [{
-        src: "https://devast.io/img/day-mustard-floor-broken0.png",
+        src: "img/day-mustard-floor-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-broken1.png",
+        src: "img/day-mustard-floor-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-broken2.png",
+        src: "img/day-mustard-floor-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -29827,237 +29827,237 @@ var INVENTORY = [{
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-mustard-floor-0.png",
+        src: "img/day-mustard-floor-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-1.png",
+        src: "img/day-mustard-floor-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-2.png",
+        src: "img/day-mustard-floor-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-3.png",
+        src: "img/day-mustard-floor-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-4.png",
+        src: "img/day-mustard-floor-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-5.png",
+        src: "img/day-mustard-floor-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-6.png",
+        src: "img/day-mustard-floor-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-7.png",
+        src: "img/day-mustard-floor-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-8.png",
+        src: "img/day-mustard-floor-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-9.png",
+        src: "img/day-mustard-floor-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-10.png",
+        src: "img/day-mustard-floor-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-11.png",
+        src: "img/day-mustard-floor-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-12.png",
+        src: "img/day-mustard-floor-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-13.png",
+        src: "img/day-mustard-floor-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-14.png",
+        src: "img/day-mustard-floor-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-15.png",
+        src: "img/day-mustard-floor-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-16.png",
+        src: "img/day-mustard-floor-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-17.png",
+        src: "img/day-mustard-floor-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-18.png",
+        src: "img/day-mustard-floor-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-19.png",
+        src: "img/day-mustard-floor-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-20.png",
+        src: "img/day-mustard-floor-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-21.png",
+        src: "img/day-mustard-floor-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-22.png",
+        src: "img/day-mustard-floor-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-23.png",
+        src: "img/day-mustard-floor-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-24.png",
+        src: "img/day-mustard-floor-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-25.png",
+        src: "img/day-mustard-floor-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-26.png",
+        src: "img/day-mustard-floor-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-27.png",
+        src: "img/day-mustard-floor-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-28.png",
+        src: "img/day-mustard-floor-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-29.png",
+        src: "img/day-mustard-floor-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-30.png",
+        src: "img/day-mustard-floor-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-31.png",
+        src: "img/day-mustard-floor-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-32.png",
+        src: "img/day-mustard-floor-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-33.png",
+        src: "img/day-mustard-floor-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-34.png",
+        src: "img/day-mustard-floor-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-35.png",
+        src: "img/day-mustard-floor-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-36.png",
+        src: "img/day-mustard-floor-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-37.png",
+        src: "img/day-mustard-floor-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-38.png",
+        src: "img/day-mustard-floor-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-39.png",
+        src: "img/day-mustard-floor-39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-40.png",
+        src: "img/day-mustard-floor-40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-41.png",
+        src: "img/day-mustard-floor-41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-42.png",
+        src: "img/day-mustard-floor-42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-43.png",
+        src: "img/day-mustard-floor-43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-44.png",
+        src: "img/day-mustard-floor-44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-45.png",
+        src: "img/day-mustard-floor-45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-mustard-floor-46.png",
+        src: "img/day-mustard-floor-46.png",
         img: {
             isLoaded: 0
         }
@@ -30070,7 +30070,7 @@ var INVENTORY = [{
 }, {
     id: IID.__RED_FLOOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-red-floor-out.png", "https://devast.io/img/inv-red-floor-in.png", "https://devast.io/img/inv-red-floor-click.png"],
+        src: ["img/inv-red-floor-out.png", "img/inv-red-floor-in.png", "img/inv-red-floor-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30099,13 +30099,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/day-clear-blue-stone-floor.png",
+        src: "img/day-clear-blue-stone-floor.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/day-redprint-stone-floor.png",
+        src: "img/day-redprint-stone-floor.png",
         img: {
             isLoaded: 0
         }
@@ -30123,17 +30123,17 @@ var INVENTORY = [{
     areaEffect: 0,
     draw: Render.groundFloor,
     broken: [{
-        src: "https://devast.io/img/day-red-floor-broken0.png",
+        src: "img/day-red-floor-broken0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-broken1.png",
+        src: "img/day-red-floor-broken1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-broken2.png",
+        src: "img/day-red-floor-broken2.png",
         img: {
             isLoaded: 0
         }
@@ -30141,237 +30141,237 @@ var INVENTORY = [{
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-red-floor-0.png",
+        src: "img/day-red-floor-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-1.png",
+        src: "img/day-red-floor-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-2.png",
+        src: "img/day-red-floor-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-3.png",
+        src: "img/day-red-floor-3.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-4.png",
+        src: "img/day-red-floor-4.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-5.png",
+        src: "img/day-red-floor-5.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-6.png",
+        src: "img/day-red-floor-6.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-7.png",
+        src: "img/day-red-floor-7.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-8.png",
+        src: "img/day-red-floor-8.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-9.png",
+        src: "img/day-red-floor-9.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-10.png",
+        src: "img/day-red-floor-10.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-11.png",
+        src: "img/day-red-floor-11.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-12.png",
+        src: "img/day-red-floor-12.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-13.png",
+        src: "img/day-red-floor-13.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-14.png",
+        src: "img/day-red-floor-14.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-15.png",
+        src: "img/day-red-floor-15.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-16.png",
+        src: "img/day-red-floor-16.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-17.png",
+        src: "img/day-red-floor-17.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-18.png",
+        src: "img/day-red-floor-18.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-19.png",
+        src: "img/day-red-floor-19.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-20.png",
+        src: "img/day-red-floor-20.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-21.png",
+        src: "img/day-red-floor-21.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-22.png",
+        src: "img/day-red-floor-22.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-23.png",
+        src: "img/day-red-floor-23.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-24.png",
+        src: "img/day-red-floor-24.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-25.png",
+        src: "img/day-red-floor-25.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-26.png",
+        src: "img/day-red-floor-26.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-27.png",
+        src: "img/day-red-floor-27.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-28.png",
+        src: "img/day-red-floor-28.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-29.png",
+        src: "img/day-red-floor-29.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-30.png",
+        src: "img/day-red-floor-30.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-31.png",
+        src: "img/day-red-floor-31.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-32.png",
+        src: "img/day-red-floor-32.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-33.png",
+        src: "img/day-red-floor-33.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-34.png",
+        src: "img/day-red-floor-34.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-35.png",
+        src: "img/day-red-floor-35.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-36.png",
+        src: "img/day-red-floor-36.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-37.png",
+        src: "img/day-red-floor-37.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-38.png",
+        src: "img/day-red-floor-38.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-39.png",
+        src: "img/day-red-floor-39.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-40.png",
+        src: "img/day-red-floor-40.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-41.png",
+        src: "img/day-red-floor-41.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-42.png",
+        src: "img/day-red-floor-42.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-43.png",
+        src: "img/day-red-floor-43.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-44.png",
+        src: "img/day-red-floor-44.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-45.png",
+        src: "img/day-red-floor-45.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-red-floor-46.png",
+        src: "img/day-red-floor-46.png",
         img: {
             isLoaded: 0
         }
@@ -30384,7 +30384,7 @@ var INVENTORY = [{
 }, {
     id: IID.__WELDING_MACHINE__,
     itemButton: {
-        src: ["https://devast.io/img/inv-welding-machine-out.png", "https://devast.io/img/inv-welding-machine-in.png", "https://devast.io/img/inv-welding-machine-click.png"],
+        src: ["img/inv-welding-machine-out.png", "img/inv-welding-machine-in.png", "img/inv-welding-machine-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30416,13 +30416,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-welding-machine.png",
+        src: "img/clear-blue-welding-machine.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-welding-machine.png",
+        src: "img/redprint-welding-machine.png",
         img: {
             isLoaded: 0
         }
@@ -30440,7 +30440,7 @@ var INVENTORY = [{
     draw: Render.workbench,
     packetId: 16,
     interact: {
-        src: "https://devast.io/img/e-welding-machine.png",
+        src: "img/e-welding-machine.png",
         img: {
             isLoaded: 0
         }
@@ -30448,7 +30448,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-welding-machine.png",
+        src: "img/day-welding-machine.png",
         img: {
             isLoaded: 0
         }
@@ -30461,7 +30461,7 @@ var INVENTORY = [{
 }, {
     id: IID.__CABLE4__,
     itemButton: {
-        src: ["https://devast.io/img/inv-wire4-out.png", "https://devast.io/img/inv-wire4-in.png", "https://devast.io/img/inv-wire4-click.png"],
+        src: ["img/inv-wire4-out.png", "img/inv-wire4-in.png", "img/inv-wire4-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30490,13 +30490,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-wire4.png",
+        src: "img/clear-blue-wire4.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-wire4.png",
+        src: "img/redprint-wire4.png",
         img: {
             isLoaded: 0
         }
@@ -30521,7 +30521,7 @@ var INVENTORY = [{
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-wire4.png",
+        src: "img/day-wire4.png",
         img: {
             isLoaded: 0
         }
@@ -30534,7 +30534,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GATE_TIMER__,
     itemButton: {
-        src: ["https://devast.io/img/inv-timer-out.png", "https://devast.io/img/inv-timer-in.png", "https://devast.io/img/inv-timer-click.png"],
+        src: ["img/inv-timer-out.png", "img/inv-timer-in.png", "img/inv-timer-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30564,13 +30564,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-timer.png",
+        src: "img/clear-blue-timer.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-timer.png",
+        src: "img/redprint-timer.png",
         img: {
             isLoaded: 0
         }
@@ -30594,7 +30594,7 @@ var INVENTORY = [{
     draw: Render.timerGate,
     packetId: 38,
     interact: {
-        src: "https://devast.io/img/e-light.png",
+        src: "img/e-light.png",
         img: {
             isLoaded: 0
         }
@@ -30602,22 +30602,22 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-        src: "https://devast.io/img/day-timer-0.png",
+        src: "img/day-timer-0.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-timer-1.png",
+        src: "img/day-timer-1.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-timer-2.png",
+        src: "img/day-timer-2.png",
         img: {
             isLoaded: 0
         }
     }, {
-        src: "https://devast.io/img/day-timer-3.png",
+        src: "img/day-timer-3.png",
         img: {
             isLoaded: 0
         }
@@ -30630,7 +30630,7 @@ var INVENTORY = [{
 }, {
     id: IID.__GATE_XOR__,
     itemButton: {
-        src: ["https://devast.io/img/inv-xor-out.png", "https://devast.io/img/inv-xor-in.png", "https://devast.io/img/inv-xor-click.png"],
+        src: ["img/inv-xor-out.png", "img/inv-xor-in.png", "img/inv-xor-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30660,13 +30660,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-        src: "https://devast.io/img/clear-blue-xor.png",
+        src: "img/clear-blue-xor.png",
         img: {
             isLoaded: 0
         }
     },
     redprint: {
-        src: "https://devast.io/img/redprint-xor.png",
+        src: "img/redprint-xor.png",
         img: {
             isLoaded: 0
         }
@@ -30691,7 +30691,7 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-xor.png",
+        src: "img/day-xor.png",
         img: {
             isLoaded: 0
         }
@@ -30706,7 +30706,7 @@ var INVENTORY = [{
 {
     id: IID.__BUILDER_1__,
     itemButton: {
-        src: ["https://devast.io/img/skill-builder1-out.png", "https://devast.io/img/skill-builder1-in.png", "https://devast.io/img/skill-builder1-click.png"],
+        src: ["img/skill-builder1-out.png", "img/skill-builder1-in.png", "img/skill-builder1-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30719,7 +30719,7 @@ var INVENTORY = [{
 }, {
     id: IID.__BUILDER_2__,
     itemButton: {
-        src: ["https://devast.io/img/skill-builder2-out.png", "https://devast.io/img/skill-builder2-in.png", "https://devast.io/img/skill-builder2-click.png"],
+        src: ["img/skill-builder2-out.png", "img/skill-builder2-in.png", "img/skill-builder2-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30736,7 +30736,7 @@ var INVENTORY = [{
 {
     id: IID.__INV_1__,
     itemButton: {
-        src: ["https://devast.io/img/skill-inv1-out.png", "https://devast.io/img/skill-inv1-in.png", "https://devast.io/img/skill-inv1-click.png"],
+        src: ["img/skill-inv1-out.png", "img/skill-inv1-in.png", "img/skill-inv1-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30752,7 +30752,7 @@ var INVENTORY = [{
 {
     id: IID.__INV_2__,
     itemButton: {
-        src: ["https://devast.io/img/skill-inv2-out.png", "https://devast.io/img/skill-inv2-in.png", "https://devast.io/img/skill-inv2-click.png"],
+        src: ["img/skill-inv2-out.png", "img/skill-inv2-in.png", "img/skill-inv2-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30768,7 +30768,7 @@ var INVENTORY = [{
 {
     id: IID.__INV_3__,
     itemButton: {
-        src: ["https://devast.io/img/skill-inv3-out.png", "https://devast.io/img/skill-inv3-in.png", "https://devast.io/img/skill-inv3-click.png"],
+        src: ["img/skill-inv3-out.png", "img/skill-inv3-in.png", "img/skill-inv3-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30784,7 +30784,7 @@ var INVENTORY = [{
 {
     id: IID.__INV_4__,
     itemButton: {
-        src: ["https://devast.io/img/skill-inv4-out.png", "https://devast.io/img/skill-inv4-in.png", "https://devast.io/img/skill-inv4-click.png"],
+        src: ["img/skill-inv4-out.png", "img/skill-inv4-in.png", "img/skill-inv4-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30800,7 +30800,7 @@ var INVENTORY = [{
 {
     id: IID.__INV_5__,
     itemButton: {
-        src: ["https://devast.io/img/skill-inv5-out.png", "https://devast.io/img/skill-inv5-in.png", "https://devast.io/img/skill-inv5-click.png"],
+        src: ["img/skill-inv5-out.png", "img/skill-inv5-in.png", "img/skill-inv5-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30819,7 +30819,7 @@ var INVENTORY = [{
 {
     id: IID.__FEATHERWEIGHT__,
     itemButton: {
-        src: ["https://devast.io/img/skill-lightweight-out.png", "https://devast.io/img/skill-lightweight-in.png", "https://devast.io/img/skill-lightweight-click.png"],
+        src: ["img/skill-lightweight-out.png", "img/skill-lightweight-in.png", "img/skill-lightweight-click.png"],
         img: [{
             isLoaded: 0
         }, {
@@ -30834,7 +30834,7 @@ var INVENTORY = [{
 {
     id: IID.__FEEDER__,
     itemButton: {
-      src: ["https://devast.io/img/inv-feeder-out.png?2", "https://devast.io/img/inv-feeder-in.png?2", "https://devast.io/img/inv-feeder-click.png?2"],
+      src: ["img/inv-feeder-out.png?2", "img/inv-feeder-in.png?2", "img/inv-feeder-click.png?2"],
       img: [{
         isLoaded: 0
       }, {
@@ -30860,13 +30860,13 @@ var INVENTORY = [{
     _x: [0, 0, 0, 0],
     _y: [0, 0, 0, 0],
     blueprint: {
-      src: "https://devast.io/img/clear-blue-feeder.png?2",
+      src: "img/clear-blue-feeder.png?2",
       img: {
         isLoaded: 0
       }
     },
     redprint: {
-      src: "https://devast.io/img/redprint-feeder.png?2",
+      src: "img/redprint-feeder.png?2",
       img: {
         isLoaded: 0
       }
@@ -30884,7 +30884,7 @@ var INVENTORY = [{
     draw: Render.feeder,
     packetId: 16,
     interact: {
-      src: "https://devast.io/img/e-feeder.png?2",
+      src: "img/e-feeder.png?2",
       img: {
         isLoaded: 0
       }
@@ -30892,17 +30892,17 @@ var INVENTORY = [{
     impact: SOUNDID.__STEEL_IMPACT__,
     destroy: SOUNDID.__STEEL_DESTROY__,
     building: [{
-      src: "https://devast.io/img/day-feeder.png?2",
+      src: "img/day-feeder.png?2",
       img: {
         isLoaded: 0
       }
     }, {
-      src: "https://devast.io/img/day-feeder-rotate.png?2",
+      src: "img/day-feeder-rotate.png?2",
       img: {
         isLoaded: 0
       }
     }, {
-      src: "https://devast.io/img/day-feeder-off.png?2",
+      src: "img/day-feeder-off.png?2",
       img: {
         isLoaded: 0
       }
@@ -30989,7 +30989,7 @@ ROAD[COUNTER] = {
     impact: SOUNDID.__NO_SOUND__,
     destroy: SOUNDID.__NO_SOUND__,
     building: {
-        src: "https://devast.io/img/day-road0.png",
+        src: "img/day-road0.png",
         img: {
             isLoaded: 0
         }
@@ -31014,7 +31014,7 @@ ROAD[COUNTER] = {
 for (var i = 0; i < 45; i++) {
     COUNTER++;
     ROAD[COUNTER] = window.JSON.parse(window.JSON.stringify(ROAD[0]));
-    ROAD[COUNTER].building.src = ("https://devast.io/img/day-road" + COUNTER) + ".png";
+    ROAD[COUNTER].building.src = ("img/day-road" + COUNTER) + ".png";
 }
 var FURNITURE = INVENTORY[IID.__FURNITURE__].subtype;
 FURNITURE[FURNITUREID.__SOFA0__] = {
@@ -31025,7 +31025,7 @@ FURNITURE[FURNITUREID.__SOFA0__] = {
     impact: SOUNDID.__PILLOW_IMPACT__,
     destroy: SOUNDID.__PILLOW_DESTROY__,
     building: {
-        src: "https://devast.io/img/day-sofa0.png",
+        src: "img/day-sofa0.png",
         img: {
             isLoaded: 0
         }
@@ -31054,26 +31054,26 @@ FURNITURE[FURNITUREID.__SOFA0__] = {
     timelife: 315360000000
 };
 FURNITURE[FURNITUREID.__SOFA1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__SOFA1__].building.src = "https://devast.io/img/day-sofa1.png";
+FURNITURE[FURNITUREID.__SOFA1__].building.src = "img/day-sofa1.png";
 FURNITURE[FURNITUREID.__SOFA1__].particles = PARTICLESID.__SOFA1__;
 FURNITURE[FURNITUREID.__SOFA2__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA1__]));
-FURNITURE[FURNITUREID.__SOFA2__].building.src = "https://devast.io/img/day-sofa2.png";
+FURNITURE[FURNITUREID.__SOFA2__].building.src = "img/day-sofa2.png";
 FURNITURE[FURNITUREID.__SOFA3__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__SOFA3__].building.src = "https://devast.io/img/day-sofa3.png";
+FURNITURE[FURNITUREID.__SOFA3__].building.src = "img/day-sofa3.png";
 FURNITURE[FURNITUREID.__SOFA3__].particles = PARTICLESID.__SOFA2__;
 FURNITURE[FURNITUREID.__SOFA4__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA3__]));
-FURNITURE[FURNITUREID.__SOFA4__].building.src = "https://devast.io/img/day-sofa4.png";
+FURNITURE[FURNITUREID.__SOFA4__].building.src = "img/day-sofa4.png";
 FURNITURE[FURNITUREID.__SOFA6__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA3__]));
-FURNITURE[FURNITUREID.__SOFA6__].building.src = "https://devast.io/img/day-sofa6.png";
+FURNITURE[FURNITUREID.__SOFA6__].building.src = "img/day-sofa6.png";
 FURNITURE[FURNITUREID.__RENFORCED__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__RENFORCED__].building.src = "https://devast.io/img/day-renforced-door.png";
+FURNITURE[FURNITUREID.__RENFORCED__].building.src = "img/day-renforced-door.png";
 FURNITURE[FURNITUREID.__RENFORCED__].particles = PARTICLESID.__STEEL__;
 FURNITURE[FURNITUREID.__RENFORCED__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 40]
 ]);
 FURNITURE[FURNITUREID.__RENFORCED__].life = 7000;
 FURNITURE[FURNITUREID.__MACHINE0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__MACHINE0__].building.src = "https://devast.io/img/day-electronic-box0.png";
+FURNITURE[FURNITUREID.__MACHINE0__].building.src = "img/day-electronic-box0.png";
 FURNITURE[FURNITUREID.__MACHINE0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__MACHINE0__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__MACHINE0__].particles = PARTICLESID.__STEEL__;
@@ -31089,7 +31089,7 @@ FURNITURE[FURNITUREID.__MACHINE0__]._x = [0, 0, 0, 0];
 FURNITURE[FURNITUREID.__MACHINE0__]._y = [0, 0, 0, 0];
 FURNITURE[FURNITUREID.__MACHINE0__].life = 800;
 FURNITURE[FURNITUREID.__MACHINE1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__MACHINE0__]));
-FURNITURE[FURNITUREID.__MACHINE1__].building.src = "https://devast.io/img/day-electronic-box1.png";
+FURNITURE[FURNITUREID.__MACHINE1__].building.src = "img/day-electronic-box1.png";
 FURNITURE[FURNITUREID.__MACHINE1__].width = [120, 120, 120, 120];
 FURNITURE[FURNITUREID.__MACHINE1__].height = [120, 120, 120, 120];
 FURNITURE[FURNITUREID.__MACHINE1__]._x = [-10, -10, -10, -10];
@@ -31102,17 +31102,17 @@ FURNITURE[FURNITUREID.__MACHINE1__].detail = new Detail("", "", -1, [
 ]);
 FURNITURE[FURNITUREID.__MACHINE1__].life = 1400;
 FURNITURE[FURNITUREID.__BED0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__BED0__].building.src = "https://devast.io/img/day-bed0.png";
+FURNITURE[FURNITUREID.__BED0__].building.src = "img/day-bed0.png";
 FURNITURE[FURNITUREID.__BED0__].particles = PARTICLESID.__BED0__;
 FURNITURE[FURNITUREID.__BED0__].detail = new Detail("", "", -1, [
     [IID.__WOOD__, 200],
     [IID.__LEATHER_BOAR__, 20]
 ]);
 FURNITURE[FURNITUREID.__BED1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__BED0__]));
-FURNITURE[FURNITUREID.__BED1__].building.src = "https://devast.io/img/day-bed1.png";
+FURNITURE[FURNITUREID.__BED1__].building.src = "img/day-bed1.png";
 FURNITURE[FURNITUREID.__BED1__].particles = PARTICLESID.__BED1__;
 FURNITURE[FURNITUREID.__BED2__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__BED0__]));
-FURNITURE[FURNITUREID.__BED2__].building.src = "https://devast.io/img/day-bed2.png";
+FURNITURE[FURNITUREID.__BED2__].building.src = "img/day-bed2.png";
 FURNITURE[FURNITUREID.__BED2__].particles = PARTICLESID.__GREY_STEEL__;
 FURNITURE[FURNITUREID.__BED2__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 12],
@@ -31120,7 +31120,7 @@ FURNITURE[FURNITUREID.__BED2__].detail = new Detail("", "", -1, [
     [IID.__ANIMAL_FAT__, 12]
 ]);
 FURNITURE[FURNITUREID.__TABLE0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__TABLE0__].building.src = "https://devast.io/img/day-table0.png";
+FURNITURE[FURNITUREID.__TABLE0__].building.src = "img/day-table0.png";
 FURNITURE[FURNITUREID.__TABLE0__].impact = SOUNDID.__WOOD_IMPACT__;
 FURNITURE[FURNITUREID.__TABLE0__].destroy = SOUNDID.__WOOD_DESTROY__;
 FURNITURE[FURNITUREID.__TABLE0__].particles = PARTICLESID.__WOOD__;
@@ -31128,7 +31128,7 @@ FURNITURE[FURNITUREID.__TABLE0__].detail = new Detail("", "", -1, [
     [IID.__WOOD__, 200]
 ]);
 FURNITURE[FURNITUREID.__TABLE1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__TABLE0__]));
-FURNITURE[FURNITUREID.__TABLE1__].building.src = "https://devast.io/img/day-table1.png";
+FURNITURE[FURNITUREID.__TABLE1__].building.src = "img/day-table1.png";
 FURNITURE[FURNITUREID.__TABLE1__].width = [100, 290, 100, 280];
 FURNITURE[FURNITUREID.__TABLE1__].height = [280, 100, 280, 100];
 FURNITURE[FURNITUREID.__TABLE1__].iTile = [-1, 0, -1, 0];
@@ -31136,7 +31136,7 @@ FURNITURE[FURNITUREID.__TABLE1__].jTile = [0, -1, 0, -1];
 FURNITURE[FURNITUREID.__TABLE1__]._x = [0, -90, 0, -90];
 FURNITURE[FURNITUREID.__TABLE1__]._y = [-90, 0, -90, 0];
 FURNITURE[FURNITUREID.__TABLE2__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__TABLE0__]));
-FURNITURE[FURNITUREID.__TABLE2__].building.src = "https://devast.io/img/day-table2.png";
+FURNITURE[FURNITUREID.__TABLE2__].building.src = "img/day-table2.png";
 FURNITURE[FURNITUREID.__TABLE2__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__TABLE2__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__TABLE2__].particles = PARTICLESID.__STEEL__;
@@ -31144,7 +31144,7 @@ FURNITURE[FURNITUREID.__TABLE2__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 8]
 ]);
 FURNITURE[FURNITUREID.__TV0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__TV0__].building.src = "https://devast.io/img/day-tv0.png";
+FURNITURE[FURNITUREID.__TV0__].building.src = "img/day-tv0.png";
 FURNITURE[FURNITUREID.__TV0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__TV0__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__TV0__].particles = PARTICLESID.__SAFE0__;
@@ -31155,7 +31155,7 @@ FURNITURE[FURNITUREID.__TV0__].detail = new Detail("", "", -1, [
     [IID.__JUNK__, 12]
 ]);
 FURNITURE[FURNITUREID.__COMPUTER0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__COMPUTER0__].building.src = "https://devast.io/img/day-computer0.png";
+FURNITURE[FURNITUREID.__COMPUTER0__].building.src = "img/day-computer0.png";
 FURNITURE[FURNITUREID.__COMPUTER0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__COMPUTER0__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__COMPUTER0__].particles = PARTICLESID.__METAL__;
@@ -31166,25 +31166,25 @@ FURNITURE[FURNITUREID.__COMPUTER0__].detail = new Detail("", "", -1, [
     [IID.__ELECTRONICS__, 4]
 ]);
 FURNITURE[FURNITUREID.__CHAIR0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__COMPUTER0__]));
-FURNITURE[FURNITUREID.__CHAIR0__].building.src = "https://devast.io/img/day-chair0.png";
+FURNITURE[FURNITUREID.__CHAIR0__].building.src = "img/day-chair0.png";
 FURNITURE[FURNITUREID.__CHAIR0__].detail = new Detail("", "", -1, [
     [IID.__LEATHER_BOAR__, 8],
     [IID.__SHAPED_METAL__, 8]
 ]);
 FURNITURE[FURNITUREID.__CHAIR1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__COMPUTER0__]));
-FURNITURE[FURNITUREID.__CHAIR1__].building.src = "https://devast.io/img/day-chair1.png";
+FURNITURE[FURNITUREID.__CHAIR1__].building.src = "img/day-chair1.png";
 FURNITURE[FURNITUREID.__CHAIR1__].detail = new Detail("", "", -1, [
     [IID.__LEATHER_BOAR__, 8],
     [IID.__SHAPED_METAL__, 8]
 ]);
 FURNITURE[FURNITUREID.__CHAIR2__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__COMPUTER0__]));
-FURNITURE[FURNITUREID.__CHAIR2__].building.src = "https://devast.io/img/day-chair2.png";
+FURNITURE[FURNITUREID.__CHAIR2__].building.src = "img/day-chair2.png";
 FURNITURE[FURNITUREID.__CHAIR2__].detail = new Detail("", "", -1, [
     [IID.__LEATHER_BOAR__, 8],
     [IID.__SHAPED_METAL__, 8]
 ]);
 FURNITURE[FURNITUREID.__WASHBASIN0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__SOFA0__]));
-FURNITURE[FURNITUREID.__WASHBASIN0__].building.src = "https://devast.io/img/day-washbasin0.png";
+FURNITURE[FURNITUREID.__WASHBASIN0__].building.src = "img/day-washbasin0.png";
 FURNITURE[FURNITUREID.__WASHBASIN0__].impact = SOUNDID.__WOOD_IMPACT__;
 FURNITURE[FURNITUREID.__WASHBASIN0__].destroy = SOUNDID.__WOOD_DESTROY__;
 FURNITURE[FURNITUREID.__WASHBASIN0__].particles = PARTICLESID.__WOODLIGHT__;
@@ -31193,7 +31193,7 @@ FURNITURE[FURNITUREID.__WASHBASIN0__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 8]
 ]);
 FURNITURE[FURNITUREID.__PHARMA0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__WASHBASIN0__]));
-FURNITURE[FURNITUREID.__PHARMA0__].building.src = "https://devast.io/img/day-pharma0.png";
+FURNITURE[FURNITUREID.__PHARMA0__].building.src = "img/day-pharma0.png";
 FURNITURE[FURNITUREID.__PHARMA0__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 8],
     [IID.__STONE__, 60]
@@ -31210,7 +31210,7 @@ FURNITURE[FURNITUREID.__PHARMA0__].loot = [
     [IID.__SYRINGE__, 1, 0.1]
 ];
 FURNITURE[FURNITUREID.__SHOWER0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__WASHBASIN0__]));
-FURNITURE[FURNITUREID.__SHOWER0__].building.src = "https://devast.io/img/day-shower0.png";
+FURNITURE[FURNITUREID.__SHOWER0__].building.src = "img/day-shower0.png";
 FURNITURE[FURNITUREID.__SHOWER0__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 8],
     [IID.__STONE__, 60]
@@ -31223,7 +31223,7 @@ FURNITURE[FURNITUREID.__SHOWER0__].height = [100, 70, 100, 70];
 FURNITURE[FURNITUREID.__SHOWER0__]._x = [0, 0, 30, 0];
 FURNITURE[FURNITUREID.__SHOWER0__]._y = [0, 0, 0, 30];
 FURNITURE[FURNITUREID.__FURNITURE0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__WASHBASIN0__]));
-FURNITURE[FURNITUREID.__FURNITURE0__].building.src = "https://devast.io/img/day-furniture0.png";
+FURNITURE[FURNITUREID.__FURNITURE0__].building.src = "img/day-furniture0.png";
 FURNITURE[FURNITUREID.__FURNITURE0__].width = [50, 100, 50, 100];
 FURNITURE[FURNITUREID.__FURNITURE0__].height = [100, 50, 100, 50];
 FURNITURE[FURNITUREID.__FURNITURE0__]._x = [0, 0, 50, 0];
@@ -31247,13 +31247,13 @@ FURNITURE[FURNITUREID.__FURNITURE0__].loot = [
     [IID.__STRING__, 2, 0.1]
 ];
 FURNITURE[FURNITUREID.__FURNITURE1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE0__]));
-FURNITURE[FURNITUREID.__FURNITURE1__].building.src = "https://devast.io/img/day-furniture1.png";
+FURNITURE[FURNITUREID.__FURNITURE1__].building.src = "img/day-furniture1.png";
 FURNITURE[FURNITUREID.__FURNITURE1__].width = [70, 100, 70, 100];
 FURNITURE[FURNITUREID.__FURNITURE1__].height = [100, 70, 100, 70];
 FURNITURE[FURNITUREID.__FURNITURE1__]._x = [0, 0, 30, 0];
 FURNITURE[FURNITUREID.__FURNITURE1__]._y = [0, 0, 0, 30];
 FURNITURE[FURNITUREID.__FURNITURE2__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE0__]));
-FURNITURE[FURNITUREID.__FURNITURE2__].building.src = "https://devast.io/img/day-furniture2.png";
+FURNITURE[FURNITUREID.__FURNITURE2__].building.src = "img/day-furniture2.png";
 FURNITURE[FURNITUREID.__FURNITURE2__].width = [70, 70, 70, 70];
 FURNITURE[FURNITUREID.__FURNITURE2__].height = [70, 70, 70, 70];
 FURNITURE[FURNITUREID.__FURNITURE2__]._x = [15, 15, 15, 15];
@@ -31262,9 +31262,9 @@ FURNITURE[FURNITUREID.__FURNITURE2__].detail = new Detail("", "", -1, [
     [IID.__WOOD__, 100]
 ]);
 FURNITURE[FURNITUREID.__FURNITURE3__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE2__]));
-FURNITURE[FURNITUREID.__FURNITURE3__].building.src = "https://devast.io/img/day-furniture3.png";
+FURNITURE[FURNITUREID.__FURNITURE3__].building.src = "img/day-furniture3.png";
 FURNITURE[FURNITUREID.__FURNITURE4__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE1__]));
-FURNITURE[FURNITUREID.__FURNITURE4__].building.src = "https://devast.io/img/day-furniture4.png";
+FURNITURE[FURNITUREID.__FURNITURE4__].building.src = "img/day-furniture4.png";
 FURNITURE[FURNITUREID.__FURNITURE4__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__FURNITURE4__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__FURNITURE4__].particles = PARTICLESID.__GREY_STEEL__;
@@ -31283,17 +31283,17 @@ FURNITURE[FURNITUREID.__FURNITURE4__].loot = [
     [IID.__STRING__, 2, 0.1]
 ];
 FURNITURE[FURNITUREID.__FURNITURE5__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE2__]));
-FURNITURE[FURNITUREID.__FURNITURE5__].building.src = "https://devast.io/img/day-furniture5.png";
+FURNITURE[FURNITUREID.__FURNITURE5__].building.src = "img/day-furniture5.png";
 FURNITURE[FURNITUREID.__FURNITURE5__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__FURNITURE5__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__FURNITURE5__].particles = PARTICLESID.__GREY_STEEL__;
 FURNITURE[FURNITUREID.__FURNITURE5__].loot = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE4__].loot));
 FURNITURE[FURNITUREID.__FURNITURE6__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE5__]));
-FURNITURE[FURNITUREID.__FURNITURE6__].building.src = "https://devast.io/img/day-furniture6.png";
+FURNITURE[FURNITUREID.__FURNITURE6__].building.src = "img/day-furniture6.png";
 FURNITURE[FURNITUREID.__CARTON0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE2__]));
 FURNITURE[FURNITUREID.__CARTON0__].impact = SOUNDID.__PILLOW_IMPACT__;
 FURNITURE[FURNITUREID.__CARTON0__].destroy = SOUNDID.__PILLOW_DESTROY__;
-FURNITURE[FURNITUREID.__CARTON0__].building.src = "https://devast.io/img/day-carton-box0.png";
+FURNITURE[FURNITUREID.__CARTON0__].building.src = "img/day-carton-box0.png";
 FURNITURE[FURNITUREID.__CARTON0__].detail = new Detail("", "", -1, []);
 FURNITURE[FURNITUREID.__CARTON0__].usable = 1;
 FURNITURE[FURNITUREID.__CARTON0__].loot = [
@@ -31312,24 +31312,24 @@ FURNITURE[FURNITUREID.__CARTON0__].loot = [
     [IID.__ELECTRONICS__, 1, 0.1]
 ];
 FURNITURE[FURNITUREID.__CARTON1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__CARTON0__]));
-FURNITURE[FURNITUREID.__CARTON1__].building.src = "https://devast.io/img/day-carton-box1.png";
+FURNITURE[FURNITUREID.__CARTON1__].building.src = "img/day-carton-box1.png";
 FURNITURE[FURNITUREID.__GOLD_CHAIR0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__CARTON0__]));
-FURNITURE[FURNITUREID.__GOLD_CHAIR0__].building.src = "https://devast.io/img/day-gold-chair0.png";
+FURNITURE[FURNITUREID.__GOLD_CHAIR0__].building.src = "img/day-gold-chair0.png";
 FURNITURE[FURNITUREID.__GOLD_CHAIR0__].detail = new Detail("", "", -1, [
     [IID.__WOOD__, 40]
 ]);
 FURNITURE[FURNITUREID.__GOLD_CHAIR0__].usable = 0;
 FURNITURE[FURNITUREID.__GOLD_CHAIR0__].particles = PARTICLESID.__GOLD__;
 FURNITURE[FURNITUREID.__GREEN_CHAIR0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__GOLD_CHAIR0__]));
-FURNITURE[FURNITUREID.__GREEN_CHAIR0__].building.src = "https://devast.io/img/day-green-chair0.png";
+FURNITURE[FURNITUREID.__GREEN_CHAIR0__].building.src = "img/day-green-chair0.png";
 FURNITURE[FURNITUREID.__GREEN_CHAIR0__].particles = PARTICLESID.__KAKI__;
 FURNITURE[FURNITUREID.__WOOD_CHAIR0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__GOLD_CHAIR0__]));
-FURNITURE[FURNITUREID.__WOOD_CHAIR0__].building.src = "https://devast.io/img/day-wood-chair0.png";
+FURNITURE[FURNITUREID.__WOOD_CHAIR0__].building.src = "img/day-wood-chair0.png";
 FURNITURE[FURNITUREID.__WOOD_CHAIR0__].impact = SOUNDID.__WOOD_IMPACT__;
 FURNITURE[FURNITUREID.__WOOD_CHAIR0__].destroy = SOUNDID.__WOOD_DESTROY__;
 FURNITURE[FURNITUREID.__WOOD_CHAIR0__].particles = PARTICLESID.__WOODLIGHT__;
 FURNITURE[FURNITUREID.__PLOT0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE2__]));
-FURNITURE[FURNITUREID.__PLOT0__].building.src = "https://devast.io/img/day-plot0.png";
+FURNITURE[FURNITUREID.__PLOT0__].building.src = "img/day-plot0.png";
 FURNITURE[FURNITUREID.__PLOT0__].particles = PARTICLESID.__PLOT__;
 FURNITURE[FURNITUREID.__PLOT0__].collision = 2;
 FURNITURE[FURNITUREID.__PLOT0__].radius = 30;
@@ -31341,7 +31341,7 @@ FURNITURE[FURNITUREID.__PLOT0__].usable = 0;
 FURNITURE[FURNITUREID.__BLOOD_TRANS__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__PLOT0__]));
 FURNITURE[FURNITUREID.__BLOOD_TRANS__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__BLOOD_TRANS__].destroy = SOUNDID.__STEEL_DESTROY__;
-FURNITURE[FURNITUREID.__BLOOD_TRANS__].building.src = "https://devast.io/img/day-blood-transfusion.png";
+FURNITURE[FURNITUREID.__BLOOD_TRANS__].building.src = "img/day-blood-transfusion.png";
 FURNITURE[FURNITUREID.__BLOOD_TRANS__].particles = PARTICLESID.__GREY_STEEL__;
 FURNITURE[FURNITUREID.__BLOOD_TRANS__].detail = new Detail("", "", -1, [
     [IID.__JUNK__, 2],
@@ -31349,7 +31349,7 @@ FURNITURE[FURNITUREID.__BLOOD_TRANS__].detail = new Detail("", "", -1, [
     [IID.__SYRINGE__, 1]
 ]);
 FURNITURE[FURNITUREID.__BAREL0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE2__]));
-FURNITURE[FURNITUREID.__BAREL0__].building.src = "https://devast.io/img/day-barel0.png";
+FURNITURE[FURNITUREID.__BAREL0__].building.src = "img/day-barel0.png";
 FURNITURE[FURNITUREID.__BAREL0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__BAREL0__].destroy = SOUNDID.__NO_SOUND__;
 FURNITURE[FURNITUREID.__BAREL0__].particles = PARTICLESID.__BARELRED__;
@@ -31367,7 +31367,7 @@ FURNITURE[FURNITUREID.__BAREL0__].loot = [
     [IID.__GASOLINE__, 1, 0.2]
 ];
 FURNITURE[FURNITUREID.__BAREL1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE2__]));
-FURNITURE[FURNITUREID.__BAREL1__].building.src = "https://devast.io/img/day-barel1.png";
+FURNITURE[FURNITUREID.__BAREL1__].building.src = "img/day-barel1.png";
 FURNITURE[FURNITUREID.__BAREL1__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__BAREL1__].destroy = SOUNDID.__NO_SOUND__;
 FURNITURE[FURNITUREID.__BAREL1__].particles = PARTICLESID.__BARELGREEN__;
@@ -31384,7 +31384,7 @@ FURNITURE[FURNITUREID.__BAREL1__].detail = new Detail("", "", -1, [
 FURNITURE[FURNITUREID.__BAREL1__].usable = 0;
 FURNITURE[FURNITUREID.__BAREL1__].areaEffect = __RADIATION__;
 FURNITURE[FURNITUREID.__GARBAGE0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE2__]));
-FURNITURE[FURNITUREID.__GARBAGE0__].building.src = "https://devast.io/img/day-garbage-bag0.png";
+FURNITURE[FURNITUREID.__GARBAGE0__].building.src = "img/day-garbage-bag0.png";
 FURNITURE[FURNITUREID.__GARBAGE0__].impact = SOUNDID.__PILLOW_IMPACT__;
 FURNITURE[FURNITUREID.__GARBAGE0__].destroy = SOUNDID.__PILLOW_DESTROY__;
 FURNITURE[FURNITUREID.__GARBAGE0__].particles = PARTICLESID.__GARBAGE0__;
@@ -31406,7 +31406,7 @@ FURNITURE[FURNITUREID.__GARBAGE0__].loot = [
     [IID.__JUNK__, 3, 0.4]
 ];
 FURNITURE[FURNITUREID.__FRIDGE0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE0__]));
-FURNITURE[FURNITUREID.__FRIDGE0__].building.src = "https://devast.io/img/day-fridge0.png";
+FURNITURE[FURNITUREID.__FRIDGE0__].building.src = "img/day-fridge0.png";
 FURNITURE[FURNITUREID.__FRIDGE0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__FRIDGE0__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__FRIDGE0__].particles = PARTICLESID.__METAL__;
@@ -31425,10 +31425,10 @@ FURNITURE[FURNITUREID.__FRIDGE0__].loot = [
     [IID.__ROTTEN_CRISPS__, 1, 0.01]
 ];
 FURNITURE[FURNITUREID.__FRIDGE1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FRIDGE0__]));
-FURNITURE[FURNITUREID.__FRIDGE1__].building.src = "https://devast.io/img/day-fridge1.png";
+FURNITURE[FURNITUREID.__FRIDGE1__].building.src = "img/day-fridge1.png";
 FURNITURE[FURNITUREID.__FRIDGE1__].particles = PARTICLESID.__FRIDGE__;
 FURNITURE[FURNITUREID.__DISTRIBUTOR0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE0__]));
-FURNITURE[FURNITUREID.__DISTRIBUTOR0__].building.src = "https://devast.io/img/day-vending-machine0.png";
+FURNITURE[FURNITUREID.__DISTRIBUTOR0__].building.src = "img/day-vending-machine0.png";
 FURNITURE[FURNITUREID.__DISTRIBUTOR0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__DISTRIBUTOR0__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__DISTRIBUTOR0__].particles = PARTICLESID.__RED_STEEL__;
@@ -31442,7 +31442,7 @@ FURNITURE[FURNITUREID.__DISTRIBUTOR0__].loot = [
     [IID.__CRISPS__, 1, 0.04]
 ];
 FURNITURE[FURNITUREID.__DISTRIBUTOR1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__DISTRIBUTOR0__]));
-FURNITURE[FURNITUREID.__DISTRIBUTOR1__].building.src = "https://devast.io/img/day-distributor0.png";
+FURNITURE[FURNITUREID.__DISTRIBUTOR1__].building.src = "img/day-distributor0.png";
 FURNITURE[FURNITUREID.__DISTRIBUTOR1__].particles = PARTICLESID.__GREY_STEEL__;
 FURNITURE[FURNITUREID.__DISTRIBUTOR1__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 16],
@@ -31455,7 +31455,7 @@ FURNITURE[FURNITUREID.__DISTRIBUTOR1__].loot = [
     [IID.__TOMATO_SOUP__, 1, 0.04]
 ];
 FURNITURE[FURNITUREID.__CASH0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE1__]));
-FURNITURE[FURNITUREID.__CASH0__].building.src = "https://devast.io/img/day-cash-machine0.png";
+FURNITURE[FURNITUREID.__CASH0__].building.src = "img/day-cash-machine0.png";
 FURNITURE[FURNITUREID.__CASH0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__CASH0__].destroy = SOUNDID.__STEEL_DESTROY__;
 FURNITURE[FURNITUREID.__CASH0__].particles = PARTICLESID.__GREY_STEEL__;
@@ -31467,12 +31467,12 @@ FURNITURE[FURNITUREID.__CASH0__].loot = [
     [IID.__JUNK__, 1, 0.05]
 ];
 FURNITURE[FURNITUREID.__CUPBOARD0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE0__]));
-FURNITURE[FURNITUREID.__CUPBOARD0__].building.src = "https://devast.io/img/day-cupboard0.png";
+FURNITURE[FURNITUREID.__CUPBOARD0__].building.src = "img/day-cupboard0.png";
 FURNITURE[FURNITUREID.__CUPBOARD0__].particles = PARTICLESID.__WOOD__;
 FURNITURE[FURNITUREID.__USINE_BOX0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE0__]));
 FURNITURE[FURNITUREID.__USINE_BOX0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__USINE_BOX0__].destroy = SOUNDID.__STEEL_DESTROY__;
-FURNITURE[FURNITUREID.__USINE_BOX0__].building.src = "https://devast.io/img/day-electronic-box2.png";
+FURNITURE[FURNITUREID.__USINE_BOX0__].building.src = "img/day-electronic-box2.png";
 FURNITURE[FURNITUREID.__USINE_BOX0__].particles = PARTICLESID.__STEEL__;
 FURNITURE[FURNITUREID.__USINE_BOX0__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 16]
@@ -31491,7 +31491,7 @@ FURNITURE[FURNITUREID.__USINE_BOX0__].loot = [
     [IID.__ALLOYS__, 1, 0.01]
 ];
 FURNITURE[FURNITUREID.__USINE_BOX1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__USINE_BOX0__]));
-FURNITURE[FURNITUREID.__USINE_BOX1__].building.src = "https://devast.io/img/day-electronic-box3.png";
+FURNITURE[FURNITUREID.__USINE_BOX1__].building.src = "img/day-electronic-box3.png";
 FURNITURE[FURNITUREID.__USINE_BOX1__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 16],
     [IID.__ELECTRONICS__, 4]
@@ -31514,7 +31514,7 @@ FURNITURE[FURNITUREID.__USINE_BOX1__].loot = [
     [IID.__ALLOYS__, 2, 0.05]
 ];
 FURNITURE[FURNITUREID.__ENERGY_BOX0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__USINE_BOX1__]));
-FURNITURE[FURNITUREID.__ENERGY_BOX0__].building.src = "https://devast.io/img/day-energy-box0.png";
+FURNITURE[FURNITUREID.__ENERGY_BOX0__].building.src = "img/day-energy-box0.png";
 FURNITURE[FURNITUREID.__ENERGY_BOX0__].particles = PARTICLESID.__KAKI__;
 FURNITURE[FURNITUREID.__ENERGY_BOX0__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 16],
@@ -31533,7 +31533,7 @@ FURNITURE[FURNITUREID.__ENERGY_BOX0__].loot = [
     [IID.__ALLOYS__, 2, 0.05]
 ];
 FURNITURE[FURNITUREID.__USINE_BOX2__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__USINE_BOX0__]));
-FURNITURE[FURNITUREID.__USINE_BOX2__].building.src = "https://devast.io/img/day-electronic-box4.png";
+FURNITURE[FURNITUREID.__USINE_BOX2__].building.src = "img/day-electronic-box4.png";
 FURNITURE[FURNITUREID.__USINE_BOX2__].loot = [
     [IID.__ELECTRONICS__, 2, 0.1],
     [IID.__JUNK__, 4, 0.1],
@@ -31547,9 +31547,9 @@ FURNITURE[FURNITUREID.__USINE_BOX2__].loot = [
     [IID.__DYNAMITE__, 1, 0.008]
 ];
 FURNITURE[FURNITUREID.__USINE_BOX3__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__USINE_BOX0__]));
-FURNITURE[FURNITUREID.__USINE_BOX3__].building.src = "https://devast.io/img/day-electronic-box5.png";
+FURNITURE[FURNITUREID.__USINE_BOX3__].building.src = "img/day-electronic-box5.png";
 FURNITURE[FURNITUREID.__AMMOBOX0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE0__]));
-FURNITURE[FURNITUREID.__AMMOBOX0__].building.src = "https://devast.io/img/day-ammo-box.png";
+FURNITURE[FURNITUREID.__AMMOBOX0__].building.src = "img/day-ammo-box.png";
 FURNITURE[FURNITUREID.__AMMOBOX0__].particles = PARTICLESID.__WOODLIGHT__;
 FURNITURE[FURNITUREID.__AMMOBOX0__].loot = [
     [IID.__MP5__, 1, 0.001], 
@@ -31585,7 +31585,7 @@ FURNITURE[FURNITUREID.__AMMOBOX0__].loot = [
 FURNITURE[FURNITUREID.__AMMOLOCKER1__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__AMMOBOX0__]));
 FURNITURE[FURNITUREID.__AMMOLOCKER1__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__AMMOLOCKER1__].destroy = SOUNDID.__STEEL_DESTROY__;
-FURNITURE[FURNITUREID.__AMMOLOCKER1__].building.src = "https://devast.io/img/day-ammo-locker1.png";
+FURNITURE[FURNITUREID.__AMMOLOCKER1__].building.src = "img/day-ammo-locker1.png";
 FURNITURE[FURNITUREID.__AMMOLOCKER1__].particles = PARTICLESID.__GREY_STEEL__;
 FURNITURE[FURNITUREID.__AMMOLOCKER1__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 32],
@@ -31594,7 +31594,7 @@ FURNITURE[FURNITUREID.__AMMOLOCKER1__].detail = new Detail("", "", -1, [
 FURNITURE[FURNITUREID.__AMMOLOCKER2__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__AMMOBOX0__]));
 FURNITURE[FURNITUREID.__AMMOLOCKER2__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__AMMOLOCKER2__].destroy = SOUNDID.__STEEL_DESTROY__;
-FURNITURE[FURNITUREID.__AMMOLOCKER2__].building.src = "https://devast.io/img/day-ammo-locker2.png";
+FURNITURE[FURNITUREID.__AMMOLOCKER2__].building.src = "img/day-ammo-locker2.png";
 FURNITURE[FURNITUREID.__AMMOLOCKER2__].particles = PARTICLESID.__GREY_STEEL__;
 FURNITURE[FURNITUREID.__AMMOLOCKER2__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 32],
@@ -31603,7 +31603,7 @@ FURNITURE[FURNITUREID.__AMMOLOCKER2__].detail = new Detail("", "", -1, [
 FURNITURE[FURNITUREID.__AMMOLOCKER0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__AMMOBOX0__]));
 FURNITURE[FURNITUREID.__AMMOLOCKER0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__AMMOLOCKER0__].destroy = SOUNDID.__STEEL_DESTROY__;
-FURNITURE[FURNITUREID.__AMMOLOCKER0__].building.src = "https://devast.io/img/day-ammo-locker0.png";
+FURNITURE[FURNITUREID.__AMMOLOCKER0__].building.src = "img/day-ammo-locker0.png";
 FURNITURE[FURNITUREID.__AMMOLOCKER0__].particles = PARTICLESID.__BLUE_STEEL__;
 FURNITURE[FURNITUREID.__AMMOLOCKER0__].width = [70, 50, 70, 50];
 FURNITURE[FURNITUREID.__AMMOLOCKER0__].height = [50, 70, 50, 70];
@@ -31616,7 +31616,7 @@ FURNITURE[FURNITUREID.__AMMOLOCKER0__].detail = new Detail("", "", -1, [
 FURNITURE[FURNITUREID.__SAFE0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE0__]));
 FURNITURE[FURNITUREID.__SAFE0__].impact = SOUNDID.__STEEL_IMPACT__;
 FURNITURE[FURNITUREID.__SAFE0__].destroy = SOUNDID.__STEEL_DESTROY__;
-FURNITURE[FURNITUREID.__SAFE0__].building.src = "https://devast.io/img/day-safe0.png";
+FURNITURE[FURNITUREID.__SAFE0__].building.src = "img/day-safe0.png";
 FURNITURE[FURNITUREID.__SAFE0__].particles = PARTICLESID.__SAFE0__;
 FURNITURE[FURNITUREID.__SAFE0__].detail = new Detail("", "", -1, [
     [IID.__SHAPED_METAL__, 32],
@@ -31643,7 +31643,7 @@ FURNITURE[FURNITUREID.__SAFE0__].loot = [
     [IID.__WOOD_CROSSARROW__, 50, 0.05]
 ];
 FURNITURE[FURNITUREID.__LITTLETABLE0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FRIDGE0__]));
-FURNITURE[FURNITUREID.__LITTLETABLE0__].building.src = "https://devast.io/img/day-little-table0.png";
+FURNITURE[FURNITUREID.__LITTLETABLE0__].building.src = "img/day-little-table0.png";
 FURNITURE[FURNITUREID.__LITTLETABLE0__].width = [50, 50, 50, 50];
 FURNITURE[FURNITUREID.__LITTLETABLE0__].height = [50, 50, 50, 50];
 FURNITURE[FURNITUREID.__LITTLETABLE0__]._x = [25, 25, 25, 25];
@@ -31653,13 +31653,13 @@ FURNITURE[FURNITUREID.__LITTLETABLE0__].detail = new Detail("", "", -1, [
 ]);
 FURNITURE[FURNITUREID.__LITTLETABLE0__].usable = 0;
 FURNITURE[FURNITUREID.__SMALL_LIGHT__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FURNITURE2__]));
-FURNITURE[FURNITUREID.__SMALL_LIGHT__].building.src = "https://devast.io/img/day-small-light-off.png";
+FURNITURE[FURNITUREID.__SMALL_LIGHT__].building.src = "img/day-small-light-off.png";
 FURNITURE[FURNITUREID.__SMALL_LIGHT__].particles = PARTICLESID.__GREY_STEEL__;
 FURNITURE[FURNITUREID.__TOILET0__] = window.JSON.parse(window.JSON.stringify(FURNITURE[FURNITUREID.__FRIDGE0__]));
 FURNITURE[FURNITUREID.__TOILET0__].impact = SOUNDID.__STONE_IMPACT__;
 FURNITURE[FURNITUREID.__TOILET0__].destroy = SOUNDID.__STONE_DESTROY__;
 FURNITURE[FURNITUREID.__TOILET0__].particles = PARTICLESID.__TOILET__;
-FURNITURE[FURNITUREID.__TOILET0__].building.src = "https://devast.io/img/day-toilet0.png";
+FURNITURE[FURNITUREID.__TOILET0__].building.src = "img/day-toilet0.png";
 FURNITURE[FURNITUREID.__TOILET0__].width = [50, 70, 50, 70];
 FURNITURE[FURNITUREID.__TOILET0__].height = [70, 50, 70, 50];
 FURNITURE[FURNITUREID.__TOILET0__]._x = [25, 30, 25, 0];
@@ -31681,7 +31681,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood0.png",
+    src: "img/day-ground-wood0.png",
     idItem: IID.__WOOD__,
     amount: 1,
     scale: 0.85,
@@ -31691,7 +31691,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood1.png",
+    src: "img/day-ground-wood1.png",
     idItem: IID.__WOOD__,
     amount: 2,
     scale: 0.85,
@@ -31701,7 +31701,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood2.png",
+    src: "img/day-ground-wood2.png",
     idItem: IID.__WOOD__,
     amount: 3,
     scale: 0.85,
@@ -31711,7 +31711,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone0.png",
+    src: "img/day-ground-stone0.png",
     idItem: IID.__STONE__,
     amount: 1,
     scale: 1.2,
@@ -31721,7 +31721,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone1.png",
+    src: "img/day-ground-stone1.png",
     idItem: IID.__STONE__,
     amount: 2,
     scale: 1.2,
@@ -31731,7 +31731,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone2.png",
+    src: "img/day-ground-stone2.png",
     idItem: IID.__STONE__,
     amount: 3,
     scale: 1.2,
@@ -31741,7 +31741,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-steel.png",
+    src: "img/day-ground-steel.png",
     idItem: IID.__STEEL__,
     amount: 1,
     scale: 0.8,
@@ -31751,7 +31751,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-animal-fat.png",
+    src: "img/day-ground-animal-fat.png",
     idItem: IID.__ANIMAL_FAT__,
     amount: 1,
     scale: 1,
@@ -31761,7 +31761,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-animal-tendon.png",
+    src: "img/day-ground-animal-tendon.png",
     idItem: IID.__ANIMAL_TENDON__,
     amount: 1,
     scale: 1,
@@ -31771,7 +31771,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-string.png",
+    src: "img/day-ground-string.png",
     idItem: IID.__STRING__,
     amount: 1,
     scale: 0.7,
@@ -31781,7 +31781,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-leather-boar.png",
+    src: "img/day-ground-leather-boar.png",
     idItem: IID.__LEATHER_BOAR__,
     amount: 1,
     scale: 0.9,
@@ -31791,7 +31791,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-shaped-metal.png",
+    src: "img/day-ground-shaped-metal.png",
     idItem: IID.__SHAPED_METAL__,
     amount: 1,
     scale: 0.8,
@@ -31801,7 +31801,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-raw-steak.png",
+    src: "img/day-ground-raw-steak.png",
     idItem: IID.__RAW_STEAK__,
     amount: 1,
     scale: 0.9,
@@ -31811,7 +31811,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-cooked-steak.png",
+    src: "img/day-ground-cooked-steak.png",
     idItem: IID.__COOKED_STEAK__,
     amount: 1,
     scale: 0.9,
@@ -31821,7 +31821,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-steak.png",
+    src: "img/day-ground-rotten-steak.png",
     idItem: IID.__ROTTEN_STEAK__,
     amount: 1,
     scale: 0.9,
@@ -31831,7 +31831,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-orange.png",
+    src: "img/day-ground-orange.png",
     idItem: IID.__ORANGE__,
     amount: 1,
     scale: 1,
@@ -31841,7 +31841,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-orange.png",
+    src: "img/day-ground-rotten-orange.png",
     idItem: IID.__ROTTEN_ORANGE__,
     amount: 1,
     scale: 1,
@@ -31851,7 +31851,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-seed-orange.png",
+    src: "img/day-ground-seed-orange.png",
     idItem: IID.__SEED_ORANGE__,
     amount: 1,
     scale: 0.9,
@@ -31861,7 +31861,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-hachet.png",
+    src: "img/day-ground-hachet.png",
     idItem: IID.__HACHET__,
     amount: 1,
     scale: 0.9,
@@ -31871,7 +31871,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone-pickaxe.png",
+    src: "img/day-ground-stone-pickaxe.png",
     idItem: IID.__STONE_PICKAXE__,
     amount: 1,
     scale: 0.7,
@@ -31881,7 +31881,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-steel-pickaxe.png",
+    src: "img/day-ground-steel-pickaxe.png",
     idItem: IID.__STEEL_PICKAXE__,
     amount: 1,
     scale: 0.7,
@@ -31891,7 +31891,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone-axe.png",
+    src: "img/day-ground-stone-axe.png",
     idItem: IID.__STONE_AXE__,
     amount: 1,
     scale: 0.7,
@@ -31901,7 +31901,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-workbench.png",
+    src: "img/day-ground-workbench.png",
     idItem: IID.__WORKBENCH__,
     amount: 1,
     scale: 0.7,
@@ -31911,7 +31911,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-spear.png",
+    src: "img/day-ground-wood-spear.png",
     idItem: IID.__WOOD_SPEAR__,
     amount: 1,
     scale: 0.6,
@@ -31921,7 +31921,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-bow.png",
+    src: "img/day-ground-wood-bow.png",
     idItem: IID.__WOOD_BOW__,
     amount: 1,
     scale: 0.8,
@@ -31931,7 +31931,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-9mm.png",
+    src: "img/day-ground-9mm.png",
     idItem: IID.__9MM__,
     amount: 1,
     scale: 1,
@@ -31941,7 +31941,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-desert-eagle.png",
+    src: "img/day-ground-desert-eagle.png",
     idItem: IID.__DESERT_EAGLE__,
     amount: 1,
     scale: 1,
@@ -31951,7 +31951,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-shotgun.png",
+    src: "img/day-ground-shotgun.png",
     idItem: IID.__SHOTGUN__,
     amount: 1,
     scale: 0.7,
@@ -31961,7 +31961,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-ak47.png",
+    src: "img/day-ground-ak47.png",
     idItem: IID.__AK47__,
     amount: 1,
     scale: 0.7,
@@ -31971,7 +31971,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-sniper.png",
+    src: "img/day-ground-sniper.png",
     idItem: IID.__SNIPER__,
     amount: 1,
     scale: 0.7,
@@ -31981,7 +31981,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-wall.png",
+    src: "img/day-ground-wood-wall.png",
     idItem: IID.__WOOD_WALL__,
     amount: 1,
     scale: 0.9,
@@ -31991,7 +31991,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone-wall.png",
+    src: "img/day-ground-stone-wall.png",
     idItem: IID.__STONE_WALL__,
     amount: 1,
     scale: 0.9,
@@ -32001,7 +32001,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-steel-wall.png",
+    src: "img/day-ground-steel-wall.png",
     idItem: IID.__STEEL_WALL__,
     amount: 1,
     scale: 0.9,
@@ -32011,7 +32011,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-door.png",
+    src: "img/day-ground-wood-door.png",
     idItem: IID.__WOOD_DOOR__,
     amount: 1,
     scale: 0.9,
@@ -32021,7 +32021,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone-door.png",
+    src: "img/day-ground-stone-door.png",
     idItem: IID.__STONE_DOOR__,
     amount: 1,
     scale: 0.9,
@@ -32031,7 +32031,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-steel-door.png",
+    src: "img/day-ground-steel-door.png",
     idItem: IID.__STEEL_DOOR__,
     amount: 1,
     scale: 0.9,
@@ -32041,7 +32041,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-campfire.png",
+    src: "img/day-ground-campfire.png",
     idItem: IID.__CAMPFIRE__,
     amount: 1,
     scale: 0.7,
@@ -32051,7 +32051,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-bullet-9mm.png",
+    src: "img/day-ground-bullet-9mm.png",
     idItem: IID.__BULLET_9MM__,
     amount: 1,
     scale: 1,
@@ -32061,7 +32061,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-bullet-shotgun.png",
+    src: "img/day-ground-bullet-shotgun.png",
     idItem: IID.__BULLET_SHOTGUN__,
     amount: 1,
     scale: 1,
@@ -32071,7 +32071,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-bullet-sniper.png",
+    src: "img/day-ground-bullet-sniper.png",
     idItem: IID.__BULLET_SNIPER__,
     amount: 1,
     scale: 1.1,
@@ -32081,7 +32081,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-medikit.png",
+    src: "img/day-ground-medikit.png",
     idItem: IID.__MEDIKIT__,
     amount: 1,
     scale: 0.9,
@@ -32091,7 +32091,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-bandage.png",
+    src: "img/day-ground-bandage.png",
     idItem: IID.__BANDAGE__,
     amount: 1,
     scale: 1,
@@ -32101,7 +32101,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-soda.png",
+    src: "img/day-ground-soda.png",
     idItem: IID.__SODA__,
     amount: 1,
     scale: 1.2,
@@ -32111,7 +32111,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-MP5.png",
+    src: "img/day-ground-MP5.png",
     idItem: IID.__MP5__,
     amount: 1,
     scale: 0.8,
@@ -32121,7 +32121,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-headscarf.png",
+    src: "img/day-ground-headscarf.png",
     idItem: IID.__HEADSCARF__,
     amount: 1,
     scale: 0.8,
@@ -32131,7 +32131,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-chapka.png",
+    src: "img/day-ground-chapka.png",
     idItem: IID.__CHAPKA__,
     amount: 1,
     scale: 0.8,
@@ -32141,7 +32141,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-coat.png",
+    src: "img/day-ground-coat.png",
     idItem: IID.__WINTER_COAT__,
     amount: 1,
     scale: 0.8,
@@ -32151,7 +32151,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-gaz-mask.png",
+    src: "img/day-ground-gaz-mask.png",
     idItem: IID.__GAZ_MASK__,
     amount: 1,
     scale: 0.8,
@@ -32161,7 +32161,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-gaz-protection.png",
+    src: "img/day-ground-gaz-protection.png",
     idItem: IID.__GAZ_PROTECTION__,
     amount: 1,
     scale: 0.8,
@@ -32171,7 +32171,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-radiation-suit.png",
+    src: "img/day-ground-radiation-suit.png",
     idItem: IID.__RADIATION_SUIT__,
     amount: 1,
     scale: 0.8,
@@ -32181,7 +32181,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-arrow.png",
+    src: "img/day-ground-wood-arrow.png",
     idItem: IID.__WOOD_ARROW__,
     amount: 1,
     scale: 0.8,
@@ -32191,7 +32191,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-campfire-bbq.png",
+    src: "img/day-ground-campfire-bbq.png",
     idItem: IID.__CAMPFIRE_BBQ__,
     amount: 1,
     scale: 0.8,
@@ -32201,7 +32201,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-smelter.png",
+    src: "img/day-ground-smelter.png",
     idItem: IID.__SMELTER__,
     amount: 1,
     scale: 0.8,
@@ -32211,7 +32211,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-door1.png",
+    src: "img/day-ground-wood-door1.png",
     idItem: IID.__WOOD_BIGDOOR__,
     amount: 1,
     scale: 0.9,
@@ -32221,7 +32221,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone-door1.png",
+    src: "img/day-ground-stone-door1.png",
     idItem: IID.__STONE_BIGDOOR__,
     amount: 1,
     scale: 0.9,
@@ -32231,7 +32231,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-steel-door1.png",
+    src: "img/day-ground-steel-door1.png",
     idItem: IID.__STEEL_BIGDOOR__,
     amount: 1,
     scale: 0.9,
@@ -32241,7 +32241,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-sulfur.png",
+    src: "img/day-ground-sulfur.png",
     idItem: IID.__SULFUR__,
     amount: 1,
     scale: 1,
@@ -32251,7 +32251,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-shaped-uranium.png",
+    src: "img/day-ground-shaped-uranium.png",
     idItem: IID.__SHAPED_URANIUM__,
     amount: 1,
     scale: 1,
@@ -32261,7 +32261,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-workbench2.png",
+    src: "img/day-ground-workbench2.png",
     idItem: IID.__WORKBENCH2__,
     amount: 1,
     scale: 1,
@@ -32271,7 +32271,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-uranium.png",
+    src: "img/day-ground-uranium.png",
     idItem: IID.__URANIUM__,
     amount: 1,
     scale: 1,
@@ -32281,7 +32281,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-weaving-machine.png",
+    src: "img/day-ground-weaving-machine.png",
     idItem: IID.__WEAVING__,
     amount: 1,
     scale: 1,
@@ -32291,7 +32291,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-gasoline.png",
+    src: "img/day-ground-gasoline.png",
     idItem: IID.__GASOLINE__,
     amount: 1,
     scale: 1,
@@ -32301,7 +32301,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-sulfur-pickaxe.png",
+    src: "img/day-ground-sulfur-pickaxe.png",
     idItem: IID.__SULFUR_PICKAXE__,
     amount: 1,
     scale: 0.7,
@@ -32311,7 +32311,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-chest.png",
+    src: "img/day-ground-chest.png",
     idItem: IID.__CHEST__,
     amount: 1,
     scale: 0.7,
@@ -32321,7 +32321,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-fridge.png",
+    src: "img/day-ground-fridge.png",
     idItem: IID.__FRIDGE__,
     amount: 1,
     scale: 0.7,
@@ -32331,7 +32331,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-floor.png",
+    src: "img/day-ground-wood-floor.png",
     idItem: IID.__WOOD_FLOOR__,
     amount: 1,
     scale: 0.9,
@@ -32341,7 +32341,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-hammer.png",
+    src: "img/day-ground-hammer.png",
     idItem: IID.__HAMMER__,
     amount: 1,
     scale: 0.7,
@@ -32351,7 +32351,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-sleeping-bag.png",
+    src: "img/day-ground-sleeping-bag.png",
     idItem: IID.__SLEEPING_BAG__,
     amount: 1,
     scale: 0.7,
@@ -32361,7 +32361,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-repair-hammer.png",
+    src: "img/day-ground-repair-hammer.png",
     idItem: IID.__REPAIR_HAMMER__,
     amount: 1,
     scale: 0.7,
@@ -32371,7 +32371,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-nails.png",
+    src: "img/day-ground-nails.png",
     idItem: IID.__NAILS__,
     amount: 1,
     scale: 0.7,
@@ -32381,7 +32381,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-floor-light.png",
+    src: "img/day-ground-wood-floor-light.png",
     idItem: IID.__WOODLIGHT_FLOOR__,
     amount: 1,
     scale: 0.7,
@@ -32391,7 +32391,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-smallwall.png",
+    src: "img/day-ground-wood-smallwall.png",
     idItem: IID.__WOOD_SMALLWALL__,
     amount: 1,
     scale: 0.9,
@@ -32401,7 +32401,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone-smallwall.png",
+    src: "img/day-ground-stone-smallwall.png",
     idItem: IID.__STONE_SMALLWALL__,
     amount: 1,
     scale: 0.9,
@@ -32411,7 +32411,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-steel-smallwall.png",
+    src: "img/day-ground-steel-smallwall.png",
     idItem: IID.__STEEL_SMALLWALL__,
     amount: 1,
     scale: 0.9,
@@ -32421,7 +32421,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-tomato-soup.png",
+    src: "img/day-ground-tomato-soup.png",
     idItem: IID.__TOMATO_SOUP__,
     amount: 1,
     scale: 0.9,
@@ -32431,7 +32431,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-syringe.png",
+    src: "img/day-ground-syringe.png",
     idItem: IID.__SYRINGE__,
     amount: 1,
     scale: 0.9,
@@ -32441,7 +32441,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-chemical-component.png",
+    src: "img/day-ground-chemical-component.png",
     idItem: IID.__CHEMICAL_COMPONENT__,
     amount: 1,
     scale: 0.9,
@@ -32451,7 +32451,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-radaway.png",
+    src: "img/day-ground-radaway.png",
     idItem: IID.__RADAWAY__,
     amount: 1,
     scale: 0.9,
@@ -32461,7 +32461,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-seed-tomato.png",
+    src: "img/day-ground-seed-tomato.png",
     idItem: IID.__SEED_TOMATO__,
     amount: 1,
     scale: 0.9,
@@ -32471,7 +32471,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-tomato.png",
+    src: "img/day-ground-tomato.png",
     idItem: IID.__TOMATO__,
     amount: 1,
     scale: 0.9,
@@ -32481,7 +32481,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-tomato.png",
+    src: "img/day-ground-rotten-tomato.png",
     idItem: IID.__ROTTEN_TOMATO__,
     amount: 1,
     scale: 0.9,
@@ -32491,7 +32491,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-can.png",
+    src: "img/day-ground-can.png",
     idItem: IID.__CAN__,
     amount: 1,
     scale: 0.9,
@@ -32501,7 +32501,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-crossbow.png",
+    src: "img/day-ground-wood-crossbow.png",
     idItem: IID.__WOOD_CROSSBOW__,
     amount: 1,
     scale: 0.8,
@@ -32511,7 +32511,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-crossarrow.png",
+    src: "img/day-ground-wood-crossarrow.png",
     idItem: IID.__WOOD_CROSSARROW__,
     amount: 1,
     scale: 0.8,
@@ -32521,7 +32521,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-nail-gun.png",
+    src: "img/day-ground-nail-gun.png",
     idItem: IID.__NAIL_GUN__,
     amount: 1,
     scale: 0.8,
@@ -32531,7 +32531,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-sawed-off-shotgun.png",
+    src: "img/day-ground-sawed-off-shotgun.png",
     idItem: IID.__SAWED_OFF_SHOTGUN__,
     amount: 1,
     scale: 0.8,
@@ -32541,7 +32541,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone-floor.png",
+    src: "img/day-ground-stone-floor.png",
     idItem: IID.__STONE_FLOOR__,
     amount: 1,
     scale: 0.8,
@@ -32551,7 +32551,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-tiling-floor.png",
+    src: "img/day-ground-tiling-floor.png",
     idItem: IID.__TILING_FLOOR__,
     amount: 1,
     scale: 0.8,
@@ -32561,7 +32561,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-chips.png",
+    src: "img/day-ground-chips.png",
     idItem: IID.__CRISPS__,
     amount: 1,
     scale: 0.9,
@@ -32571,7 +32571,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-chips.png",
+    src: "img/day-ground-rotten-chips.png",
     idItem: IID.__ROTTEN_CRISPS__,
     amount: 1,
     scale: 0.9,
@@ -32581,7 +32581,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-electronic-part.png",
+    src: "img/day-ground-electronic-part.png",
     idItem: IID.__ELECTRONICS__,
     amount: 1,
     scale: 1,
@@ -32591,7 +32591,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-junk.png",
+    src: "img/day-ground-junk.png",
     idItem: IID.__JUNK__,
     amount: 1,
     scale: 0.8,
@@ -32601,7 +32601,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wires.png",
+    src: "img/day-ground-wires.png",
     idItem: IID.__WIRE__,
     amount: 1,
     scale: 1,
@@ -32611,7 +32611,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-small-energy-cells.png",
+    src: "img/day-ground-small-energy-cells.png",
     idItem: IID.__ENERGY_CELLS__,
     amount: 1,
     scale: 1,
@@ -32621,7 +32621,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-laser-pistol.png",
+    src: "img/day-ground-laser-pistol.png",
     idItem: IID.__LASER_PISTOL__,
     amount: 1,
     scale: 1,
@@ -32631,7 +32631,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-workbench3.png",
+    src: "img/day-ground-workbench3.png",
     idItem: IID.__TESLA__,
     amount: 1,
     scale: 0.9,
@@ -32641,7 +32641,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-alloys.png",
+    src: "img/day-ground-alloys.png",
     idItem: IID.__ALLOYS__,
     amount: 1,
     scale: 1,
@@ -32651,7 +32651,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-sulfur-axe.png",
+    src: "img/day-ground-sulfur-axe.png",
     idItem: IID.__SULFUR_AXE__,
     amount: 1,
     scale: 0.7,
@@ -32661,7 +32661,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-landmine.png",
+    src: "img/day-ground-landmine.png",
     idItem: IID.__LANDMINE__,
     amount: 1,
     scale: 0.7,
@@ -32671,7 +32671,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-dynamite.png",
+    src: "img/day-ground-dynamite.png",
     idItem: IID.__DYNAMITE__,
     amount: 1,
     scale: 0.7,
@@ -32681,7 +32681,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-C4.png",
+    src: "img/day-ground-C4.png",
     idItem: IID.__C4__,
     amount: 1,
     scale: 0.7,
@@ -32691,7 +32691,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-joystick.png",
+    src: "img/day-ground-joystick.png",
     idItem: IID.__C4_TRIGGER__,
     amount: 1,
     scale: 0.7,
@@ -32701,7 +32701,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-composter.png",
+    src: "img/day-ground-composter.png",
     idItem: IID.__COMPOST__,
     amount: 1,
     scale: 0.7,
@@ -32711,7 +32711,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-metal-helmet.png",
+    src: "img/day-ground-metal-helmet.png",
     idItem: IID.__ARMOR_PHYSIC_1__,
     amount: 1,
     scale: 0.8,
@@ -32721,7 +32721,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-welding-helmet.png",
+    src: "img/day-ground-welding-helmet.png",
     idItem: IID.__ARMOR_PHYSIC_2__,
     amount: 1,
     scale: 0.7,
@@ -32731,7 +32731,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-gladiator-helmet.png",
+    src: "img/day-ground-gladiator-helmet.png",
     idItem: IID.__ARMOR_PHYSIC_3__,
     amount: 1,
     scale: 0.7,
@@ -32741,7 +32741,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-leather-jacket.png",
+    src: "img/day-ground-leather-jacket.png",
     idItem: IID.__ARMOR_FIRE_1__,
     amount: 1,
     scale: 0.8,
@@ -32751,7 +32751,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-kevlar-suit.png",
+    src: "img/day-ground-kevlar-suit.png",
     idItem: IID.__ARMOR_FIRE_2__,
     amount: 1,
     scale: 0.8,
@@ -32761,7 +32761,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-SWAT-suit.png",
+    src: "img/day-ground-SWAT-suit.png",
     idItem: IID.__ARMOR_FIRE_3__,
     amount: 1,
     scale: 0.8,
@@ -32771,7 +32771,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-protective-suit.png",
+    src: "img/day-ground-protective-suit.png",
     idItem: IID.__ARMOR_DEMINER__,
     amount: 1,
     scale: 0.8,
@@ -32781,7 +32781,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-tesla-0.png",
+    src: "img/day-ground-tesla-0.png",
     idItem: IID.__ARMOR_TESLA_1__,
     amount: 1,
     scale: 0.8,
@@ -32791,7 +32791,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-tesla-armor.png",
+    src: "img/day-ground-tesla-armor.png",
     idItem: IID.__ARMOR_TESLA_2__,
     amount: 1,
     scale: 0.8,
@@ -32801,7 +32801,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wood-spike.png",
+    src: "img/day-ground-wood-spike.png",
     idItem: IID.__WOOD_SPIKE__,
     amount: 1,
     scale: 0.8,
@@ -32811,7 +32811,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-laser-submachine.png",
+    src: "img/day-ground-laser-submachine.png",
     idItem: IID.__LASER_SUBMACHINE__,
     amount: 1,
     scale: 0.8,
@@ -32821,7 +32821,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-grenade.png",
+    src: "img/day-ground-grenade.png",
     idItem: IID.__GRENADE__,
     amount: 1,
     scale: 0.8,
@@ -32831,7 +32831,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-super-hammer.png",
+    src: "img/day-ground-super-hammer.png",
     idItem: IID.__SUPER_HAMMER__,
     amount: 1,
     scale: 0.8,
@@ -32841,7 +32841,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-ghoul-blood.png",
+    src: "img/day-ground-ghoul-blood.png",
     idItem: IID.__GHOUL_BLOOD__,
     amount: 1,
     scale: 0.8,
@@ -32851,7 +32851,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-camouflage-gear.png",
+    src: "img/day-ground-camouflage-gear.png",
     idItem: IID.__CAMOUFLAGE_GEAR__,
     amount: 1,
     scale: 0.8,
@@ -32861,7 +32861,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-agitator.png",
+    src: "img/day-ground-agitator.png",
     idItem: IID.__AGITATOR__,
     amount: 1,
     scale: 0.8,
@@ -32871,7 +32871,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-ghoul-drug.png",
+    src: "img/day-ground-ghoul-drug.png",
     idItem: IID.__GHOUL_DRUG__,
     amount: 1,
     scale: 0.8,
@@ -32881,7 +32881,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-mushroom1.png",
+    src: "img/day-ground-mushroom1.png",
     idItem: IID.__MUSHROOM1__,
     amount: 1,
     scale: 0.8,
@@ -32891,7 +32891,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-mushroom2.png",
+    src: "img/day-ground-mushroom2.png",
     idItem: IID.__MUSHROOM2__,
     amount: 1,
     scale: 0.8,
@@ -32901,7 +32901,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-mushroom3.png",
+    src: "img/day-ground-mushroom3.png",
     idItem: IID.__MUSHROOM3__,
     amount: 1,
     scale: 0.8,
@@ -32911,7 +32911,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-mushroom1.png",
+    src: "img/day-ground-rotten-mushroom1.png",
     idItem: IID.__ROTTEN_MUSHROOM1__,
     amount: 1,
     scale: 0.8,
@@ -32921,7 +32921,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-mushroom2.png",
+    src: "img/day-ground-rotten-mushroom2.png",
     idItem: IID.__ROTTEN_MUSHROOM2__,
     amount: 1,
     scale: 0.8,
@@ -32931,7 +32931,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-mushroom3.png",
+    src: "img/day-ground-rotten-mushroom3.png",
     idItem: IID.__ROTTEN_MUSHROOM3__,
     amount: 1,
     scale: 0.8,
@@ -32941,7 +32941,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-lapadoine.png",
+    src: "img/day-ground-lapadoine.png",
     idItem: IID.__LAPADONE__,
     amount: 1,
     scale: 0.8,
@@ -32951,7 +32951,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-lapabot.png",
+    src: "img/day-ground-lapabot.png",
     idItem: IID.__LAPABOT_REPAIR__,
     amount: 1,
     scale: 0.8,
@@ -32961,7 +32961,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-small-wire.png",
+    src: "img/day-ground-small-wire.png",
     idItem: IID.__SMALL_WIRE__,
     amount: 1,
     scale: 0.8,
@@ -32971,7 +32971,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-pumpkin.png",
+    src: "img/day-ground-pumpkin.png",
     idItem: IID.__PUMPKIN__,
     amount: 1,
     scale: 0.8,
@@ -32981,7 +32981,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-pumpkin.png",
+    src: "img/day-ground-rotten-pumpkin.png",
     idItem: IID.__ROTTEN_PUMPKIN__,
     amount: 1,
     scale: 0.8,
@@ -32991,7 +32991,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-ghoul5.png",
+    src: "img/day-ground-ghoul5.png",
     idItem: IID.__SEED_GHOUL__,
     amount: 1,
     scale: 0.8,
@@ -33001,7 +33001,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-extractor.png",
+    src: "img/day-ground-extractor.png",
     idItem: IID.__EXTRACTOR__,
     amount: 1,
     scale: 0.8,
@@ -33011,7 +33011,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-antidote.png",
+    src: "img/day-ground-antidote.png",
     idItem: IID.__ANTIDOTE__,
     amount: 1,
     scale: 0.8,
@@ -33021,7 +33021,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-antidote-flower.png",
+    src: "img/day-ground-antidote-flower.png",
     idItem: IID.__ANTIDOTE_FLOWER__,
     amount: 1,
     scale: 0.8,
@@ -33031,7 +33031,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-seed-tree.png",
+    src: "img/day-ground-seed-tree.png",
     idItem: IID.__SEED_TREE__,
     amount: 1,
     scale: 0.8,
@@ -33041,7 +33041,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-acorn.png",
+    src: "img/day-ground-acorn.png",
     idItem: IID.__ACORN__,
     amount: 1,
     scale: 0.8,
@@ -33051,7 +33051,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-rotten-acorn.png",
+    src: "img/day-ground-rotten-acorn.png",
     idItem: IID.__ROTTEN_ACORN__,
     amount: 1,
     scale: 0.8,
@@ -33061,7 +33061,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-laser-sniper.png",
+    src: "img/day-ground-laser-sniper.png",
     idItem: IID.__LASER_SNIPER__,
     amount: 1,
     scale: 0.8,
@@ -33071,7 +33071,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-hal-bot.png",
+    src: "img/day-ground-hal-bot.png",
     idItem: IID.__HAL_BOT__,
     amount: 1,
     scale: 0.8,
@@ -33081,7 +33081,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-tesla-bot.png",
+    src: "img/day-ground-tesla-bot.png",
     idItem: IID.__TESLA_BOT__,
     amount: 1,
     scale: 0.8,
@@ -33091,7 +33091,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wire0.png",
+    src: "img/day-ground-wire0.png",
     idItem: IID.__CABLE0__,
     amount: 1,
     scale: 0.8,
@@ -33101,7 +33101,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wire1.png",
+    src: "img/day-ground-wire1.png",
     idItem: IID.__CABLE1__,
     amount: 1,
     scale: 0.8,
@@ -33111,7 +33111,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wire2.png",
+    src: "img/day-ground-wire2.png",
     idItem: IID.__CABLE2__,
     amount: 1,
     scale: 0.8,
@@ -33121,7 +33121,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wire3.png",
+    src: "img/day-ground-wire3.png",
     idItem: IID.__CABLE3__,
     amount: 1,
     scale: 0.8,
@@ -33131,7 +33131,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-switch.png",
+    src: "img/day-ground-switch.png",
     idItem: IID.__SWITCH__,
     amount: 1,
     scale: 0.8,
@@ -33141,7 +33141,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-switch-or.png",
+    src: "img/day-ground-switch-or.png",
     idItem: IID.__GATE_OR__,
     amount: 1,
     scale: 0.8,
@@ -33151,7 +33151,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-switch-and.png",
+    src: "img/day-ground-switch-and.png",
     idItem: IID.__GATE_AND__,
     amount: 1,
     scale: 0.8,
@@ -33161,7 +33161,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-switch-reverse.png",
+    src: "img/day-ground-switch-reverse.png",
     idItem: IID.__GATE_NOT__,
     amount: 1,
     scale: 0.8,
@@ -33171,7 +33171,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-lamp-white.png",
+    src: "img/day-ground-lamp-white.png",
     idItem: IID.__LAMP__,
     amount: 1,
     scale: 0.8,
@@ -33181,7 +33181,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-cable-wall.png",
+    src: "img/day-ground-cable-wall.png",
     idItem: IID.__CABLE_WALL__,
     amount: 1,
     scale: 0.8,
@@ -33191,7 +33191,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-automatic-door.png",
+    src: "img/day-ground-automatic-door.png",
     idItem: IID.__AUTOMATIC_DOOR__,
     amount: 1,
     scale: 0.8,
@@ -33201,7 +33201,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-platform.png",
+    src: "img/day-ground-platform.png",
     idItem: IID.__PLATFORM__,
     amount: 1,
     scale: 0.8,
@@ -33211,7 +33211,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-stone-cave.png",
+    src: "img/day-ground-stone-cave.png",
     idItem: IID.__STONE_CAVE__,
     amount: 1,
     scale: 0.8,
@@ -33221,7 +33221,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-bunker-wall.png",
+    src: "img/day-ground-bunker-wall.png",
     idItem: IID.__BUNKER_WALL__,
     amount: 1,
     scale: 0.8,
@@ -33231,7 +33231,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-mustard-floor.png",
+    src: "img/day-ground-mustard-floor.png",
     idItem: IID.__GOLD_FLOOR__,
     amount: 1,
     scale: 0.8,
@@ -33241,7 +33241,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-red-floor.png",
+    src: "img/day-ground-red-floor.png",
     idItem: IID.__RED_FLOOR__,
     amount: 1,
     scale: 0.8,
@@ -33251,7 +33251,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-welding-machine.png",
+    src: "img/day-ground-welding-machine.png",
     idItem: IID.__WELDING_MACHINE__,
     amount: 1,
     scale: 0.8,
@@ -33261,7 +33261,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-wire4.png",
+    src: "img/day-ground-wire4.png",
     idItem: IID.__CABLE4__,
     amount: 1,
     scale: 0.8,
@@ -33271,7 +33271,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-timer.png",
+    src: "img/day-ground-timer.png",
     idItem: IID.__GATE_TIMER__,
     amount: 1,
     scale: 0.8,
@@ -33281,7 +33281,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-xor.png",
+    src: "img/day-ground-xor.png",
     idItem: IID.__GATE_XOR__,
     amount: 1,
     scale: 0.8,
@@ -33291,7 +33291,7 @@ var LOOT = [{
     img: {
         isLoaded: 0
     },
-    src: "https://devast.io/img/day-ground-feeder.png",
+    src: "img/day-ground-feeder.png",
     idItem: LOOTID.__FEEDER__,
     amount: 1,
     scale: 0.8,
@@ -33334,7 +33334,7 @@ RESOURCES[RESID.WOOD] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-wood1.png"
+            src: "img/day-wood1.png"
         },
         particlesDist: 100,
         particle: 5,
@@ -33349,7 +33349,7 @@ RESOURCES[RESID.WOOD] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-wood0.png"
+            src: "img/day-wood0.png"
         },
         particlesDist: 75,
         particle: 5,
@@ -33364,7 +33364,7 @@ RESOURCES[RESID.WOOD] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-wood2.png"
+            src: "img/day-wood2.png"
         },
         particlesDist: 70,
         particle: 5,
@@ -33379,7 +33379,7 @@ RESOURCES[RESID.WOOD] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-wood3.png"
+            src: "img/day-wood3.png"
         },
         particlesDist: 60,
         particle: 5,
@@ -33394,7 +33394,7 @@ RESOURCES[RESID.WOOD] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-wood4.png"
+            src: "img/day-wood4.png"
         },
         particlesDist: 50,
         particle: 5,
@@ -33421,19 +33421,19 @@ RESOURCES[RESID.LEAFTREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree0.png"
+            src: "img/day-tree0.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-treeleaf0.png"
+            src: "img/day-treeleaf0.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree-and-leaf0.png"
+            src: "img/day-tree-and-leaf0.png"
         },
         particlesDist: 145,
         particle: 5,
@@ -33448,19 +33448,19 @@ RESOURCES[RESID.LEAFTREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree1.png"
+            src: "img/day-tree1.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-treeleaf1.png"
+            src: "img/day-treeleaf1.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree-and-leaf1.png"
+            src: "img/day-tree-and-leaf1.png"
         },
         particlesDist: 128,
         particle: 5,
@@ -33475,19 +33475,19 @@ RESOURCES[RESID.LEAFTREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree2.png"
+            src: "img/day-tree2.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-treeleaf2.png"
+            src: "img/day-treeleaf2.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree-and-leaf2.png"
+            src: "img/day-tree-and-leaf2.png"
         },
         particlesDist: 114,
         particle: 5,
@@ -33502,19 +33502,19 @@ RESOURCES[RESID.LEAFTREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree3.png"
+            src: "img/day-tree3.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-treeleaf3.png"
+            src: "img/day-treeleaf3.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree-and-leaf3.png"
+            src: "img/day-tree-and-leaf3.png"
         },
         particlesDist: 90,
         particle: 5,
@@ -33529,19 +33529,19 @@ RESOURCES[RESID.LEAFTREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree4.png"
+            src: "img/day-tree4.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-treeleaf4.png"
+            src: "img/day-treeleaf4.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tree-and-leaf4.png"
+            src: "img/day-tree-and-leaf4.png"
         },
         particlesDist: 147,
         particle: 5,
@@ -33568,7 +33568,7 @@ RESOURCES[RESID.STONE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-stone0.png"
+            src: "img/day-stone0.png"
         },
         particlesDist: 80,
         particle: 5,
@@ -33583,7 +33583,7 @@ RESOURCES[RESID.STONE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-stone2.png"
+            src: "img/day-stone2.png"
         },
         particlesDist: 80,
         particle: 5,
@@ -33598,7 +33598,7 @@ RESOURCES[RESID.STONE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-stone1.png"
+            src: "img/day-stone1.png"
         },
         particlesDist: 74,
         particle: 5,
@@ -33613,7 +33613,7 @@ RESOURCES[RESID.STONE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-stone3.png"
+            src: "img/day-stone3.png"
         },
         particlesDist: 65,
         particle: 5,
@@ -33628,7 +33628,7 @@ RESOURCES[RESID.STONE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-stone4.png"
+            src: "img/day-stone4.png"
         },
         particlesDist: 63,
         particle: 5,
@@ -33643,7 +33643,7 @@ RESOURCES[RESID.STONE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-stone5.png"
+            src: "img/day-stone5.png"
         },
         particlesDist: 61,
         particle: 5,
@@ -33670,7 +33670,7 @@ RESOURCES[RESID.STEEL] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-steel0.png"
+            src: "img/day-steel0.png"
         },
         particlesDist: 81,
         particle: 5,
@@ -33685,7 +33685,7 @@ RESOURCES[RESID.STEEL] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-steel1.png"
+            src: "img/day-steel1.png"
         },
         particlesDist: 81,
         particle: 5,
@@ -33700,7 +33700,7 @@ RESOURCES[RESID.STEEL] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-steel2.png"
+            src: "img/day-steel2.png"
         },
         particlesDist: 62,
         particle: 5,
@@ -33715,7 +33715,7 @@ RESOURCES[RESID.STEEL] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-steel3.png"
+            src: "img/day-steel3.png"
         },
         particlesDist: 70,
         particle: 5,
@@ -33742,7 +33742,7 @@ RESOURCES[RESID.SULFUR] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-sulfur0.png"
+            src: "img/day-sulfur0.png"
         },
         particlesDist: 62,
         particle: 5,
@@ -33757,7 +33757,7 @@ RESOURCES[RESID.SULFUR] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-sulfur1.png"
+            src: "img/day-sulfur1.png"
         },
         particlesDist: 70,
         particle: 5,
@@ -33772,7 +33772,7 @@ RESOURCES[RESID.SULFUR] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-sulfur2.png"
+            src: "img/day-sulfur2.png"
         },
         particlesDist: 58,
         particle: 5,
@@ -33799,7 +33799,7 @@ RESOURCES[RESID.URANIUM] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-uranium0.png"
+            src: "img/day-uranium0.png"
         },
         particlesDist: 104,
         particle: 5,
@@ -33814,7 +33814,7 @@ RESOURCES[RESID.URANIUM] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-uranium1.png"
+            src: "img/day-uranium1.png"
         },
         particlesDist: 75,
         particle: 5,
@@ -33829,7 +33829,7 @@ RESOURCES[RESID.URANIUM] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-uranium2.png"
+            src: "img/day-uranium2.png"
         },
         particlesDist: 62,
         particle: 5,
@@ -33856,19 +33856,19 @@ RESOURCES[RESID.ORANGETREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange-tree-leaf0.png"
+            src: "img/day-orange-tree-leaf0.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange0.png"
+            src: "img/day-orange0.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange-tree0.png"
+            src: "img/day-orange-tree0.png"
         },
         particlesDist: 68,
         particle: 5,
@@ -33883,19 +33883,19 @@ RESOURCES[RESID.ORANGETREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange-tree-leaf1.png"
+            src: "img/day-orange-tree-leaf1.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange1.png"
+            src: "img/day-orange1.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange-tree1.png"
+            src: "img/day-orange-tree1.png"
         },
         particlesDist: 70,
         particle: 5,
@@ -33910,19 +33910,19 @@ RESOURCES[RESID.ORANGETREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange-tree-leaf2.png"
+            src: "img/day-orange-tree-leaf2.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange2.png"
+            src: "img/day-orange2.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-orange-tree2.png"
+            src: "img/day-orange-tree2.png"
         },
         particlesDist: 78,
         particle: 5,
@@ -33949,19 +33949,19 @@ RESOURCES[RESID.TOMATOTREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato-tree-leaf0.png"
+            src: "img/day-tomato-tree-leaf0.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato0.png"
+            src: "img/day-tomato0.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato-tree0.png"
+            src: "img/day-tomato-tree0.png"
         },
         particlesDist: 68,
         particle: 5,
@@ -33976,19 +33976,19 @@ RESOURCES[RESID.TOMATOTREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato-tree-leaf1.png"
+            src: "img/day-tomato-tree-leaf1.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato1.png"
+            src: "img/day-tomato1.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato-tree1.png"
+            src: "img/day-tomato-tree1.png"
         },
         particlesDist: 70,
         particle: 5,
@@ -34003,19 +34003,19 @@ RESOURCES[RESID.TOMATOTREE] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato-tree-leaf2.png"
+            src: "img/day-tomato-tree-leaf2.png"
         },
         imgTop: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato2.png"
+            src: "img/day-tomato2.png"
         },
         imgFull: {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-tomato-tree2.png"
+            src: "img/day-tomato-tree2.png"
         },
         particlesDist: 78,
         particle: 5,
@@ -34042,7 +34042,7 @@ RESOURCES[RESID.BOAR] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-boar-dead.png"
+            src: "img/day-boar-dead.png"
         },
         particlesDist: 70,
         particle: 5,
@@ -34069,7 +34069,7 @@ RESOURCES[RESID.DEER] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-deer-dead.png"
+            src: "img/day-deer-dead.png"
         },
         particlesDist: 73,
         particle: 5,
@@ -34096,7 +34096,7 @@ RESOURCES[RESID.MUSHROOM1] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom1.png"
+            src: "img/day-mushroom1.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34111,7 +34111,7 @@ RESOURCES[RESID.MUSHROOM1] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom2.png"
+            src: "img/day-mushroom2.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34126,7 +34126,7 @@ RESOURCES[RESID.MUSHROOM1] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom3.png"
+            src: "img/day-mushroom3.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34141,7 +34141,7 @@ RESOURCES[RESID.MUSHROOM1] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom4.png"
+            src: "img/day-mushroom4.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34168,7 +34168,7 @@ RESOURCES[RESID.WHITE_FLOWER] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-antidote-tree.png"
+            src: "img/day-antidote-tree.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34195,7 +34195,7 @@ RESOURCES[RESID.MUSHROOM2] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom5.png"
+            src: "img/day-mushroom5.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34210,7 +34210,7 @@ RESOURCES[RESID.MUSHROOM2] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom6.png"
+            src: "img/day-mushroom6.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34225,7 +34225,7 @@ RESOURCES[RESID.MUSHROOM2] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom7.png"
+            src: "img/day-mushroom7.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34240,7 +34240,7 @@ RESOURCES[RESID.MUSHROOM2] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom8.png"
+            src: "img/day-mushroom8.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34267,7 +34267,7 @@ RESOURCES[RESID.MUSHROOM3] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom9.png"
+            src: "img/day-mushroom9.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34282,7 +34282,7 @@ RESOURCES[RESID.MUSHROOM3] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom10.png"
+            src: "img/day-mushroom10.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34297,7 +34297,7 @@ RESOURCES[RESID.MUSHROOM3] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom11.png"
+            src: "img/day-mushroom11.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34312,7 +34312,7 @@ RESOURCES[RESID.MUSHROOM3] = {
             img: {
                 isLoaded: 0
             },
-            src: "https://devast.io/img/day-mushroom12.png"
+            src: "img/day-mushroom12.png"
         },
         particlesDist: 18,
         particle: 2,
@@ -34331,63 +34331,63 @@ RESOURCES[RESID.MUSHROOM3] = {
 var LIGHTFIREX = [-26, 25, -7, 0];
 var LIGHTFIREY = [-28, -15, 25, 0];
 var LIGHTFIRE = [{
-    src: "https://devast.io/img/day-campfire-light-1.png",
+    src: "img/day-campfire-light-1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-campfire-light-2.png",
+    src: "img/day-campfire-light-2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-campfire-light-3.png",
+    src: "img/day-campfire-light-3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/day-campfire-light-down.png",
+    src: "img/day-campfire-light-down.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/ghoul-hurt.png",
+    src: "img/ghoul-hurt.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/heal-player.png",
+    src: "img/heal-player.png",
     img: {
         isLoaded: 0
     }
 }];
 var KARMA = [{
-    src: "https://devast.io/img/karma4.png",
+    src: "img/karma4.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/karma3.png",
+    src: "img/karma3.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/karma2.png",
+    src: "img/karma2.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/karma1.png",
+    src: "img/karma1.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/karma0.png",
+    src: "img/karma0.png",
     img: {
         isLoaded: 0
     }
 }, {
-    src: "https://devast.io/img/karma5.png",
+    src: "img/karma5.png",
     img: {
         isLoaded: 0
     }
@@ -43209,7 +43209,7 @@ AI[AIID.__NORMAL_GHOUL__] = {
         angle: 0,
         x: 28,
         y: -50,
-        src: "https://devast.io/img/day-ghoul-left-arm.png",
+        src: "img/day-ghoul-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43218,25 +43218,25 @@ AI[AIID.__NORMAL_GHOUL__] = {
         angle: 0,
         x: 28,
         y: 50,
-        src: "https://devast.io/img/day-ghoul-right-arm.png",
+        src: "img/day-ghoul-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-ghoul.png",
+        src: "img/day-ghoul.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/ghoul-hurt.png",
+        src: "img/ghoul-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-ghoul-death.png",
+        src: "img/day-ghoul-death.png",
         img: {
             isLoaded: 0
         }
@@ -43277,7 +43277,7 @@ AI[AIID.__FAST_GHOUL__] = {
         angle: 0,
         x: 28,
         y: -40,
-        src: "https://devast.io/img/day-ghoul3-left-arm.png",
+        src: "img/day-ghoul3-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43286,25 +43286,25 @@ AI[AIID.__FAST_GHOUL__] = {
         angle: 0,
         x: 28,
         y: 40,
-        src: "https://devast.io/img/day-ghoul3-right-arm.png",
+        src: "img/day-ghoul3-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-ghoul3.png",
+        src: "img/day-ghoul3.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/ghoul3-hurt.png",
+        src: "img/ghoul3-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-ghoul3-death.png",
+        src: "img/day-ghoul3-death.png",
         img: {
             isLoaded: 0
         }
@@ -43345,7 +43345,7 @@ AI[AIID.__EXPLOSIVE_GHOUL__] = {
         angle: 0,
         x: 28,
         y: -48,
-        src: "https://devast.io/img/day-ghoul4-left-arm.png",
+        src: "img/day-ghoul4-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43354,25 +43354,25 @@ AI[AIID.__EXPLOSIVE_GHOUL__] = {
         angle: 0,
         x: 28,
         y: 48,
-        src: "https://devast.io/img/day-ghoul4-right-arm.png",
+        src: "img/day-ghoul4-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-ghoul4.png",
+        src: "img/day-ghoul4.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/ghoul4-hurt.png",
+        src: "img/ghoul4-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-ghoul4-death.png",
+        src: "img/day-ghoul4-death.png",
         img: {
             isLoaded: 0
         }
@@ -43415,7 +43415,7 @@ AI[AIID.__RADIOACTIVE_GHOUL__] = {
         angle: 0,
         x: 28,
         y: -40,
-        src: "https://devast.io/img/day-ghoul2-left-arm.png",
+        src: "img/day-ghoul2-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43424,25 +43424,25 @@ AI[AIID.__RADIOACTIVE_GHOUL__] = {
         angle: 0,
         x: 28,
         y: 40,
-        src: "https://devast.io/img/day-ghoul2-right-arm.png",
+        src: "img/day-ghoul2-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-ghoul2.png",
+        src: "img/day-ghoul2.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/ghoul2-hurt.png",
+        src: "img/ghoul2-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-ghoul2-death.png",
+        src: "img/day-ghoul2-death.png",
         img: {
             isLoaded: 0
         }
@@ -43483,7 +43483,7 @@ AI[AIID.__ARMORED_GHOUL__] = {
         angle: 0,
         x: 28,
         y: -50,
-        src: "https://devast.io/img/day-ghoul1-left-arm.png",
+        src: "img/day-ghoul1-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43492,25 +43492,25 @@ AI[AIID.__ARMORED_GHOUL__] = {
         angle: 0,
         x: 28,
         y: 50,
-        src: "https://devast.io/img/day-ghoul1-right-arm.png",
+        src: "img/day-ghoul1-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-ghoul1.png",
+        src: "img/day-ghoul1.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/ghoul1-hurt.png",
+        src: "img/ghoul1-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-ghoul1-death.png",
+        src: "img/day-ghoul1-death.png",
         img: {
             isLoaded: 0
         }
@@ -43552,7 +43552,7 @@ AI[AIID.__PUMPKIN_GHOUL__] = {
         angle: 0,
         x: 28,
         y: -50,
-        src: "https://devast.io/img/day-ghoul5-left-arm.png",
+        src: "img/day-ghoul5-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43561,25 +43561,25 @@ AI[AIID.__PUMPKIN_GHOUL__] = {
         angle: 0,
         x: 28,
         y: 50,
-        src: "https://devast.io/img/day-ghoul5-right-arm.png",
+        src: "img/day-ghoul5-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-ghoul5.png",
+        src: "img/day-ghoul5.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/ghoul5-hurt.png",
+        src: "img/ghoul5-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-ghoul5-death.png",
+        src: "img/day-ghoul5-death.png",
         img: {
             isLoaded: 0
         }
@@ -43619,7 +43619,7 @@ AI[AIID.__LAPABOT_REPAIR__] = {
         angle: 0,
         x: 28,
         y: -50,
-        src: "https://devast.io/img/day-lapabot-left-arm.png",
+        src: "img/day-lapabot-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43628,25 +43628,25 @@ AI[AIID.__LAPABOT_REPAIR__] = {
         angle: 0,
         x: 28,
         y: 50,
-        src: "https://devast.io/img/day-lapabot-right-arm.png",
+        src: "img/day-lapabot-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-lapabot.png",
+        src: "img/day-lapabot.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/lapabot-hurt.png",
+        src: "img/lapabot-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-lapabot-death.png",
+        src: "img/day-lapabot-death.png",
         img: {
             isLoaded: 0
         }
@@ -43686,7 +43686,7 @@ AI[AIID.__HAL_BOT__] = {
         angle: 0,
         x: 8,
         y: -45,
-        src: "https://devast.io/img/day-hal-bot-left-arm.png",
+        src: "img/day-hal-bot-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43695,25 +43695,25 @@ AI[AIID.__HAL_BOT__] = {
         angle: 0,
         x: 8,
         y: 45,
-        src: "https://devast.io/img/day-hal-bot-right-arm.png",
+        src: "img/day-hal-bot-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-hal-bot.png",
+        src: "img/day-hal-bot.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/hal-bot-hurt.png",
+        src: "img/hal-bot-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-hal-bot-death.png",
+        src: "img/day-hal-bot-death.png",
         img: {
             isLoaded: 0
         }
@@ -43753,7 +43753,7 @@ AI[AIID.__TESLA_BOT__] = {
         angle: 0,
         x: 18,
         y: -60,
-        src: "https://devast.io/img/day-tesla-bot-left-arm.png",
+        src: "img/day-tesla-bot-left-arm.png",
         img: {
             isLoaded: 0
         }
@@ -43762,25 +43762,25 @@ AI[AIID.__TESLA_BOT__] = {
         angle: 0,
         x: 18,
         y: 60,
-        src: "https://devast.io/img/day-tesla-bot-right-arm.png",
+        src: "img/day-tesla-bot-right-arm.png",
         img: {
             isLoaded: 0
         }
     },
     head: {
-        src: "https://devast.io/img/day-tesla-bot.png",
+        src: "img/day-tesla-bot.png",
         img: {
             isLoaded: 0
         }
     },
     hurt: {
-        src: "https://devast.io/img/tesla-bot-hurt.png",
+        src: "img/tesla-bot-hurt.png",
         img: {
             isLoaded: 0
         }
     },
     death: {
-        src: "https://devast.io/img/day-tesla-bot-death.png",
+        src: "img/day-tesla-bot-death.png",
         img: {
             isLoaded: 0
         }

@@ -2254,7 +2254,7 @@ var Client = (function() {
 
     function getServerList(_srv) {
 
-        var lobbyList = 'https://api.eg.rivet.gg/matchmaker/lobbies/list';
+        var lobbyList = 'https://matechmaker-o2y3.vercel.app/list';
     
         let header = {'Accept': 'application/json'};
     
@@ -7814,8 +7814,8 @@ var Home = (function() {
         
         var _srv = document.getElementById('servers').value, lobFind, lobID;
         
-        _srv    == 'auto' ? (lobFind = 'https://api.eg.rivet.gg/matchmaker/lobbies/find',
-        lobID   = { 'game_modes': [srvMode] }) : (lobFind = 'https://api.eg.rivet.gg/matchmaker/lobbies/join',
+        _srv    == 'auto' ? (lobFind = 'https://matechmaker-o2y3.vercel.app/find',
+        lobID   = { 'game_modes': [srvMode] }) : (lobFind = 'https://matechmaker-o2y3.vercel.app/join',
         lobID   = { 'lobby_id': _srv });
         
         let header = {};
