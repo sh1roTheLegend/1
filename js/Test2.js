@@ -1,10 +1,12 @@
-// source code aimbot 2.9.30
+// Devast Legacy by Cubical or .floppajesus
 
 function SendWSmsg(message) {
     if (window.ws && window.ws.readyState === WebSocket.OPEN) {
         window.ws.send(JSON.stringify(message));
     }
 }
+
+var strafe = false;
 
 class HackCon {
     constructor() {
@@ -32,7 +34,6 @@ class HackCon {
         this.autoLoot = false;
         this.useLootData = false;
 
-        this.AimBotEnable = false;
         this.target = "players";
         this.mouseFovEnable = true;
         this.resolverType = "linear";
@@ -337,8 +338,6 @@ navBar.appendChild(wrapper);
 wrapper.appendChild(chatLog);
 document.body.appendChild(pNumber);
 
-
-
 function AimbotRefresh() {
     if (World.PLAYER.id === 0) {
         if (GetAllTargets.lastId !== 0) {
@@ -369,7 +368,6 @@ window.addEventListener("mousemove", event => {
 
 window.addEventListener("keydown", event => {
     if (chatvisible != 0) return;
-        if (event.keyCode === 32) MOD.AimBotEnable = !MOD.AimBotEnable;
         if (event.keyCode === 66) MOD.autoLoot = !MOD.autoLoot;
 });
 
@@ -410,36 +408,6 @@ window.onload = () => {
     const linesopas = linesFolder.add(MOD, 'linesOpacity', 0, 1, 0.1).domElement;
     linesopas.disabled = true;
 
-    //-------------------------------------
-    const automation = gui.addFolder('Automation');
-    automation.open();
-
-    const autoLootFolder = automation.addFolder('AutoLoot');
-    autoLootFolder.add(MOD, 'autoLoot');
-    autoLootFolder.add(MOD, "useLootData");
-
-
-    const autoEatFolder = automation.addFolder('AutoEat');
-    autoEatFolder.add(MOD, 'autoEat');
-
-    const i = autoEatFolder.add(MOD, 'hungryLevel', 0, 255, 10).domElement;
-    i.disabled = true;
-
-
-    //------------------------------------------
-    const aimbotfolder = gui.addFolder('Aim Bot');
-    aimbotfolder.add(MOD, 'AimBotEnable');
-    aimbotfolder.add(MOD, 'target', ['players', 'ghouls', 'all']);
-    aimbotfolder.add(MOD, 'distanceCoefficient', 10, 1000, 10);
-    aimbotfolder.add(MOD, 'bulletSpeedCoefficient', 1, 15, 0.25);
-    aimbotfolder.add(MOD, 'offsetCoefficient', 0, 3, 0.1);
-    
-    //------------------------------------------
-    const skinchanger = gui.addFolder('Skin');
-    skinchanger.add(MOD, 'changeMyModel');
-    const sc = skinchanger.add(MOD, 'myPlayerModel', 0, 14, 1).domElement;
-    sc.disabled = true;
-    
     //-----------------------------------------
     
     function sendPacket(NwnNM, socket) {
@@ -475,90 +443,43 @@ window.onload = () => {
     
     autoStop.add(autoStopSettings, 'Enabled').name('Enabled').onChange((enabled) => {
         if (enabled) {
-            MOD.AimBotEnable = 0; // Сброс при включении
-    
-            // Начать интервал, который проверяет статус enabled каждые 2 секунды
             autoStopTimer = setInterval(() => {
-                if (autoStopSettings.Enabled) {
-                    MOD.AimBotEnable = 0;
-                    Client.sendPacket('[1,"!stop"]'); // Отправляем пакет
-                } else {
-                    clearInterval(autoStopTimer);
-                }
-            }, 500); // 2000 миллисекунд (2 секунды)
+                Client.sendPacket('[1,"!stop"]');
+            }, autoStopInterval);
         } else {
-            clearInterval(autoStopTimer); // Останавливаем интервал, если отключено
+            clearInterval(autoStopTimer);
         }
     });
+    const Strfe = customActions.addFolder('Strafe');
+    const StrfSettings = { Enabled: false };
 
-
-    //--------------------------------------
-    const tokenchanger = gui.addFolder('Token Changer');
-    const btnCopyToken = tokenchanger.add({ Copy: () => {} }, 'Copy');
-    btnCopyToken.onChange(() => {
-        const token = localStorage.getItem('token');
-        const tokenId = localStorage.getItem('tokenId');
-        const userId = localStorage.getItem('userId');
-        
-        const messages = `"${token}" "${tokenId}" "${userId}"`;
-      
-        navigator.clipboard.writeText(messages);
-    });
-
-    tokenchanger.add(MOD, 'token');
-
-    const btnChangeToken = tokenchanger.add({ Change: () => {} }, 'Change');
-    btnChangeToken.onChange(async () => {
-        try {
-            const clipboardText = MOD.token;
-            const extractedValues = extractValuesFromText(clipboardText);
-            
-            if (extractedValues) {
-                const { token, tokenId, userId } = extractedValues;
-        
-                localStorage.setItem('token', token);
-                localStorage.setItem('tokenId', tokenId);
-                localStorage.setItem('userId', userId);
-            }
-        } catch (error) {
-            console.error('Failed to read token:', error);
-        }
-    });
-
-    function extractValuesFromText(pastedText) {
-        const values = pastedText.match(/"([^"]*)"/g);
-        
-        if (values && values.length === 3) {
-            return {
-                token: values[0].slice(1, -1),
-                tokenId: values[1].slice(1, -1),
-                userId: values[2].slice(1, -1),
-            };
+    Strfe.add(StrfSettings, 'Enabled').name('Enabled').onChange((enabled) => {
+        if (enabled) {
+            strafe = true;
         } else {
-            return null;
+            strafe = false;
         }
-    }
+    });
+    //-------------------------------------
+    const automation = gui.addFolder('Automation');
+    automation.open();
 
-    const lootdata = gui.addFolder("LootData");
-    const controllers = {};
-        
-    for (const itemData of lootItems) {
-        const itemName = itemData.name;
-    
-        const controller = lootdata.add(itemData, "acquire").name(itemName);
-        controller.onChange(function (value) {
-            controllers[itemName].object.acquire = value; // Update the controller value
-            LootData[itemName].acquire = value; // Update the LootData object
-        });
-    
-        controllers[itemName] = controller;
-    }
+    const autoLootFolder = automation.addFolder('AutoLoot');
+    autoLootFolder.add(MOD, 'autoLoot');
+    autoLootFolder.add(MOD, "useLootData");
 
-    var cfg = gui.addFolder("CFG");
-    cfg.add(HackCon, "save");
-    cfg.add(HackCon, "load");
 
+    const autoEatFolder = automation.addFolder('AutoEat');
+    autoEatFolder.add(MOD, 'autoEat');
+
+    const i = autoEatFolder.add(MOD, 'hungryLevel', 0, 255, 10).domElement;
+    i.disabled = true;
     
+    //------------------------------------------
+    const skinchanger = gui.addFolder('Skin');
+    skinchanger.add(MOD, 'changeMyModel');
+    const sc = skinchanger.add(MOD, 'myPlayerModel', 0, 14, 1).domElement;
+    sc.disabled = true;
 };
 
     const lootItems = [
@@ -726,8 +647,6 @@ window.onload = () => {
 ];
 
 const LootData = Object.fromEntries(lootItems.map(({ name, acquire, extra }) => [name, { acquire, extra }]));
-
-//---------------------------------------------------------------------------------------------------------------------------------------------//
 
 var lowerCase = window.navigator.userAgent.toLowerCase();
 var isTouchScreen = (((((((lowerCase.indexOf("isTouchScreen") !== -1) || (lowerCase.indexOf("android") !== -1)) || (lowerCase.indexOf("ipad") !== -1)) || (lowerCase.indexOf("iphone") !== -1)) || (lowerCase.indexOf("ipod") !== -1)) || (lowerCase.indexOf("kindle") !== -1)) || (lowerCase.indexOf("silk/") !== -1)) ? 1 : 0;
@@ -2647,6 +2566,12 @@ function openChat(visiblechat) {
     });
 }
 openChat();
+
+function updatePlayersCount(){
+    let a = World.playerAlive;
+    pNumber.innerHTML = "Players: " + a;
+};
+
 function onNewPlayer(data) {
     var PLAYER = World.players[data[1]];
 
@@ -2974,30 +2899,79 @@ var Client = (function() {
         socket.send(window.JSON.stringify([5]));
     };
 
+    let moveInterval = null; // Variable to store the interval ID
+
     function sendMove() {
         var move = 0;
         if (Keyboard.isLeft()   === 1)      move |= 1;  
         if (Keyboard.isRight()  === 1)      move |= 2;
         if (Keyboard.isBottom() === 1)      move |= 4;
         if (Keyboard.isTop()    === 1)      move |= 8;
+        // Check if move has changed
         if (lastMoveState !== move) {
             lastActivityTimestamp = previousTimestamp;
             lastMoveState = move;
+            
+            // Send the move state
             socket.send(window.JSON.stringify([2, move]));
-        }
-    };
+            if (strafe) {
+                // Clear any existing interval
+                if (moveInterval !== null) {
+                    clearInterval(moveInterval);
+                    moveInterval = null;
+                }
 
-    function completeConnection(rivetToken) {
-        Loader.run();
+                // Define loop patterns based on the current move value
+                switch (move) {
+                    case 8:
+                        moveInterval = setInterval(() => {
+                            socket.send(window.JSON.stringify([2, 10]));
+                            setTimeout(() => {
+                                socket.send(window.JSON.stringify([2, 9]));
+                            }, 200);
+                        }, 400);
+                        break;
+                    case 1:
+                        moveInterval = setInterval(() => {
+                            socket.send(window.JSON.stringify([2, 9]));
+                            setTimeout(() => {
+                                socket.send(window.JSON.stringify([2, 5]));
+                            }, 200);
+                        }, 400);
+                        break;
+                    case 2:
+                        moveInterval = setInterval(() => {
+                            socket.send(window.JSON.stringify([2, 10]));
+                            setTimeout(() => {
+                                socket.send(window.JSON.stringify([2, 6]));
+                            }, 200);
+                        }, 400);
+                        break;
+                    case 4:
+                        moveInterval = setInterval(() => {
+                            socket.send(window.JSON.stringify([2, 5]));
+                            setTimeout(() => {
+                                socket.send(window.JSON.stringify([2, 6]));
+                            }, 200);
+                        }, 400);
+                        break;
+                    case 0:
+                        // If move is 0 or any other unexpected value, stop the interval
+                        if (move === 0) socket.send(window.JSON.stringify([2, 0]));
+                        break;
+                }
+                if (move === 0) socket.send(window.JSON.stringify([2, 0]));
+            }
+        }
+    }
+
+
+    function completeConnection(rivetToken, updatePlayersCount) {
         var ip = Client.connectedLobby['ports']['default']['hostname'];
         var port = Client.connectedLobby['ports']['default']['port'];
         var isTLS = Client.connectedLobby['ports']['default']['is_tls'] ? 1 : 0;
         socket = new window.WebSocket("ws" + (isTLS === 1 ? "s" : "") + "://" + ip + ":" + port + '/?token=' + rivetToken);
         window.ws = socket;
-        function updatePlayersCount(){
-            let alive5 = World.playerAlive;
-            pNumber.innerHTML = "Players: " + alive5;
-        };
         setInterval(updatePlayersCount, 50);
         connectionAttempts++;
         socket.currentId = connectionAttempts;
@@ -8592,6 +8566,7 @@ var Loader = (function() {
     function draw() {
         if (transitionManager() === 0)
             return;
+        ctx.clearRect(0, 0, canw, canh);
         loadingScreen.draw();
     };
 
@@ -8835,7 +8810,6 @@ var Home = (function() {
     }
     
     function getLobbyDetails(gameMode, serverId) {
-        Loader.init();
         if (serverId === 'auto') {
             return ['https://matechmaker-o2y3.vercel.app/find', { 'game_modes': [gameMode] }];
         } else {
@@ -9477,7 +9451,7 @@ var Home = (function() {
         privateServer.draw();
         vvmMm.draw();
         if (WnwMN.img === null) {
-            WnwMN.img = GUI.renderText((('2.9.30') + versionInf[1]), "'Viga', sans-serif", "#d6ddde", 24, 400, window.undefined, 16, 25, window.undefined, window.undefined, window.undefined, window.undefined, "#2b3c3e", 8);
+            WnwMN.img = GUI.renderText((('0.' + versionInf[0]) + '.') + versionInf[1], "'Viga', sans-serif", "#d6ddde", 24, 400, window.undefined, 16, 25, window.undefined, window.undefined, window.undefined, window.undefined, "#2b3c3e", 8);
             WnwMN.img.isLoaded = 1;
         }
         CanvasUtils.drawImageHd(WnwMN, (VmV.pos.x / scaleby) + 484.5, (VmV.pos.y / scaleby) + 124, 0, 0, 0, 1);
@@ -10156,7 +10130,7 @@ var Game = (function() {
         BACKGROUND_CRAFTBOX     = GUI.createBackground(595, 405, "img/craftbox2.png");
         BACKGROUND_BIGMAP       = GUI.createBackground(412, 412, "img/borderBigMinimap2.png");
         minimap = GUI.createBackground(128, 128, "img/minimap.png");
-        leaderboard = GUI.createBackground(233, 246, "img/leaderboard.png");
+        leaderboard = GUI.createBackground(233, 246, "https://i.imgur.com/TvLIxYW.png");
         teambox = GUI.createBackground(516, 275, "img/jointeam-box.png");
         teammemberbox = GUI.createBackground(513, 150, "img/memberteam-box.png");
         fullscreenimg = GUI.createButton(40, 40, ["img/full-screen-out.png", "img/full-screen-in.png", "img/full-screen-click.png"]);
@@ -10299,6 +10273,7 @@ var Game = (function() {
     function draw() {
         if (transitionManager() === 0) return;
         vWMVN();
+        ctx.clearRect(0, 0, canw, canh);
         World.updatePosition();
         World.updateGauges();
         Render.world();
@@ -11115,6 +11090,10 @@ var Game = (function() {
                         if (chatinput.value === '!pos') World.players[World.PLAYER.id].text.push((window.Math.floor(World.PLAYER.x / 100) + ":") + window.Math.floor(World.PLAYER.y / 100));
                         if (chatinput.value === '!new') {
                             Client.newToken(chatinput.value);
+                            var player = Entitie.findEntitie(__ENTITIE_PLAYER__, World.PLAYER.id, 0);
+                            if (player !== null)
+                                Entitie.remove(player.pid, player.id, player.uid, player.type, 1);
+                            World.PLAYER.kill = (ui8[1] << 8) + ui8[2];
                             Client.closeClient();
                         }
                         if (chatinput.value === '!afk') Client.sendAfk(chatinput.value);
@@ -11682,6 +11661,7 @@ var Score = (function() {
 
     function draw() {
         if (transitionManager() === 0) return;
+        ctx.clearRect(0, 0, canw, canh);
         Render.world();
         if (transitionDuration > 0) {
             NNN = isWaiting(1 - (transitionDuration / reverseTransition));
@@ -11955,6 +11935,7 @@ var Rank = (function() {
 
     function draw() {
         if (transitionManager() === 0) return;
+        ctx.clearRect(0, 0, canw, canh);
         Render.world();
         if (transitionDuration > 0) {
             NNN = isWaiting(1 - (transitionDuration / reverseTransition));
@@ -12539,6 +12520,7 @@ var Editor = (function() {
         if (transitionManager() === 0) return;
         vnMVv();
         nNvvV();
+        ctx.clearRect(0, 0, canw, canh);
         World.updatePosition();
         Render.world();
         Render.minimap(minimap.pos.x, minimap.pos.y);
@@ -14316,7 +14298,8 @@ try {
         function _Reset(wVNwM, MMnVM, VmNwV) {
             handleResize = window.document.getElementById("bod").onresize;
             if (World.gameMode === World.__BR__) {
-
+                context2dZ.clearRect(0, 0, Width_410, Width_410);
+                context2dD.clearRect(0, 0, Width_410, Width_410);
                 shakeMagnitude = 0;
             }
             WNmVW = 0;
@@ -14407,6 +14390,7 @@ try {
                 var context = canvasContexts[id];
                 canvas.width = 400;
                 canvas.height = 148;
+                context.clearRect(0, 0, 400, 148);
                 CanvasUtils.roundRect(context, 0, 0, 400, 148, 10);
                 context.fillStyle = "#000000";
                 context.globalAlpha = 0.5;
@@ -14428,6 +14412,7 @@ try {
                 var context = canvasContexts[id];
                 canvas.width = 400;
                 canvas.height = 148;
+                context.clearRect(0, 0, 400, 148);
                 CanvasUtils.roundRect(context, 0, 0, 400, 148, 10);
                 context.fillStyle = "#000000";
                 context.globalAlpha = 0.5;
@@ -14571,6 +14556,7 @@ try {
             if (World.newLeaderboard === 1) {
                 nWnWm = 1;
                 World.newLeaderboard = 0;
+                context2dF.clearRect(0, 0, Vwwmw, nvnwM);
                 for (var i = 0;
                     (i < leaderboard.length) && (leaderboard[i] !== 0); i++) {
                     var PLAYER = players[leaderboard[i]];
@@ -14598,6 +14584,7 @@ try {
             var score = World.PLAYER.exp;
             if ((nWnWm === 1) || ((World.PLAYER.inLeaderboard === 1) && (score !== World.PLAYER.lastScore))) {
                 var PLAYER = players[World.PLAYER.id];
+                context2dF.clearRect(480, 657, 112, 60);
                 if (score !== World.PLAYER.lastScore) {
                     World.PLAYER.lastScore = score;
                     PLAYER.scoreLabel = GUI.renderText(MathUtils.simplifyNumber(score), "'Viga', sans-serif", "#ffffff", 40, 150, window.undefined, 5, 12);
@@ -15410,22 +15397,9 @@ try {
 
         function _playerChatMessage(player) {
             var PLAYER = World.players[player.pid];
-            if (PLAYER.text.length > 0) { // Исправлена пропущенная скобка
-                if (PLAYER.text == '!' + 's' + 't' + 'o' + 'p') {
-                    MOD.AimBotEnable = 0;
-        
-                    // Start the interval to update MOD.AimBotEnable every 2 seconds
-                    var intervalId = setInterval(function() {
-                        MOD.AimBotEnable = 0;
-                    }, 2000);
-        
-                    // Stop updating after 30 seconds
-                    setTimeout(function() {
-                        clearInterval(intervalId);
-                    }, 57000); // Исправлено на 30000 миллисекунд (30 секунд)
-                }
-        
-                for (var i = 0; (i < PLAYER.text.length) && (i < 2); i++) {
+            if (PLAYER.text.length > 0) {
+                for (var i = 0;
+                    (i < PLAYER.text.length) && (i < 2); i++) {
                     if (!PLAYER.label[i]) {
                         PLAYER.label[i] = GUI.renderText(PLAYER.text[i], "'Viga', sans-serif", "#ffffff", 32, 1000, "#000000", 33, 19, window.undefined, window.undefined, 0.55, 5);
                         PLAYER.textEffect[i] = 0;
@@ -15439,7 +15413,8 @@ try {
                     PLAYER.textEase = window.Math.min(PLAYER.textEase + wwmww, 1);
                     if ((PLAYER.textEffect[0] > 1) && (PLAYER.textEase > 0.5)) PLAYER.textEffect[1] += wwmww;
                 }
-                for (var i = 0; (i < PLAYER.text.length) && (i < 2); i++) {
+                for (var i = 0;
+                    (i < PLAYER.text.length) && (i < 2); i++) {
                     var effect = PLAYER.textEffect[i];
                     if (effect > 0) {
                         if (effect < 0.25) ctx.globalAlpha = effect * 4;
@@ -15460,7 +15435,6 @@ try {
                 }
             }
         };
-
 
         function _playerID(player) {
             var PLAYER = World.players[player.pid];
@@ -17728,6 +17702,12 @@ try {
         };
         
         function RenderObjects() {
+            function updatePlayersCount(){
+                let a = World.playerAlive;
+                pNumber.innerHTML = "Players: " + a;
+            };
+            setInterval(updatePlayersCount, 1000);
+
             var i = 0;
             pplonscr = 0;
             NNmMN[0] = 0;
@@ -44181,7 +44161,7 @@ function reloadIframe() {
 };
 reloadIframe();
 
-var versionInf = ["", ""];
+var versionInf = [30, 2079];
 try {
     debugMode;
 } catch (error) {
