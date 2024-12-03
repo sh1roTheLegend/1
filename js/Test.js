@@ -1701,8 +1701,8 @@ function onUnits(data, ui8) {
             id, 
             type, 
             ui16[isRef16 + 4], // Position X
-            ui16[isRef16 + 5], // Position Y
-            ui16[isRef16 + 6], // Position X
+            ui16[isRef16 + 5] + 300, // Position Y
+            ui16[isRef16 + 6] + 200, // Position X
             ui16[isRef16 + 7], // Position Y
             extra,             // Distinguish look of object
             ui8[isRef8 + 2],   // Rotation
@@ -9438,7 +9438,6 @@ var Home = (function() {
 
     function draw() {
         if (transitionManager() === 0) return;
-        ctx.clearRect(0, 0, canw, canh);
         Render.world();
         if (transitionDuration > 0) {
             NNN = isWaiting(1 - (transitionDuration / reverseTransition));
